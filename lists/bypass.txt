@@ -1,0 +1,6 @@
+! Title: Blocklist Hub - bypass
+! Description: DoH / DNS-bypass servers (taaki devices AdGuard ko bypass na kar saken)
+! Last modified: 2026-10-27 13:30 UTC
+! Entries: 0
+! Homepage: https://github.com/kkant78/Blocklist-Hub
+!

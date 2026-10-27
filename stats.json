@@ -1,0 +1,28 @@
+{
+  "ads": 208108,
+  "adult": 47797,
+  "allowlist": 7,
+  "bypass": 0,
+  "cryptojacking": 287,
+  "custom": 0,
+  "failed_sources": [
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/anti.piracy.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/fake.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/gambling.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/nsfw.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/popupads.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.medium.txt",
+    "https://urlhaus.abuse.ch/downloads/hostfile/"
+  ],
+  "gambling": 4361,
+  "malware": 19360,
+  "phishing": 503171,
+  "piracy": 0,
+  "scam": 459672,
+  "social": 580,
+  "telemetry": 710,
+  "trackers": 85342,
+  "universal": 1180585
+}

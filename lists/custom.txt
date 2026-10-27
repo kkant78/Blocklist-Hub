@@ -1,0 +1,6 @@
+! Title: Blocklist Hub - custom
+! Description: Meri apni block list (custom/block.txt)
+! Last modified: 2026-10-27 13:30 UTC
+! Entries: 0
+! Homepage: https://github.com/kkant78/Blocklist-Hub
+!

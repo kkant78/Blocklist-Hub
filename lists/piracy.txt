@@ -1,0 +1,6 @@
+! Title: Blocklist Hub - piracy
+! Description: Piracy / torrent sites
+! Last modified: 2026-10-27 13:30 UTC
+! Entries: 0
+! Homepage: https://github.com/kkant78/Blocklist-Hub
+!
