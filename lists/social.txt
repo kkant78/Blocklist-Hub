@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - social
 ! Description: Social media
-! Last modified: 2026-10-27 13:30 UTC
-! Entries: 580
+! Last modified: 2026-10-27 14:07 UTC
+! Entries: 570
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||abs.twimg.com^
@@ -259,9 +259,6 @@
 ||allotalk.com^
 ||amp-reddit-com.cdn.ampproject.org^
 ||amp.twimg.com^
-||analytics.tiktok.com.bytewlb.akadns.net^
-||analytics.tiktok.com.edgekey.net^
-||badoo.com^
 ||bsky.app^
 ||bsky.social^
 ||bumble.com^
@@ -289,7 +286,6 @@
 ||facebook.com.br^
 ||facebook.com.es^
 ||facebook.com.mx^
-||facebook.com.vn^
 ||facebook.de^
 ||facebook.design^
 ||facebook.dk^
@@ -370,14 +366,12 @@
 ||instagramstatic-a.akamaihd.net^
 ||instagramstatic-a.akamaihd.net.edgesuite.net^
 ||internet.org^
-||isnssdk.com^
 ||joinclubhouse.com^
 ||jp.twimg.com^
 ||jtvnw.net^
 ||lf1-ttcdn-tos.pstatp.com^
 ||licdn.com^
 ||licdn.com.cdn.cloudflare.net^
-||likee.video^
 ||linkedin.com^
 ||linkedin.com.br^
 ||linkedin.com.cdn.cloudflare.net^
@@ -390,7 +384,6 @@
 ||ma1.twimg.com^
 ||ma2.twimg.com^
 ||ma3.twimg.com^
-||match.com^
 ||messages-facebook.com^
 ||messenger.com^
 ||mon-va.tiktokv.com.edgesuite.net^
@@ -402,7 +395,6 @@
 ||myspace.com^
 ||myspacecdn.com^
 ||o.twimg.com^
-||okcupid.com^
 ||p.twimg.com^
 ||p1-tt-ipv6.byteimg.com^
 ||p1-tt.byteimg.com^
@@ -452,7 +444,6 @@
 ||pinterestcareers.com^
 ||pinterestinc.com^
 ||platform.foursquare.com^
-||pof.com^
 ||profile.ak.facebook.com.edgesuite.net^
 ||pull-f3-hs.pstatp.com^
 ||pull-f5-hs.flive.pstatp.com^
@@ -489,7 +480,6 @@
 ||s.ads-twitter.com^
 ||s.twimg.com^
 ||sac-h-ct-m-fbx.fbsbx.com.online-metrix.net^
-||sf1-ttcdn-tos.pstatp.com^
 ||sf16-ttcdn-tos.ipstatp.com^
 ||sf6-ttcdn-tos.pstatp.com^
 ||sgali3.l.byteoversea.net^
