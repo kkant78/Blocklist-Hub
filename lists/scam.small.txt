@@ -1,0 +1,39 @@
+! Title: Blocklist Hub - scam.small
+! Description: Scam, fraud, spam, fake shops [small]
+! Last modified: 2026-10-27 19:19 UTC
+! Entries: 33
+! Homepage: https://github.com/kkant78/Blocklist-Hub
+!
+||638f474304a2b.site123.me^
+||adc0219647979.page.link^
+||aliceblue-alligator-117543.hostingersite.com^
+||allinstockgmbh.company.site^
+||besttobuy.company.site^
+||de.cardionv.com^
+||eco-pellet.company.site^
+||epicooler.checkoutera.com^
+||es.landofm.com^
+||forbes.gpttrader.org^
+||fr.fundiza.com^
+||gamer-held.b-cdn.net^
+||gemstarz.company.site^
+||geri-fashion.company.site^
+||h4g3z1-fake.web.app^
+||hippo2.eth.limo^
+||hoeschag.company.site^
+||installateur-meister-plus-notdienst-24h-linz-plus.jimdosite.com^
+||ledgerliveapps.web.app^
+||miginvestgr.tiiny.site^
+||pellet-bio.company.site^
+||pellet-ecos.company.site^
+||presale-amswallet.replit.app^
+||projetxtreme.blogspot.fr^
+||reifendienst-notdienst.jimdosite.com^
+||reiseweltat6.wixsite.com^
+||ro6.landofm.com^
+||spontaneous-bubblegum-6d5740.netlify.app^
+||temp-dxvrqxhirzbigzysagqp.webadorsite.com^
+||the-garden-pavilions-of-sobranie-russian.eshop.t-online.de^
+||webtrader.quantiumax.net^
+||www.5fdb2331d9d15.site123.me^
+||zabawechtaseba.teachable.com^

@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - cryptojacking
 ! Description: Browser crypto-miners
-! Last modified: 2026-10-27 14:07 UTC
-! Entries: 215
+! Last modified: 2026-10-27 19:19 UTC
+! Entries: 223
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||1q2w3.fun^
@@ -48,12 +48,15 @@
 ||cnt.statistic.date^
 ||coin-have.com^
 ||coinblind.com^
+||coinhiveproxy.com^
 ||coinminingonline.com^
 ||coinnebula.com^
 ||coinpirate.cf^
 ||coinpot.co^
 ||coinrail.io^
 ||contribute.to-support.me^
+||crypto-loot.com^
+||crypto-webminer.com^
 ||d.cpufan.club^
 ||dark-utilities.me^
 ||dark-utilities.pw^
@@ -71,6 +74,7 @@
 ||ethereum-pocket.de^
 ||ethereum-pocket.eu^
 ||eu.cfcdist.loan^
+||exdynsrv.com^
 ||f1tbit.com^
 ||flighty.win^
 ||flightzy.date^
@@ -88,6 +92,7 @@
 ||hive.tubetitties.com^
 ||ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet^
 ||ininmacerad.pro^
+||intelserviceupdate.com^
 ||jqcdn01.herokuapp.com^
 ||jqcdn03.herokuapp.com^
 ||jqcdn2.herokuapp.com^
@@ -106,6 +111,7 @@
 ||minemytraffic.com^
 ||miner.beeppool.org^
 ||miner.nablabee.com^
+||minerad.com^
 ||minero-proxy-01.now.sh^
 ||minero-proxy-02.now.sh^
 ||minero-proxy-03.now.sh^
@@ -184,6 +190,7 @@
 ||us.cfcdist.loan^
 ||vceilinichego.ru^
 ||videoplayer2.xyz^
+||vkcdnservice.com^
 ||vmi503011.contaboserver.net^
 ||vuryua.ru^
 ||webmine.cz^
@@ -218,4 +225,5 @@
 ||www.sparechange.io^
 ||www.verifier.live^
 ||www.webassembly.stream^
+||xmr.2miners.com^
 ||zymerget.win^

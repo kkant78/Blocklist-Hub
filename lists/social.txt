@@ -1,11 +1,12 @@
 ! Title: Blocklist Hub - social
 ! Description: Social media
-! Last modified: 2026-10-27 14:07 UTC
-! Entries: 570
+! Last modified: 2026-10-27 19:19 UTC
+! Entries: 580
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||abs.twimg.com^
 ||abtest-sg-tiktok.byteoversea.com^
+||abtest-va-tiktok.byteoversea.com^
 ||ae0.bb01.ams2.tfbnw.net^
 ||ae0.bb01.atl1.tfbnw.net^
 ||ae0.bb01.bos2.tfbnw.net^
@@ -259,6 +260,7 @@
 ||allotalk.com^
 ||amp-reddit-com.cdn.ampproject.org^
 ||amp.twimg.com^
+||badoo.com^
 ||bsky.app^
 ||bsky.social^
 ||bumble.com^
@@ -286,6 +288,7 @@
 ||facebook.com.br^
 ||facebook.com.es^
 ||facebook.com.mx^
+||facebook.com.vn^
 ||facebook.de^
 ||facebook.design^
 ||facebook.dk^
@@ -372,6 +375,7 @@
 ||lf1-ttcdn-tos.pstatp.com^
 ||licdn.com^
 ||licdn.com.cdn.cloudflare.net^
+||likee.video^
 ||linkedin.com^
 ||linkedin.com.br^
 ||linkedin.com.cdn.cloudflare.net^
@@ -384,6 +388,7 @@
 ||ma1.twimg.com^
 ||ma2.twimg.com^
 ||ma3.twimg.com^
+||match.com^
 ||messages-facebook.com^
 ||messenger.com^
 ||mon-va.tiktokv.com.edgesuite.net^
@@ -395,6 +400,7 @@
 ||myspace.com^
 ||myspacecdn.com^
 ||o.twimg.com^
+||okcupid.com^
 ||p.twimg.com^
 ||p1-tt-ipv6.byteimg.com^
 ||p1-tt.byteimg.com^
@@ -432,6 +438,7 @@
 ||pinterest.fr^
 ||pinterest.global.map.fastly.net^
 ||pinterest.ie^
+||pinterest.ink^
 ||pinterest.it^
 ||pinterest.jp^
 ||pinterest.map.fastly.net^
@@ -444,6 +451,7 @@
 ||pinterestcareers.com^
 ||pinterestinc.com^
 ||platform.foursquare.com^
+||pof.com^
 ||profile.ak.facebook.com.edgesuite.net^
 ||pull-f3-hs.pstatp.com^
 ||pull-f5-hs.flive.pstatp.com^
@@ -486,9 +494,11 @@
 ||sgsnssdk.com^
 ||snapchat.com^
 ||ssl2.twitter.com.edgekey.net^
+||static.ads-twitter.com^
 ||static.ak.facebook.com.edgesuite.net^
 ||syndication-o.twimg.com^
 ||syndication.twimg.com^
+||t.co^
 ||tailfeather.twimg.com^
 ||thefacebook.com^
 ||threads.net^
@@ -569,8 +579,8 @@
 ||www.ads-twitter.com^
 ||www.redditinc.com^
 ||www.redditstatic.com^
-||www.t.co^
 ||wwwfacebook.com^
 ||wwwinstagram.com^
 ||x.com^
+||xlog-va.byteoversea.com^
 ||xlog.tiktokv.com.edgesuite.net^
