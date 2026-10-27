@@ -13,8 +13,7 @@ files = ["custom/block.txt"]
 description = "Malware, botnet C2, threat intelligence"
 in_universal = true
 urls = [
-  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.medium.txt",
-  "https://urlhaus.abuse.ch/downloads/hostfile/",
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt",
   "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
   "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
 ]
@@ -33,7 +32,7 @@ in_universal = true
 urls = [
   "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt",
   "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt",
-  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/fake.txt",
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt",
 ]
 
 [categories.cryptojacking]
@@ -47,13 +46,13 @@ urls = [
 description = "Ads, popups, ad networks"
 in_universal = true
 urls = [
-  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt",
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
   "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
   "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
   "https://adaway.org/hosts.txt",
   "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
   "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
-  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/popupads.txt",
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt",
 ]
 
 [categories.trackers]
@@ -75,8 +74,8 @@ urls = [
   "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/AmazonFireTV.txt",
   "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt",
   # Optional (kuch features tod sakte hain) - zarurat ho tab uncomment karein:
-  # "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.xiaomi.txt",
-  # "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/native.samsung.txt",
+  # "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.xiaomi.txt",
+  # "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt",
 ]
 
 # ---- Neeche wali categories alag files me bante hain, universal me NAHI jaati ----
@@ -86,7 +85,7 @@ description = "Gambling / betting"
 in_universal = false
 urls = [
   "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts",
-  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/gambling.txt",
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt",
 ]
 
 [categories.adult]
@@ -94,7 +93,7 @@ description = "Adult content"
 in_universal = false
 urls = [
   "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts",
-  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/nsfw.txt",
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt",
 ]
 
 [categories.social]
@@ -108,14 +107,14 @@ urls = [
 description = "Piracy / torrent sites"
 in_universal = false
 urls = [
-  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/anti.piracy.txt",
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/anti.piracy.txt",
 ]
 
 [categories.bypass]
 description = "DoH / DNS-bypass servers (taaki devices AdGuard ko bypass na kar saken)"
 in_universal = false
 urls = [
-  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/doh.txt",
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt",
 ]
 
 # Allowlist: in domains (aur unke subdomains) ko lists se hata diya jaata hai
