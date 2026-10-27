@@ -9,21 +9,27 @@
 4. Run के log में "Failed/empty sources" देखें; कोई URL मर चुका हो तो `sources.toml` से हटा/बदल दें।
 
 ## AdGuard Home में जोड़ना
-Filters → DNS blocklists → Add blocklist → Add a custom list:
+Filters → DNS blocklists → Add blocklist → Add a custom list। सारे URL और entry-count `lists/INDEX.md` में अपने-आप बनते हैं।
 
-हर category की अपनी अलग list है: `lists/<category>.txt`। **सारे URL और entry-count `lists/INDEX.md` में अपने-आप बनते हैं**, वहीं से copy करें।
-जो category चाहिए उसे AdGuard Home में ON रखें, बाकी OFF (toggle) कर दें।
+बड़ी lists के तीन tier हैं:
 
-- हर category में domains unique हैं, इसलिए कई lists एक साथ ON करने पर repetition नहीं होता।
-- `universal.txt` = सारी "ON-suggested" categories एक file में। इसे category lists के साथ ON न करें (double हो जाएगा)।
+| Tier | कब चुनें |
+|---|---|
+| small | हल्का load, कम RAM (जैसे फ़ोन/Termux) |
+| medium | संतुलित |
+| large | सबसे ज़्यादा blocking, ज़्यादा RAM |
+
+- हर category में **सिर्फ़ एक tier** चुनें (जैसे `ads.small.txt`), और सब categories में **एक जैसा tier** रखें; तब repetition नहीं होगा।
+- Tier cumulative हैं: large ⊃ medium ⊃ small।
+- जिस category में किसी tier की file नहीं है (जैसे `phishing.small`), वहाँ चुने हुए tier से छोटी file ही लें या उसे छोड़ दें।
+- छोटी categories (cryptojacking, telemetry, social, piracy, bypass) की एक ही file है: `<naam>.txt`।
+- `universal.<tier>.txt` = सारी ON-suggested categories एक file में। category lists के साथ ON न करें।
 - Allowlist (Filters → DNS allowlists → Add a custom list): `lists/allowlist.txt`
-- Categories: malware, phishing, scam, cryptojacking, ads, trackers, telemetry (सुझाव: ON) और gambling, adult, social, piracy, bypass (सुझाव: OFF)
-
-Settings → General settings → Filters update interval: 12 hours या 24 hours।
+- सुझाव ON: malware, phishing, scam, cryptojacking, ads, trackers, telemetry। सुझाव OFF: gambling, adult, social, piracy, bypass।
 
 ## कैसे चलता है
 - `sources.toml` : category → source URLs। Category का क्रम = priority; एक domain सिर्फ़ पहली category में जाता है।
-- `build.py` : fetch → parse (hosts / adblock / plain) → allowlist हटाना → parent-domain collapse → `lists/*.txt`
+- `build.py` : fetch → parse (hosts / adblock / plain) → allowlist हटाना → हर tier के लिए अलग dedupe → parent-domain collapse → `lists/*.txt`
 - Safety: किसी category का size अचानक 50% से ज़्यादा घटे तो build रुक जाता है (list खराब नहीं होती)।
 - कुछ नहीं बदला तो commit नहीं होता।
 

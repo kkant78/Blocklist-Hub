@@ -1,0 +1,9 @@
+# Ek line = ek domain. Subdomains bhi allow ho jaate hain.
+# Galat block hui site yahan jodein, commit karein - agle build me hat jaayegi.
+connectivitycheck.gstatic.com
+clients3.google.com
+www.msftconnecttest.com
+msftconnecttest.com
+www.msftncsi.com
+captive.apple.com
+s.youtube.com

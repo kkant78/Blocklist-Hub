@@ -99,11 +99,41 @@ def write_list(path, title, desc, domains, prefix="||", suffix="^"):
     return True
 
 
+LEVELS = ["small", "medium", "large"]
+
+
+def is_tiered(c):
+    return any(l in c for l in LEVELS)
+
+
+def sources_for(c, level):
+    """Tiered category: small<medium<large cumulative. Single category: saare urls."""
+    if is_tiered(c):
+        upto = LEVELS[: LEVELS.index(level) + 1]
+        return [u for l in upto for u in c.get(l, [])]
+    return list(c.get("urls", []))
+
+
+def build_level(cats, fetched, local, allowed, level):
+    """Ek level ke liye: category order = priority, ek domain sirf ek category me."""
+    assigned, per = set(), {}
+    for name, c in cats.items():
+        dom = set()
+        for f in c.get("files", []):
+            dom |= local[f]
+        for u in sources_for(c, level):
+            dom |= fetched.get(u, set())
+        dom = {d for d in dom if d not in assigned and not under(d, allowed)}
+        assigned |= dom
+        per[name] = collapse(dom)
+    return per
+
+
 def main():
     cfg = tomllib.loads((ROOT / "sources.toml").read_text(encoding="utf-8"))
     cats, allow_cfg = cfg["categories"], cfg.get("allowlist", {})
 
-    urls = {u for c in cats.values() for u in c.get("urls", [])} | set(allow_cfg.get("urls", []))
+    urls = {u for c in cats.values() for l in LEVELS + ["urls"] for u in c.get(l, [])} | set(allow_cfg.get("urls", []))
     print(f"Fetching {len(urls)} sources ...")
     with ThreadPoolExecutor(8) as ex:
         texts = dict(zip(urls, ex.map(fetch_text, urls)))
@@ -117,60 +147,82 @@ def main():
     for u, s in sorted(fetched.items()):
         print(f"  {len(s):>8}  {u}")
 
+    local = {f: load_domains((ROOT / f).read_text(encoding="utf-8"))
+             for c in cats.values() for f in c.get("files", [])}
     allowed = set()
     for f in allow_cfg.get("files", []):
         allowed |= load_domains((ROOT / f).read_text(encoding="utf-8"))
     for u in allow_cfg.get("urls", []):
         allowed |= fetched.get(u, set())
 
-    assigned, per_cat = set(), {}
-    for name, c in cats.items():  # order = priority
-        dom = set()
-        for f in c.get("files", []):
-            dom |= load_domains((ROOT / f).read_text(encoding="utf-8"))
-        for u in c.get("urls", []):
-            dom |= fetched.get(u, set())
-        dom = {d for d in dom if d not in assigned and not under(d, allowed)}
-        assigned |= dom
-        per_cat[name] = collapse(dom)
-    universal = collapse(set().union(*(per_cat[n] for n, c in cats.items() if c.get("in_universal"))))
+    per_level = {L: build_level(cats, fetched, local, allowed, L) for L in LEVELS}
 
-    # Safety: koi category achanak 50% se zyada sikud jaye to build rok do (list kharab na ho)
+    outputs = {}  # file stem -> (description, domains)
+    for name, c in cats.items():
+        if is_tiered(c):
+            for L in LEVELS:
+                if c.get(L):  # jis tier me naya source hai, usi ki file banti hai
+                    outputs[f"{name}.{L}"] = (f"{c.get('description', name)} [{L}]", per_level[L][name])
+        else:  # single: sabse kam exclusion wale (small) level se -> koi gap nahi
+            outputs[name] = (c.get("description", name), per_level["small"][name])
+    for L in LEVELS:
+        uni = set().union(*(per_level[L][n] for n, c in cats.items() if c.get("in_universal")))
+        outputs[f"universal.{L}"] = (f"Universal [{L}]: ads+trackers+malware+phishing+scam+telemetry (deduped)", collapse(uni))
+
+    # Safety: koi list achanak 50% se zyada sikud jaye to build rok do
     stats_path = ROOT / "stats.json"
     old = json.loads(stats_path.read_text()) if stats_path.exists() else {}
-    new_counts = {**{n: len(v) for n, v in per_cat.items()}, "universal": len(universal)}
-    bad = [n for n, k in new_counts.items() if old.get(n, 0) > 1000 and k < old[n] * 0.5]
+    counts = {k: len(v[1]) for k, v in outputs.items()}
+    bad = [k for k, n in counts.items() if old.get(k, 0) > 1000 and n < old[k] * 0.5]
     if bad and os.environ.get("FORCE") != "1":
         sys.exit(f"ABORT: sudden drop in {bad}. Sources check karein, ya FORCE=1 se dobara chalayein.")
 
     OUT.mkdir(exist_ok=True)
     changed = False
-    for n, c in cats.items():
-        changed |= write_list(OUT / f"{n}.txt", f"Blocklist Hub - {n}", c.get("description", n), per_cat[n])
-    changed |= write_list(OUT / "universal.txt", "Blocklist Hub - Universal",
-                          "Ads + trackers + malware + phishing + scam + telemetry (deduped)", universal)
+    keep = {"allowlist.txt"}
+    for stem, (desc, dom) in outputs.items():
+        p = OUT / f"{stem}.txt"
+        if dom:
+            keep.add(p.name)
+            changed |= write_list(p, f"Blocklist Hub - {stem}", desc, dom)
     changed |= write_list(OUT / "allowlist.txt", "Blocklist Hub - Allowlist",
                           "AdGuard Home DNS allowlist", collapse(allowed), prefix="@@||")
+    for p in OUT.glob("*.txt"):  # purani/ab-na-banne-wali files hata do
+        if p.name not in keep:
+            p.unlink()
+            changed = True
+
     repo = os.environ.get("GITHUB_REPOSITORY", "<USER>/<REPO>")
     base = f"https://raw.githubusercontent.com/{repo}/main/lists"
-    rows = ["# Lists index", "", "AdGuard Home -> Filters -> DNS blocklists -> Add a custom list me jo chahiye wahi URL jodein.",
-            "Har category me domains unique hain (ek domain sirf ek category me).", "",
-            "| List | Kya hai | Entries | Suggestion | URL |", "|---|---|---:|---|---|"]
-    for n, c in cats.items():
-        if n == "custom" and not per_cat[n]:
-            continue
-        rows.append(f"| {n} | {c.get('description', n)} | {len(per_cat[n])} | "
-                    f"{'ON' if c.get('in_universal') else 'OFF'} | `{base}/{n}.txt` |")
-    rows += [f"| universal | ON wali sabhi categories ek file me (category lists ke saath ON na karein) | {len(universal)} | optional | `{base}/universal.txt` |",
-             f"| allowlist | DNS allowlist (Filters -> DNS allowlists me jodein) | {len(allowed)} | ON | `{base}/allowlist.txt` |"]
+    rows = ["# Lists index", "",
+            "AdGuard Home -> Filters -> DNS blocklists -> Add a custom list me jo chahiye wahi URL jodein.", "",
+            "- **Tier**: small (halka) < medium < large (sabse bada). Har category me **sirf ek tier** chunein.",
+            "- Alag categories me **ek jaisa tier** rakhein (jaise sab small), tab repetition nahi hoga.",
+            "- Mi Max 2 jaise kam-RAM device par small ya medium se shuru karein, phir dekhte hue badhayein.",
+            "- Jis category me kisi tier ki file nahi hai, wahan pichhle (chhote) tier ki file hi use karein.", "",
+            "| List | Tier | Kya hai | Entries | Suggestion | URL |", "|---|---|---|---:|---|---|"]
+    for name, c in cats.items():
+        flag = "ON" if c.get("in_universal") else "OFF"
+        if is_tiered(c):
+            for L in LEVELS:
+                stem = f"{name}.{L}"
+                if c.get(L) and outputs[stem][1]:
+                    rows.append(f"| {name} | {L} | {c.get('description', name)} | {len(outputs[stem][1])} | {flag} | `{base}/{stem}.txt` |")
+        elif outputs[name][1]:
+            rows.append(f"| {name} | - | {c.get('description', name)} | {len(outputs[name][1])} | {flag} | `{base}/{name}.txt` |")
+    for L in LEVELS:
+        rows.append(f"| universal | {L} | ON wali sabhi categories ek file me (category lists ke saath ON na karein) | "
+                    f"{len(outputs[f'universal.{L}'][1])} | optional | `{base}/universal.{L}.txt` |")
+    rows.append(f"| allowlist | - | DNS allowlist (Filters -> DNS allowlists me jodein) | {len(allowed)} | ON | `{base}/allowlist.txt` |")
     index = "\n".join(rows) + "\n"
     ip = OUT / "INDEX.md"
     if not ip.exists() or ip.read_text(encoding="utf-8") != index:
         ip.write_text(index, encoding="utf-8")
         changed = True
-    stats_path.write_text(json.dumps({**new_counts, "allowlist": len(allowed),
+
+    stats_path.write_text(json.dumps({**counts, "allowlist": len(allowed),
                                       "failed_sources": sorted(failed)}, indent=2, sort_keys=True) + "\n")
-    print("\nCounts:", json.dumps(new_counts, indent=2))
+    print("\nCounts:", json.dumps(counts, indent=2))
     if failed:
         print("\nFailed/empty sources:\n  " + "\n  ".join(failed))
     print("Lists changed." if changed else "No changes.")

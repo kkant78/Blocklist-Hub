@@ -1,7 +1,12 @@
-# Priority = order of categories in this file.
-# Ek domain sirf pehli (highest-priority) category me jaata hai -> koi repetition nahi.
-# in_universal = true  -> lists/universal.txt me shamil, aur lists/INDEX.md me 'ON' suggest hoti hai
-# Har category ki apni alag file hai (lists/<naam>.txt) - jo chahiye wahi AdGuard Home me ON rakhein.
+# Priority = categories ka order (upar wali category ko domain pehle milta hai -> repetition nahi).
+#
+# Do tarah ki categories:
+#  1) Tiered  : small / medium / large  (har tier pichhle tier ke upar jodta hai, cumulative)
+#               -> lists/<naam>.small.txt, <naam>.medium.txt, <naam>.large.txt
+#               Jis tier me koi source nahi likha, uski file nahi banti.
+#  2) Single  : sirf  urls = [...]  -> lists/<naam>.txt
+#
+# in_universal = true  -> lists/universal.<tier>.txt me shamil, aur INDEX.md me ON suggest hoti hai.
 # Koi source fail/404 ho to build use skip karke log me dikhata hai.
 
 [categories.custom]
@@ -12,27 +17,39 @@ files = ["custom/block.txt"]
 [categories.malware]
 description = "Malware, botnet C2, threat intelligence"
 in_universal = true
-urls = [
+small = [
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt",
+]
+medium = [
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt",
+]
+large = [
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
   "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt",
   "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
 ]
 
 [categories.phishing]
-description = "Phishing domains"
+description = "Phishing domains (small me nahi: malware tier ki TIF list me already aate hain)"
 in_universal = true
-urls = [
-  "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt",
+medium = [
   "https://phishing.army/download/phishing_army_blocklist_extended.txt",
+]
+large = [
+  "https://raw.githubusercontent.com/mitchellkrogza/Phishing.Database/master/phishing-domains-ACTIVE.txt",
 ]
 
 [categories.scam]
 description = "Scam, fraud, spam, fake shops"
 in_universal = true
-urls = [
-  "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt",
-  "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt",
+small = [
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt",
+]
+medium = [
+  "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt",
+]
+large = [
+  "https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/wildcard_domains/scams.txt",
 ]
 
 [categories.cryptojacking]
@@ -45,23 +62,31 @@ urls = [
 [categories.ads]
 description = "Ads, popups, ad networks"
 in_universal = true
-urls = [
+small = [
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt",
+]
+medium = [
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
   "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
+]
+large = [
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt",
+  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt",
   "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
   "https://adaway.org/hosts.txt",
   "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
   "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
-  "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt",
 ]
 
 [categories.trackers]
 description = "Tracking, analytics, CNAME-cloaked trackers"
 in_universal = true
-urls = [
-  "https://v.firebog.net/hosts/Easyprivacy.txt",
+small = [
   "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt",
   "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt",
+  "https://v.firebog.net/hosts/Easyprivacy.txt",
+]
+large = [
   "https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers_justdomains.txt",
 ]
 
@@ -78,21 +103,25 @@ urls = [
   # "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.samsung.txt",
 ]
 
-# ---- Neeche wali categories alag files me bante hain, universal me NAHI jaati ----
+# ---- Neeche wali categories universal me NAHI jaati (zarurat ho tab alag se ON karein) ----
 
 [categories.gambling]
 description = "Gambling / betting"
 in_universal = false
-urls = [
+small = [
   "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts",
+]
+large = [
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt",
 ]
 
 [categories.adult]
 description = "Adult content"
 in_universal = false
-urls = [
+small = [
   "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts",
+]
+large = [
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nsfw.txt",
 ]
 
@@ -111,7 +140,7 @@ urls = [
 ]
 
 [categories.bypass]
-description = "DoH / DNS-bypass servers (taaki devices AdGuard ko bypass na kar saken)"
+description = "DoH / VPN / proxy bypass servers (taaki devices AdGuard ko bypass na kar saken)"
 in_universal = false
 urls = [
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt",
