@@ -1,0 +1,2 @@
+# Apne extra domains yahan jodein (ek line = ek domain, ya hosts / ||domain^ format).
+# Ye sabse high priority category "custom" me jaate hain.
