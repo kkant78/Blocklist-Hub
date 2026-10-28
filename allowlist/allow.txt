@@ -7,3 +7,6 @@ msftconnecttest.com
 www.msftncsi.com
 captive.apple.com
 s.youtube.com
+console.tailscale.com
+tailscale.com
+rustdesk.com
