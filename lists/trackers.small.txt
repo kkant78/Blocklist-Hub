@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - trackers.small
 ! Description: Tracking, analytics, CNAME-cloaked trackers [small]
-! Last modified: 2026-10-27 19:19 UTC
-! Entries: 38881
+! Last modified: 2026-10-28 15:48 UTC
+! Entries: 38852
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.net.easyjet.com^
@@ -4595,7 +4595,6 @@
 ||adtarget.fcbarcelona.jp^
 ||adtarget.fcbarcelona.net^
 ||adtd.douglas.hr^
-||adtd.douglas.hu^
 ||adtd.douglas.pt^
 ||adtd.douglas.si^
 ||adtd.niche-beauty.com^
@@ -5807,7 +5806,6 @@
 ||app.enable.atmel.com^
 ||app.engineering.sae.org^
 ||app.entertainment.comcast-spectacor.com^
-||app.entwickler.de^
 ||app.etc.se^
 ||app.etcel.se^
 ||app.evntly.com^
@@ -6048,6 +6046,7 @@
 ||app.mail.skillsoft.com^
 ||app.mailings.erepublic.com^
 ||app.mailserver.parker.com^
+||app.manager.privateaser.com^
 ||app.marketing.pro.sony.eu^
 ||app.marketing.richardsonrfpd.com^
 ||app.marketing.wolterskluwerfs.com^
@@ -6883,7 +6882,6 @@
 ||axp.wjbf.com^
 ||axp.wjhl.com^
 ||axp.wjtv.com^
-||axp.wkrg.com^
 ||axp.wlns.com^
 ||axp.wnct.com^
 ||axp.wowktv.com^
@@ -9485,7 +9483,6 @@
 ||d3mskfhorhi2fb.cloudfront.net^
 ||d3n6i6eorggdxk.cloudfront.net^
 ||d3or5d0jdz94or.cloudfront.net^
-||d3r7h55ola878c.cloudfront.net^
 ||d3s7ggfq1s6jlj.cloudfront.net^
 ||d3tglifpd8whs6.cloudfront.net^
 ||d3vebqdofhigrn.cloudfront.net^
@@ -9653,7 +9650,6 @@
 ||data.decathlon.pl^
 ||data.deep-content.io^
 ||data.deinfeedback.alditalk-kundenbetreuung.de^
-||data.descubre.interbank.pe^
 ||data.dev-ajo.caixabank.com^
 ||data.dev-notifications.future.smart.com^
 ||data.devbmg.bancobmg.com.br^
@@ -10050,7 +10046,6 @@
 ||dc8na2hxrj29i.cloudfront.net^
 ||dccfog.petco.com^
 ||dcclaa.guter-rat.de^
-||dcclaa.harpersbazaar.de^
 ||dcclaa.meine-familie-und-ich.de^
 ||dcclaa.slowlyveggie.de^
 ||dcinfos-cache.abtasty.com^
@@ -16255,7 +16250,6 @@
 ||iqbjqv.airarabia.com^
 ||iqcxki.johosokuhou.com^
 ||iqjwrk.crocodile.co.jp^
-||iqmetrics.11freunde.de^
 ||iqmetrics.btc-echo.de^
 ||iqmetrics.cicero.de^
 ||iqmetrics.forschung-und-wissen.de^
@@ -16714,7 +16708,6 @@
 ||kftfhp.furusato-tax.jp^
 ||kgbokc.masrefacciones.mx^
 ||kgmmfk.galcomi.jp^
-||kgqxzw.blue-tomato.com^
 ||kgqzgj.rougegorge.com^
 ||khcdhu.saraschool.net^
 ||khfiwx.sephora.com.br^
@@ -18159,7 +18152,6 @@
 ||log.avlyun.com^
 ||log.avlyun.sec.intl.miui.com^
 ||log.bloodsugars.live^
-||log.china.cn^
 ||log.cizion.com^
 ||log.cleandesigner.live^
 ||log.clearcleanerpro.live^
@@ -22863,7 +22855,6 @@
 ||ntopcd.underarmour.nl^
 ||ntphyl.milan-jeunesse.com^
 ||ntt-fletscv.ntt-flets.com^
-||nturnm.unisport.dk^
 ||ntus.bidease.com^
 ||nu.esri.nl^
 ||nucgsx.indestructibleshoes.com^
@@ -23061,7 +23052,6 @@
 ||oldportcoffee.com^
 ||olhqou.realsimple.com^
 ||olivedaystee.com^
-||olklgn.jh-profishop.de^
 ||olpmni.acer.com^
 ||olqsty.izipizi.com^
 ||olroyk.ardene.com^
@@ -24795,7 +24785,6 @@
 ||r.popin.cc^
 ||r.powuta.com^
 ||r.presspadnews.com^
-||r.rover.com^
 ||r.sax.sina.com.cn^
 ||r.sdiapi.net^
 ||r.sportsie.com^
@@ -25484,7 +25473,6 @@
 ||s.imagica.ai^
 ||s.info.cemexgo.com^
 ||s.innoq.com^
-||s.insidehalton.com^
 ||s.insideottawavalley.com^
 ||s.inspectelement.co^
 ||s.justblinds.com^
@@ -26407,6 +26395,7 @@
 ||secure.info.zetes.com^
 ||secure.innovation-perceptive52.com^
 ||secure.insight-52.com^
+||secure.insightful-cloud-7.com^
 ||secure.insightful-company-52.com^
 ||secure.insightful-enterprise-247.com^
 ||secure.insightfulbusinesswisdom.com^
@@ -26426,6 +26415,7 @@
 ||secure.intuitionoperation.com^
 ||secure.inventive52intuitive.com^
 ||secure.inventiveinspired7.com^
+||secure.inventiveperception365.com^
 ||secure.iron0walk.com^
 ||secure.jebb8hurt.com^
 ||secure.jody0sora.com^
@@ -27579,7 +27569,6 @@
 ||smetrics.bestoforlando.com^
 ||smetrics.bestofvegas.com^
 ||smetrics.bet.com^
-||smetrics.beterhoren.nl^
 ||smetrics.bgov.com^
 ||smetrics.bhgelite.com^
 ||smetrics.bhgfinancial.com^
@@ -27600,7 +27589,6 @@
 ||smetrics.bittermens.com^
 ||smetrics.blair.com^
 ||smetrics.blanchir-sp.net^
-||smetrics.blau.de^
 ||smetrics.blockbuster.com^
 ||smetrics.bloombergbna.com^
 ||smetrics.bloombergindustry.com^
@@ -27740,7 +27728,6 @@
 ||smetrics.centex.com^
 ||smetrics.centralparknyc.org^
 ||smetrics.centrum.com^
-||smetrics.centurylink.com^
 ||smetrics.cepheid.com^
 ||smetrics.ceratizit.com^
 ||smetrics.cfox.com^
@@ -28148,7 +28135,6 @@
 ||smetrics.greatsouthernbank.com.au^
 ||smetrics.greendot.com^
 ||smetrics.greenflag.com^
-||smetrics.greenrow.com^
 ||smetrics.greenstate.com^
 ||smetrics.group.uhc.com^
 ||smetrics.grupobancomundial.org^
@@ -28837,7 +28823,6 @@
 ||smetrics.pediasure.com^
 ||smetrics.pediasure.com.my^
 ||smetrics.pedrodelhierro.com^
-||smetrics.penguin.co.uk^
 ||smetrics.pennwell.com^
 ||smetrics.pensionstallet.dk^
 ||smetrics.people.com^
@@ -29438,7 +29423,6 @@
 ||smetrics.thespecialeventshow.com^
 ||smetrics.thetruth.com^
 ||smetrics.thewolf.ca^
-||smetrics.thingspeak.com^
 ||smetrics.thingsremembered.com^
 ||smetrics.thinkstockphotos.com^
 ||smetrics.thomasgalbraith.com^
@@ -31012,7 +30996,6 @@
 ||stat.wolterskluwer.pl^
 ||stat.wolterskluwer.pt^
 ||stat.ws.126.net^
-||stat.zol.com.cn^
 ||statdb.pressflex.com^
 ||static.osalta.eu^
 ||static.user-red.com^
@@ -31902,7 +31885,6 @@
 ||strack.community.concur.com^
 ||strack.concur.ae^
 ||strack.concur.ca^
-||strack.concur.com.sg^
 ||strack.concur.tw^
 ||strack.elvia.ch^
 ||strack.englandstore.com^
@@ -32569,7 +32551,6 @@
 ||t.rail-and-drive.de^
 ||t.rainide.com^
 ||t.ramblinwreck.com^
-||t.regionsjob.com^
 ||t.restek.com^
 ||t.rheumatoidarthritis.com^
 ||t.richmondspiders.com^
@@ -33331,7 +33312,6 @@
 ||tjwpfr.unitrailer.de^
 ||tjyrup.templeandwebster.com.au^
 ||tjzvuo.youcom.com.br^
-||tk.agrizone.net^
 ||tk.aircaraibes.com^
 ||tk.airfrance.ae^
 ||tk.airfrance.am^
@@ -33468,7 +33448,6 @@
 ||tk.tikamoon.es^
 ||tk.tikamoon.it^
 ||tk.tikamoon.nl^
-||tk.ultrapremiumdirect.com^
 ||tk.undiz.com^
 ||tk.verisure.fr^
 ||tk.viapresse.com^
@@ -34547,7 +34526,6 @@
 ||tr.tonerservices.fr^
 ||tr.tourisme.visit-lanarbonnaise.com^
 ||tr.tpe.harmonie-mutuelle.fr^
-||tr.tr.bricodepot.com^
 ||tr.trafficnews.lyria.com^
 ||tr.uk.icicibank.com^
 ||tr.uk.katun.com^
@@ -36181,7 +36159,6 @@
 ||ugdcxl.timeout.es^
 ||ugdcxl.timeout.jp^
 ||ugdcxl.timeout.pt^
-||ughska.kids-world.dk^
 ||ugkray.theloom.in^
 ||ugmarketing.smu.edu.sg^
 ||ugzbsu.klimaworld.com^
@@ -36470,7 +36447,6 @@
 ||utiq.eatbetter.de^
 ||utiq.einbuergerungstest-online.de^
 ||utiq.einbuergerungstest-online.eu^
-||utiq.einfach-tasty.de^
 ||utiq.einfachschoen.me^
 ||utiq.elcomercio.es^
 ||utiq.elcorreo.com^
@@ -36577,16 +36553,13 @@
 ||utiq.oberhessische-zeitung.de^
 ||utiq.oktoberfest.bayern^
 ||utiq.orange.es^
-||utiq.ozap.com^
 ||utiq.palladiumhotelgroup.com^
-||utiq.paris-normandie.fr^
 ||utiq.petbook-magazine.com^
 ||utiq.poprosa.com^
 ||utiq.programme.tv^
 ||utiq.ptitchef.com^
 ||utiq.publisher-demo.media^
 ||utiq.purebreak.com^
-||utiq.purepeople.com^
 ||utiq.reisefrage.net^
 ||utiq.rireetchansons.fr^
 ||utiq.rmcbfmplay.com^
@@ -37105,7 +37078,6 @@
 ||wbtrkk.teufelaudio.be^
 ||wbtrkk.teufelaudio.co.uk^
 ||wbtrkk.teufelaudio.es^
-||wbtrkk.teufelaudio.fr^
 ||wbtrkk.teufelaudio.it^
 ||wbtrkk.teufelaudio.nl^
 ||wc.paybooc.co.kr^
@@ -38671,7 +38643,6 @@
 ||ywrcqa.cbs8.com^
 ||ywrcqa.fox43.com^
 ||ywrcqa.fox61.com^
-||ywrcqa.kare11.com^
 ||ywrcqa.kcentv.com^
 ||ywrcqa.kens5.com^
 ||ywrcqa.khou.com^

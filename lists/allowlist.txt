@@ -1,12 +1,14 @@
 ! Title: Blocklist Hub - Allowlist
 ! Description: AdGuard Home DNS allowlist
-! Last modified: 2026-10-27 13:30 UTC
-! Entries: 6
+! Last modified: 2026-10-28 15:48 UTC
+! Entries: 8
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 @@||captive.apple.com^
 @@||clients3.google.com^
 @@||connectivitycheck.gstatic.com^
 @@||msftconnecttest.com^
+@@||rustdesk.com^
 @@||s.youtube.com^
+@@||tailscale.com^
 @@||www.msftncsi.com^
