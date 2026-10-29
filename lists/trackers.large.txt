@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - trackers.large
 ! Description: Tracking, analytics, CNAME-cloaked trackers [large]
-! Last modified: 2026-10-28 15:48 UTC
-! Entries: 165100
+! Last modified: 2026-10-29 08:49 UTC
+! Entries: 165102
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0--skitch--0.tt.omtrdc.net^
@@ -16620,6 +16620,7 @@
 ||app.elly.com^
 ||app.email.fitchratings.com^
 ||app.email.influitive.com^
+||app.entwickler.de^
 ||app.etc.se^
 ||app.etcel.se^
 ||app.evntly.com^
@@ -138873,6 +138874,7 @@
 ||r.ridr.bike^
 ||r.roadshowstaffing.com^
 ||r.roomgen.art^
+||r.rover.com^
 ||r.ruc.pt^
 ||r.segarante.com.br^
 ||r.smart-fox.ch^

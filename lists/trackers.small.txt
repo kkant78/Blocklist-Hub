@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - trackers.small
 ! Description: Tracking, analytics, CNAME-cloaked trackers [small]
-! Last modified: 2026-10-28 15:48 UTC
-! Entries: 38852
+! Last modified: 2026-10-29 08:49 UTC
+! Entries: 38855
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.net.easyjet.com^
@@ -5806,6 +5806,7 @@
 ||app.enable.atmel.com^
 ||app.engineering.sae.org^
 ||app.entertainment.comcast-spectacor.com^
+||app.entwickler.de^
 ||app.etc.se^
 ||app.etcel.se^
 ||app.evntly.com^
@@ -9420,6 +9421,7 @@
 ||d.lilstts.com^
 ||d.mail.levi.com^
 ||d.nativendo.de^
+||d.omsnative.de^
 ||d.santemagazine.fr^
 ||d.shareaholic.com^
 ||d.shopprecouriers.com^
@@ -24785,6 +24787,7 @@
 ||r.popin.cc^
 ||r.powuta.com^
 ||r.presspadnews.com^
+||r.rover.com^
 ||r.sax.sina.com.cn^
 ||r.sdiapi.net^
 ||r.sportsie.com^

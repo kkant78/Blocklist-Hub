@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - piracy
 ! Description: Piracy / torrent sites
-! Last modified: 2026-10-28 15:48 UTC
-! Entries: 57335
+! Last modified: 2026-10-29 08:49 UTC
+! Entries: 57336
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0-123movies.com^
@@ -3240,6 +3240,7 @@
 ||animeav1.one^
 ||animebam.se^
 ||animeblix.com^
+||animebourse.com^
 ||animebw.com^
 ||animebyt.es^
 ||animebytes.tv^
