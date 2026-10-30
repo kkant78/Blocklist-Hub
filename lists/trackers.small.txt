@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - trackers.small
 ! Description: Tracking, analytics, CNAME-cloaked trackers [small]
-! Last modified: 2026-10-29 08:49 UTC
-! Entries: 38855
+! Last modified: 2026-10-30 08:54 UTC
+! Entries: 38822
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.net.easyjet.com^
@@ -4744,7 +4744,6 @@
 ||aidsro.ostin.com^
 ||aiieer.mangnut2.com^
 ||aikhra.londonclub.sk^
-||aikrir.lcwaikiki.com^
 ||ailla.abphotos.link^
 ||aim.loc.kr^
 ||aimvaa.gulet.at^
@@ -4788,7 +4787,6 @@
 ||akspdp.materialkitchen.com^
 ||akv2-br-cdn.kwai.net.iberostar.com^
 ||akzdrh.catofashions.com^
-||al-smetrics.vizio.com^
 ||al.airtel.in^
 ||al.mtrx.dev^
 ||al.mtrx.travel^
@@ -5592,6 +5590,7 @@
 ||apm-rum.inf.miui.com^
 ||apm-track.xiaohongshu.com^
 ||apm.tnet.nl^
+||apmginternational.matomo.cloud^
 ||app-analytics-ru.huami.com^
 ||app-branch.yummybazaar-qa.com^
 ||app-clicks-corporate.firstrepublic.com^
@@ -8025,6 +8024,7 @@
 ||cdn.ravm.tv^
 ||cdn.reproio.com^
 ||cdn.rlets.com^
+||cdn.snitcher.com^
 ||cdn.sov.stream^
 ||cdn.trakkr.ai^
 ||cdn.userleap.com^
@@ -8076,7 +8076,6 @@
 ||cgctsw.mytour.vn^
 ||cgicounter.oneandone.co.uk^
 ||cgicounter.puretec.de^
-||cgqkhc.trendyol.com^
 ||cgsisl.owllabs.com^
 ||cgwebmetrics.capgroup.com^
 ||ch.credithypo.com^
@@ -9421,7 +9420,6 @@
 ||d.lilstts.com^
 ||d.mail.levi.com^
 ||d.nativendo.de^
-||d.omsnative.de^
 ||d.santemagazine.fr^
 ||d.shareaholic.com^
 ||d.shopprecouriers.com^
@@ -9661,7 +9659,6 @@
 ||data.digital.costco.com^
 ||data.discover.ringcentral.com^
 ||data.dm.casio.com^
-||data.dm.casio.info^
 ||data.dreambaby.be^
 ||data.dreamland.be^
 ||data.e.lotteryoffice.com.au^
@@ -9996,7 +9993,6 @@
 ||daten.union-investment.de^
 ||datum.appfleet.com^
 ||dav.davrontech.com^
-||dax.yle.fi^
 ||daybreaklights.com^
 ||dazdmx.cobra.fr^
 ||dazzlescript.com^
@@ -10085,7 +10081,6 @@
 ||dd.control4.com^
 ||dd.garena.com^
 ||dd.seloger-bureaux-commerces.com^
-||dd.selogerneuf.com^
 ||ddioce.wolverine.com^
 ||ddlbr.timesclub.co^
 ||ddlcvm.clas.style^
@@ -12867,7 +12862,6 @@
 ||fscareers.epoise.com^
 ||fscareerstest.epoise.com^
 ||fse.net.anwalt.de^
-||fsegfy.lepoint.fr^
 ||fsm.lapresse.ca^
 ||fsqwdj.live-tennis.eu^
 ||fsresidential.actonservice.com^
@@ -14146,7 +14140,6 @@
 ||hcjpbc.j-14.com^
 ||hcjpbc.lifeandstylemag.com^
 ||hcjpbc.muscleandfitness.com^
-||hcjpbc.radaronline.com^
 ||hckjsc.kastner-oehler.at^
 ||hclspy.gourmetencasa-tcm.com^
 ||hcmhqb.radpowerbikes.ca^
@@ -16372,7 +16365,6 @@
 ||jdgtgb.4players.de^
 ||jdgtgb.autoguru.de^
 ||jdgtgb.buffed.de^
-||jdgtgb.desired.de^
 ||jdgtgb.dnn.de^
 ||jdgtgb.fussballfieber.de^
 ||jdgtgb.gamezone.de^
@@ -18241,7 +18233,6 @@
 ||loginvsi.actonservice.com^
 ||logistics.coyote.com^
 ||logistics.dbschenker.com^
-||logistics.osmworldwide.com^
 ||loglady.skypicker.com^
 ||logql.yahoo.co.jp^
 ||logs-api.shoprunner.com^
@@ -21575,7 +21566,6 @@
 ||metrics.publiclands.com^
 ||metrics.publicstorage.com^
 ||metrics.pulmozyme.com^
-||metrics.puma.com^
 ||metrics.purina-petcare.com^
 ||metrics.purina.ca^
 ||metrics.purinamills.com^
@@ -21854,7 +21844,6 @@
 ||metrics.travelodge.com^
 ||metrics.trendmicro.co.jp^
 ||metrics.trendmicro.com^
-||metrics.trendyol.com^
 ||metrics.trovix.com^
 ||metrics.trucker.com^
 ||metrics.tryg.dk^
@@ -22038,7 +22027,6 @@
 ||mi.miliboo.com^
 ||mi.miliboo.de^
 ||mi.miliboo.es^
-||mi.miliboo.it^
 ||mi.miliboo.lu^
 ||micro.workplaceinvesting.fidelity.com^
 ||microfocus.qm-g.com^
@@ -23154,7 +23142,6 @@
 ||omni.serve.com^
 ||omni.sky.de^
 ||omni.suntrust.com^
-||omni.superonline.net^
 ||omni.syf.com^
 ||omni.synchronybank.com^
 ||omni.thermofisher.com^
@@ -24798,6 +24785,7 @@
 ||rabbit.meitustat.com^
 ||rabbitboots.com^
 ||racemanager-app.sapsailing.com^
+||radar.snitcher.com^
 ||radexports.com^
 ||radiantcanopy.com^
 ||radio.moodybible.org^
@@ -26071,7 +26059,6 @@
 ||sc.cvent.com^
 ||sc.disneylandparis.com^
 ||sc.doctorwho.tv^
-||sc.hl.co.uk^
 ||sc.hm.com^
 ||sc.holtsmilitarybank.co.uk^
 ||sc.icarly.com^
@@ -26165,7 +26152,6 @@
 ||scontent.xx.fbcdn.net.iberostar.com^
 ||scookies-adobe.24plus.be^
 ||scookies-adobe.kbc.com^
-||scookies-adobe.kbcbrussels.be^
 ||scookies-adobe.kbcsecurities.com^
 ||scookies-adobe.kching.be^
 ||scoreaisle.com^
@@ -27105,7 +27091,6 @@
 ||simg.mgsgamesonline.com^
 ||simg.premium.com^
 ||simg.sh.bwin.de^
-||simg.yemeksepeti.com^
 ||simple.avaya.com^
 ||simple.siegelgale.com^
 ||simplenaming.com^
@@ -27710,7 +27695,6 @@
 ||smetrics.cashnetusa.com^
 ||smetrics.casinoladbrokes.be^
 ||smetrics.casinosplendido.com^
-||smetrics.casio-intl.com^
 ||smetrics.casio-watches.com^
 ||smetrics.casio.co.jp^
 ||smetrics.casio.com.tw^
@@ -28624,7 +28608,6 @@
 ||smetrics.mojemedicina.cz^
 ||smetrics.moncoeurmavie.ca^
 ||smetrics.mondex.com^
-||smetrics.moneta.cz^
 ||smetrics.monetaauto.cz^
 ||smetrics.monetaleasing.cz^
 ||smetrics.moneymarketing.co.uk^
@@ -28726,7 +28709,6 @@
 ||smetrics.nike.net^
 ||smetrics.nintendo.com^
 ||smetrics.nisbets.be^
-||smetrics.nisbets.co.nz^
 ||smetrics.nisbets.co.uk^
 ||smetrics.nisbets.com.au^
 ||smetrics.nisbets.fr^
@@ -28908,7 +28890,6 @@
 ||smetrics.publiclands.com^
 ||smetrics.pulmonaryfibrosis360.com^
 ||smetrics.pulmozyme.com^
-||smetrics.puma.com^
 ||smetrics.purchase.audipureprotection.com^
 ||smetrics.purina.ca^
 ||smetrics.purinamills.com^
@@ -29276,7 +29257,6 @@
 ||smetrics.sony.com.pa^
 ||smetrics.sony.com.pe^
 ||smetrics.sony.com.ph^
-||smetrics.sony.com.tr^
 ||smetrics.sony.com.tw^
 ||smetrics.sony.com.vn^
 ||smetrics.sony.cz^
@@ -29480,7 +29460,6 @@
 ||smetrics.travelzoo.com^
 ||smetrics.treehousetv.com^
 ||smetrics.trendmicro.co.jp^
-||smetrics.trendyol.com^
 ||smetrics.trilliumadvantage.com^
 ||smetrics.trilliumhealthplan.com^
 ||smetrics.trilliumohp.com^
@@ -29755,7 +29734,6 @@
 ||smtx.lastminute.com.au^
 ||smtx.travel.com.au^
 ||smu.actonservice.com^
-||smuengage.smu.edu.sg^
 ||smwvlc.intermixonline.com^
 ||smxmlr.shimojima.jp^
 ||snacksalive.com^
@@ -30564,7 +30542,6 @@
 ||sst.brodo.com^
 ||sst.colemanfurniture.com^
 ||sst.fdiintelligence.com^
-||sst.hostnet.nl^
 ||sst.vrijopnaam.nl^
 ||sstat.3pagen.at^
 ||sstat.detelefoongids.nl^
@@ -32432,7 +32409,6 @@
 ||t.gofrogs.com^
 ||t.gogriz.com^
 ||t.goguecenter.auburn.edu^
-||t.goheels.com^
 ||t.gojacks.com^
 ||t.golobos.com^
 ||t.gomocs.com^
@@ -33410,7 +33386,6 @@
 ||tk.interflora.it^
 ||tk.jeux.loro.ch^
 ||tk.jim-joe.fr^
-||tk.kidsaround.com^
 ||tk.kitchendiet.fr^
 ||tk.klm.com^
 ||tk.kusmitea.com^
@@ -34740,7 +34715,6 @@
 ||track.kueez.com^
 ||track.kyoads.com^
 ||track.lemmatechnologies.com^
-||track.lenovo.com.cn^
 ||track.lesmills.com^
 ||track.livasoft.com.tr^
 ||track.magazineluiza.com.br^
@@ -35936,7 +35910,6 @@
 ||trk.violifefoods.com^
 ||trk.violifeprofessional.com^
 ||trk.vitam.gr^
-||trk.vodafone.com.tr^
 ||trk.wallstreetandtech.com^
 ||trk.wardsauto.com^
 ||trk.wealthmanagement.com^
@@ -36069,7 +36042,6 @@
 ||txv2-br-cdn.kwai.net.iberostar.com^
 ||txvoin.with2.net^
 ||txyqik.jjshouse.fr^
-||tybfxw.puma.com^
 ||typepredict.com^
 ||typewebsite.com^
 ||typicalairplane.com^
@@ -36485,7 +36457,6 @@
 ||utiq.helpster.de^
 ||utiq.hersfelder-zeitung.de^
 ||utiq.hola.com^
-||utiq.hoy.es^
 ||utiq.huelva24.com^
 ||utiq.ideal.es^
 ||utiq.infosalus.com^
@@ -36516,7 +36487,6 @@
 ||utiq.lemessager.fr^
 ||utiq.leonoticias.com^
 ||utiq.lest-eclair.fr^
-||utiq.lexpress.fr^
 ||utiq.liberation-champagne.fr^
 ||utiq.lidl.de^
 ||utiq.lidl.pl^
@@ -36574,7 +36544,6 @@
 ||utiq.serienjunkies.de^
 ||utiq.sevilla.abc.es^
 ||utiq.speakup.es^
-||utiq.speisekarte.de^
 ||utiq.spielaffe.de^
 ||utiq.sportlerfrage.net^
 ||utiq.sports.fr^
@@ -38527,7 +38496,6 @@
 ||yhvewh.aboutyou.ro^
 ||yieldingwoman.com^
 ||yiiwaq.mms.com^
-||yikrmn.ciceksepeti.com^
 ||yiohzu.tsigs.com^
 ||yixvbp.merkal.com^
 ||yiyemail.branch.rocks^
@@ -38628,7 +38596,6 @@
 ||yummylink.funcapital.com^
 ||yuoyan.finanzen.de^
 ||yurobl.rw-co.com^
-||yvcjyi.beymen.com^
 ||yvdaeg.on-running.com^
 ||yvdxij.applevacations.com^
 ||yvsofs.tropeaka.com.au^
