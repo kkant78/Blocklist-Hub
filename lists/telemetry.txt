@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - telemetry
 ! Description: Smart TV, Android, Windows telemetry
-! Last modified: 2026-10-27 19:19 UTC
-! Entries: 759
+! Last modified: 2026-10-31 08:44 UTC
+! Entries: 760
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0077777700140002.myhomescreen.tv^
@@ -589,6 +589,7 @@
 ||pn.nextlgsdp.com^
 ||postback.pointwise.co^
 ||pr.nextlgsdp.com^
+||pre.footprintpredict.com^
 ||preferences.cid.samba.tv^
 ||premium-videos.telly.com^
 ||presence.teams.live.com^

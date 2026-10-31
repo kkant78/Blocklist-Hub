@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - adult.small
 ! Description: Adult content [small]
-! Last modified: 2026-10-27 19:19 UTC
-! Entries: 48156
+! Last modified: 2026-10-31 08:44 UTC
+! Entries: 48171
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.oldgyhogola.com^
@@ -9,7 +9,9 @@
 ||002.pinknotora.net^
 ||007dating.com^
 ||007milf.com^
+||007zeed.com^
 ||0310love.com^
+||037jav.com^
 ||03log.me^
 ||069porn.com^
 ||0dayxx.com^
@@ -1522,6 +1524,7 @@
 ||agregadorporno.com^
 ||agresori.com^
 ||agrupalinks.com^
+||ags.hobby.porn^
 ||ah-me.com^
 ||ah18.one^
 ||ahacdn.me^
@@ -1593,7 +1596,6 @@
 ||alanahrae.com^
 ||alarabixxx.com^
 ||alarabsex.com^
-||alarbda.com^
 ||alashraf.ws^
 ||alastonsuomi.com^
 ||albahralfakhershipping.com^
@@ -2868,11 +2870,9 @@
 ||aokontakte.eu^
 ||aomizuan.sakura.ne.jp^
 ||aonutten.eu^
-||aoodrb.flndboy.net^
 ||aorientalporn.com^
 ||aorientalxxx.com^
 ||aosex.com^
-||aovlmm.flndboy.net^
 ||ap3.ro^
 ||apalanyaszex.com^
 ||apartadox.com^
@@ -2887,7 +2887,6 @@
 ||aphrodite.porntrack.com^
 ||api-d.hiaiabc.com^
 ||api-exc.hiaiabc.com^
-||api-gateway.dditsadn.com^
 ||api-p1.yksdks.com^
 ||api-p4.yksdks.com^
 ||api-public.luckycrush.live^
@@ -3012,6 +3011,7 @@
 ||arabporntuber.com^
 ||arabpornxx.com^
 ||arabrn.com^
+||arabs.alarbda.com^
 ||arabs.arabxforum.com^
 ||arabs3x.net^
 ||arabsex.com.es^
@@ -3849,6 +3849,7 @@
 ||babespros.com^
 ||babesrater.com^
 ||babesreview.net^
+||babesroulette.com^
 ||babestare.com^
 ||babestation.tv^
 ||babestationcams.com^
@@ -4011,7 +4012,6 @@
 ||bangher.net^
 ||banghub.org^
 ||bangingbeauties.com^
-||bangkazza.com^
 ||bangladeshsex.pro^
 ||banglaxxx.pro^
 ||banglaxxxvideos.com^
@@ -4798,7 +4798,6 @@
 ||bfxxx.mobi^
 ||bfxxxporn.com^
 ||bgclive.com^
-||bgkjbg.flndboy.net^
 ||bglad.com^
 ||bhabhi-porn.com^
 ||bhabhimassage.com^
@@ -4864,6 +4863,7 @@
 ||bigboomporn.com^
 ||bigbootycrush.com^
 ||bigbootylatinass.com^
+||bigbootymania.com^
 ||bigbootyporn.site^
 ||bigbootyporn.tv^
 ||bigbootytube.net^
@@ -6548,6 +6548,7 @@
 ||cdn.adultforce.com^
 ||cdn.alleliteads.com^
 ||cdn.arabicpornmovies.com^
+||cdn.bangkazza.com^
 ||cdn.bonertraffic12.mobi^
 ||cdn.camshq.info^
 ||cdn.cherry.tv^
@@ -6587,6 +6588,7 @@
 ||cdn16tube.pro^
 ||cdn17tube.pro^
 ||cdn19tube.pro^
+||cdn2.alarbda.com^
 ||cdn2.cam-content.com^
 ||cdn2.mediumtube.pro^
 ||cdn2.momonster.space^
@@ -8511,6 +8513,7 @@
 ||desisexvideos.rodeo^
 ||desisexy.org^
 ||desisexytube.com^
+||desislut.net^
 ||desiteenfuck.com^
 ||desitelugusex.com^
 ||desitopsex.com^
@@ -10382,6 +10385,7 @@
 ||fansteek.com^
 ||fanstube.net^
 ||fantasi.one^
+||fantasies-girls.com^
 ||fantasti.cc^
 ||fantasticnudes.com^
 ||fantasticporn.net^
@@ -11216,6 +11220,7 @@
 ||flixone.com^
 ||fliz.in^
 ||flmexxx.com^
+||flndboy.net^
 ||floozytube.com^
 ||floppy-tits.com^
 ||florenpornfile.com^
@@ -13852,7 +13857,6 @@
 ||gp-pt.net^
 ||gpi-design.ru^
 ||gporn.hu^
-||gptgirlfriend.online^
 ||gpvicio.com.br^
 ||gqigjgs.angelfire.com^
 ||gqporn.com^
@@ -15574,7 +15578,6 @@
 ||hnntube.com^
 ||ho6ho.com^
 ||hobatf6.forxxxx.com^
-||hobby.porn^
 ||hobbyladies.net^
 ||hobe.cc^
 ||hobomovies.com^
@@ -16608,7 +16611,6 @@
 ||hugetitslesbian.com^
 ||hugetitsmom.com^
 ||hugetitspics.net^
-||hugetraffic.com^
 ||hughsangels.proboards27.com^
 ||huh.hu^
 ||huhuporn.com^
@@ -19239,7 +19241,6 @@
 ||komu-kak.ru^
 ||konachan.com^
 ||konferencje-eventy.eu^
-||kontakt-vermittler.de^
 ||kontaktbazar.at^
 ||kontaktbox.com^
 ||kontaktbox.de^
@@ -21705,6 +21706,7 @@
 ||milf-porn.xxx^
 ||milf-pornofilmek.hu^
 ||milf-sex-clips.com^
+||milf-sex-pics.com^
 ||milf-sex.pro^
 ||milf-videos.me^
 ||milf-xvideos.com^
@@ -23186,6 +23188,7 @@
 ||myslaboratory.com^
 ||mysnap.cc^
 ||mysnap.pw^
+||mysnap.top^
 ||mysnap.xyz^
 ||myspree.club^
 ||myspyfam.com^
@@ -34206,6 +34209,7 @@
 ||snailsreviews.com^
 ||snakeporntube.com^
 ||snapcams.ch^
+||snapcheat.app^
 ||snapwebcams.com^
 ||snbabes.com^
 ||sneakyasses.com^
@@ -34711,7 +34715,6 @@
 ||stripchat.app^
 ||stripchat.life^
 ||stripchat.me^
-||stripchat.ooo^
 ||stripchat.pw^
 ||stripchat.run^
 ||stripchat.webcam^
@@ -34874,7 +34877,6 @@
 ||superbgays.com^
 ||superchat.shop^
 ||superchat.webcam^
-||superchatlive.com^
 ||supercumtube.com^
 ||superfilmgeldi.net^
 ||superfreeporn.com^
@@ -35348,6 +35350,7 @@
 ||techfutur.ru^
 ||technofun.ru^
 ||technogym.tj^
+||technoob.info^
 ||teddygirls.cc^
 ||teedollasign.com^
 ||teeenz.com^
@@ -38474,6 +38477,16 @@
 ||vid-ip.com^
 ||vid-mg.com^
 ||vid-xm.com^
+||vid101.hobby.porn^
+||vid102.hobby.porn^
+||vid103.hobby.porn^
+||vid104.hobby.porn^
+||vid105.hobby.porn^
+||vid106.hobby.porn^
+||vid107.hobby.porn^
+||vid108.hobby.porn^
+||vid109.hobby.porn^
+||vid110.hobby.porn^
 ||vid18.net^
 ||vid2c.com^
 ||vidbang.com^
@@ -39916,6 +39929,7 @@
 ||webmaster.privatamateure.com^
 ||webmaster.topbucks.com^
 ||webmasters.flipscash.com^
+||webmasters.hugetraffic.com^
 ||webmasters.nastydollars.com^
 ||webmasters.sextracker.com^
 ||webmasters.wetandpuffy.com^
@@ -40324,6 +40338,7 @@
 ||www-hegre-com.ru^
 ||www-imagefap-com.photosporn.net^
 ||www-ixxx-com.ru^
+||www-old.hugetraffic.com^
 ||www-old.nastydollars.com^
 ||www-pornhat-com.ru^
 ||www-porno365.com^
@@ -40346,7 +40361,6 @@
 ||www.007angels.com^
 ||www.00go.com^
 ||www.00webcams.com^
-||www.037jav.com^
 ||www.1000facials.com^
 ||www.100kabijin.com^
 ||www.101xxxgirls.com^
@@ -41546,6 +41560,7 @@
 ||www.hitprn.com^
 ||www.hmp.jp^
 ||www.hmvision.com^
+||www.hobby.porn^
 ||www.hobbyhuren-schweiz.ch^
 ||www.hobbyhuren.net^
 ||www.hollandschepassie.nl^
@@ -41599,6 +41614,7 @@
 ||www.hubporn.click^
 ||www.hubpussy.com^
 ||www.hugeasianporn.com^
+||www.hugetraffic.com^
 ||www.hugexxxmovies.com^
 ||www.hugexxxvideos.com^
 ||www.humphole.com^
@@ -41804,6 +41820,7 @@
 ||www.knullfilmer.se^
 ||www.kobayashi-web.com^
 ||www.koloporno.com^
+||www.kontakt-vermittler.de^
 ||www.kostenlosepornoclips.com^
 ||www.kostenlosexxx.com^
 ||www.koyacho.com^
@@ -42059,7 +42076,6 @@
 ||www.mypornoplanet.com^
 ||www.mypuremature.com^
 ||www.mysexybabes.com^
-||www.mysnap.top^
 ||www.mysugardaddy.com^
 ||www.myvidster.com^
 ||www.myvintagep.com^
@@ -42905,7 +42921,6 @@
 ||www.smsextube.com^
 ||www.smsextube.nl^
 ||www.smuttified.com^
-||www.snapcheat.app^
 ||www.sod.co.jp^
 ||www.sodc.co.jp^
 ||www.sofcams.com^

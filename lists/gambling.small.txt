@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - gambling.small
 ! Description: Gambling / betting [small]
-! Last modified: 2026-10-27 19:19 UTC
-! Entries: 4323
+! Last modified: 2026-10-31 08:44 UTC
+! Entries: 4322
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||007win.com^
@@ -9,6 +9,7 @@
 ||007win.shop^
 ||009.casino^
 ||009.com^
+||016665.com^
 ||048.com^
 ||0909777.com^
 ||101ae888.com^
@@ -436,7 +437,6 @@
 ||api.red88.com^
 ||api.shbet3.com^
 ||api.shbetvv.com^
-||api.sky88.com^
 ||api.v79top.com^
 ||api.vnloto.com^
 ||api2.sin88.com^
@@ -1902,7 +1902,6 @@
 ||img.mu9.com^
 ||inbet.com^
 ||inbet88.com^
-||income88.com^
 ||indobola77.casa^
 ||infinitybet.com^
 ||info.w88banh.com^
@@ -2091,6 +2090,7 @@
 ||k8win.vip^
 ||k9bet.net^
 ||k9vn1.com^
+||k9vn2.com^
 ||kaboo.com^
 ||kaiserslots.com^
 ||kaivip.club^
@@ -2217,7 +2217,6 @@
 ||leo88.top^
 ||leojackpot.com^
 ||leonbets.net^
-||leovegas.com^
 ||letsbet.com^
 ||letsbet.de^
 ||lienhe22.com^
@@ -2921,6 +2920,7 @@
 ||realbet.eu^
 ||realdealbet.com^
 ||rebatewager.ag^
+||record.income88.com^
 ||red88.club^
 ||red88.ml^
 ||red88.top^
@@ -3085,6 +3085,7 @@
 ||skinsdream.com^
 ||sky88.bet^
 ||sky88.club^
+||sky88.com^
 ||sky88.in^
 ||sky88.info^
 ||sky88.moda^
@@ -3116,7 +3117,6 @@
 ||society.gg^
 ||sock.mu9.com^
 ||sock.red88.com^
-||sock.sky88.com^
 ||socket.9bet.build^
 ||sodo.bond^
 ||sodo.host^
@@ -3194,7 +3194,6 @@
 ||st66606.com^
 ||st666win.us^
 ||st666yet.site^
-||stake.com^
 ||stakes.com^
 ||stanjames.com^
 ||starlottosport.com^
@@ -3947,7 +3946,6 @@
 ||worldwidegamble.com^
 ||wp.9bet.build^
 ||wp.red88.com^
-||wp.sky88.com^
 ||wtfskins.com^
 ||wunderino.com^
 ||ww88.club^
@@ -3955,7 +3953,6 @@
 ||wwin.com^
 ||www-c54.com^
 ||www-sodo.com^
-||www.016665.com^
 ||www.10bet.co.uk^
 ||www.10bet.com^
 ||www.118kbet.com^
@@ -4072,6 +4069,7 @@
 ||www.i99908.com^
 ||www.i9bet444.com^
 ||www.i9bet5.com^
+||www.income88.com^
 ||www.indycasino.com^
 ||www.injljl.com^
 ||www.japancasino.com^
@@ -4095,6 +4093,7 @@
 ||www.kubet88.win^
 ||www.l69.me^
 ||www.lasvegassportsbetting.com^
+||www.leovegas.com^
 ||www.linesmaker.eu^
 ||www.livesports.ag^
 ||www.manclub.vin^
