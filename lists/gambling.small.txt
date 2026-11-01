@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - gambling.small
 ! Description: Gambling / betting [small]
-! Last modified: 2026-10-31 08:44 UTC
-! Entries: 4322
+! Last modified: 2026-11-01 09:36 UTC
+! Entries: 4324
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||007win.com^
@@ -437,6 +437,7 @@
 ||api.red88.com^
 ||api.shbet3.com^
 ||api.shbetvv.com^
+||api.sky88.com^
 ||api.v79top.com^
 ||api.vnloto.com^
 ||api2.sin88.com^
@@ -3085,7 +3086,6 @@
 ||skinsdream.com^
 ||sky88.bet^
 ||sky88.club^
-||sky88.com^
 ||sky88.in^
 ||sky88.info^
 ||sky88.moda^
@@ -3117,6 +3117,7 @@
 ||society.gg^
 ||sock.mu9.com^
 ||sock.red88.com^
+||sock.sky88.com^
 ||socket.9bet.build^
 ||sodo.bond^
 ||sodo.host^
@@ -3946,6 +3947,7 @@
 ||worldwidegamble.com^
 ||wp.9bet.build^
 ||wp.red88.com^
+||wp.sky88.com^
 ||wtfskins.com^
 ||wunderino.com^
 ||ww88.club^

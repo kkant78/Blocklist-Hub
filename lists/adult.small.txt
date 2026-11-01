@@ -1,6 +1,6 @@
 ! Title: Blocklist Hub - adult.small
 ! Description: Adult content [small]
-! Last modified: 2026-10-31 08:44 UTC
+! Last modified: 2026-11-01 09:36 UTC
 ! Entries: 48171
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
@@ -31300,7 +31300,6 @@
 ||ru-chaturbate.ru^
 ||ru-porn.club^
 ||ru-sex.com^
-||ru-traffic.com^
 ||ru-webcam.com^
 ||ru-xcams.com^
 ||ru-xhamster.co^
@@ -42689,6 +42688,7 @@
 ||www.rookie-av.jp^
 ||www.roughlesbiansex.com^
 ||www.royalart.co.jp^
+||www.ru-traffic.com^
 ||www.ruay.com^
 ||www.ruby-av.com^
 ||www.rule34.lol^
