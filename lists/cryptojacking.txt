@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - cryptojacking
 ! Description: Browser crypto-miners
-! Last modified: 2026-10-27 19:19 UTC
-! Entries: 223
+! Last modified: 2026-11-02 09:52 UTC
+! Entries: 224
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||1q2w3.fun^
@@ -90,6 +90,7 @@
 ||hhb123.tk^
 ||hide.ovh^
 ||hive.tubetitties.com^
+||igrid.org^
 ||ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet^
 ||ininmacerad.pro^
 ||intelserviceupdate.com^

@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - adult.small
 ! Description: Adult content [small]
-! Last modified: 2026-11-01 09:36 UTC
-! Entries: 48171
+! Last modified: 2026-11-02 09:52 UTC
+! Entries: 48161
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.oldgyhogola.com^
@@ -1524,7 +1524,6 @@
 ||agregadorporno.com^
 ||agresori.com^
 ||agrupalinks.com^
-||ags.hobby.porn^
 ||ah-me.com^
 ||ah18.one^
 ||ahacdn.me^
@@ -1596,6 +1595,7 @@
 ||alanahrae.com^
 ||alarabixxx.com^
 ||alarabsex.com^
+||alarbda.com^
 ||alashraf.ws^
 ||alastonsuomi.com^
 ||albahralfakhershipping.com^
@@ -2887,6 +2887,7 @@
 ||aphrodite.porntrack.com^
 ||api-d.hiaiabc.com^
 ||api-exc.hiaiabc.com^
+||api-gateway.dditsadn.com^
 ||api-p1.yksdks.com^
 ||api-p4.yksdks.com^
 ||api-public.luckycrush.live^
@@ -3011,7 +3012,6 @@
 ||arabporntuber.com^
 ||arabpornxx.com^
 ||arabrn.com^
-||arabs.alarbda.com^
 ||arabs.arabxforum.com^
 ||arabs3x.net^
 ||arabsex.com.es^
@@ -4012,6 +4012,7 @@
 ||bangher.net^
 ||banghub.org^
 ||bangingbeauties.com^
+||bangkazza.com^
 ||bangladeshsex.pro^
 ||banglaxxx.pro^
 ||banglaxxxvideos.com^
@@ -6548,7 +6549,6 @@
 ||cdn.adultforce.com^
 ||cdn.alleliteads.com^
 ||cdn.arabicpornmovies.com^
-||cdn.bangkazza.com^
 ||cdn.bonertraffic12.mobi^
 ||cdn.camshq.info^
 ||cdn.cherry.tv^
@@ -6588,7 +6588,6 @@
 ||cdn16tube.pro^
 ||cdn17tube.pro^
 ||cdn19tube.pro^
-||cdn2.alarbda.com^
 ||cdn2.cam-content.com^
 ||cdn2.mediumtube.pro^
 ||cdn2.momonster.space^
@@ -13857,6 +13856,7 @@
 ||gp-pt.net^
 ||gpi-design.ru^
 ||gporn.hu^
+||gptgirlfriend.online^
 ||gpvicio.com.br^
 ||gqigjgs.angelfire.com^
 ||gqporn.com^
@@ -15578,6 +15578,7 @@
 ||hnntube.com^
 ||ho6ho.com^
 ||hobatf6.forxxxx.com^
+||hobby.porn^
 ||hobbyladies.net^
 ||hobe.cc^
 ||hobomovies.com^
@@ -16611,6 +16612,7 @@
 ||hugetitslesbian.com^
 ||hugetitsmom.com^
 ||hugetitspics.net^
+||hugetraffic.com^
 ||hughsangels.proboards27.com^
 ||huh.hu^
 ||huhuporn.com^
@@ -19241,6 +19243,7 @@
 ||komu-kak.ru^
 ||konachan.com^
 ||konferencje-eventy.eu^
+||kontakt-vermittler.de^
 ||kontaktbazar.at^
 ||kontaktbox.com^
 ||kontaktbox.de^
@@ -34714,6 +34717,7 @@
 ||stripchat.app^
 ||stripchat.life^
 ||stripchat.me^
+||stripchat.ooo^
 ||stripchat.pw^
 ||stripchat.run^
 ||stripchat.webcam^
@@ -34876,6 +34880,7 @@
 ||superbgays.com^
 ||superchat.shop^
 ||superchat.webcam^
+||superchatlive.com^
 ||supercumtube.com^
 ||superfilmgeldi.net^
 ||superfreeporn.com^
@@ -38476,16 +38481,6 @@
 ||vid-ip.com^
 ||vid-mg.com^
 ||vid-xm.com^
-||vid101.hobby.porn^
-||vid102.hobby.porn^
-||vid103.hobby.porn^
-||vid104.hobby.porn^
-||vid105.hobby.porn^
-||vid106.hobby.porn^
-||vid107.hobby.porn^
-||vid108.hobby.porn^
-||vid109.hobby.porn^
-||vid110.hobby.porn^
 ||vid18.net^
 ||vid2c.com^
 ||vidbang.com^
@@ -39928,7 +39923,6 @@
 ||webmaster.privatamateure.com^
 ||webmaster.topbucks.com^
 ||webmasters.flipscash.com^
-||webmasters.hugetraffic.com^
 ||webmasters.nastydollars.com^
 ||webmasters.sextracker.com^
 ||webmasters.wetandpuffy.com^
@@ -40337,7 +40331,6 @@
 ||www-hegre-com.ru^
 ||www-imagefap-com.photosporn.net^
 ||www-ixxx-com.ru^
-||www-old.hugetraffic.com^
 ||www-old.nastydollars.com^
 ||www-pornhat-com.ru^
 ||www-porno365.com^
@@ -41559,7 +41552,6 @@
 ||www.hitprn.com^
 ||www.hmp.jp^
 ||www.hmvision.com^
-||www.hobby.porn^
 ||www.hobbyhuren-schweiz.ch^
 ||www.hobbyhuren.net^
 ||www.hollandschepassie.nl^
@@ -41613,7 +41605,6 @@
 ||www.hubporn.click^
 ||www.hubpussy.com^
 ||www.hugeasianporn.com^
-||www.hugetraffic.com^
 ||www.hugexxxmovies.com^
 ||www.hugexxxvideos.com^
 ||www.humphole.com^
@@ -41819,7 +41810,6 @@
 ||www.knullfilmer.se^
 ||www.kobayashi-web.com^
 ||www.koloporno.com^
-||www.kontakt-vermittler.de^
 ||www.kostenlosepornoclips.com^
 ||www.kostenlosexxx.com^
 ||www.koyacho.com^

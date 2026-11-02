@@ -1,6 +1,6 @@
 ! Title: Blocklist Hub - gambling.small
 ! Description: Gambling / betting [small]
-! Last modified: 2026-11-01 09:36 UTC
+! Last modified: 2026-11-02 09:52 UTC
 ! Entries: 4324
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
@@ -1903,6 +1903,7 @@
 ||img.mu9.com^
 ||inbet.com^
 ||inbet88.com^
+||income88.com^
 ||indobola77.casa^
 ||infinitybet.com^
 ||info.w88banh.com^
@@ -2218,6 +2219,7 @@
 ||leo88.top^
 ||leojackpot.com^
 ||leonbets.net^
+||leovegas.com^
 ||letsbet.com^
 ||letsbet.de^
 ||lienhe22.com^
@@ -2921,7 +2923,6 @@
 ||realbet.eu^
 ||realdealbet.com^
 ||rebatewager.ag^
-||record.income88.com^
 ||red88.club^
 ||red88.ml^
 ||red88.top^
@@ -3195,6 +3196,7 @@
 ||st66606.com^
 ||st666win.us^
 ||st666yet.site^
+||stake.com^
 ||stakes.com^
 ||stanjames.com^
 ||starlottosport.com^
@@ -4071,7 +4073,6 @@
 ||www.i99908.com^
 ||www.i9bet444.com^
 ||www.i9bet5.com^
-||www.income88.com^
 ||www.indycasino.com^
 ||www.injljl.com^
 ||www.japancasino.com^
@@ -4095,7 +4096,6 @@
 ||www.kubet88.win^
 ||www.l69.me^
 ||www.lasvegassportsbetting.com^
-||www.leovegas.com^
 ||www.linesmaker.eu^
 ||www.livesports.ag^
 ||www.manclub.vin^
