@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - trackers.small
 ! Description: Tracking, analytics, CNAME-cloaked trackers [small]
-! Last modified: 2026-11-02 09:52 UTC
-! Entries: 38929
+! Last modified: 2026-11-03 09:56 UTC
+! Entries: 38918
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.net.easyjet.com^
@@ -4806,7 +4806,6 @@
 ||alerts.wolterskluwerfs.com^
 ||alertsatwork.americanexpress.com^
 ||alexa.dev.intecular.com^
-||alexfj.elten-store.de^
 ||alfeza.vueling.com^
 ||algrcr.sandro-paris.com^
 ||alhi.actonservice.com^
@@ -6071,6 +6070,7 @@
 ||app.mingo.chat^
 ||app.mintmobile.com^
 ||app.mk.westernunion.com^
+||app.mktg.genesys.com^
 ||app.mktg.novell.com^
 ||app.mobilapp.io^
 ||app.mobilevikings.pl^
@@ -9487,7 +9487,6 @@
 ||d2j74sjmqqyf26.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
-||d2pozfvrp52dk4.cloudfront.net^
 ||d2r1yp2w7bby2u.cloudfront.net^
 ||d2t77mnxyo7adj.cloudfront.net^
 ||d2u.dauphinquebec.com^
@@ -9568,7 +9567,6 @@
 ||data.accounts.t-mobile.com^
 ||data.accountsamericas.coca-cola.com^
 ||data.accountsapac.coca-cola.com^
-||data.accountsemea.coca-cola.com^
 ||data.accountslatam.coca-cola.com^
 ||data.acierto.com^
 ||data.adlermode.com^
@@ -9657,6 +9655,7 @@
 ||data.customer.amp.com.au^
 ||data.customermail.bioplanet.be^
 ||data.customermail.collectandgo.be^
+||data.customermail.colruyt.be^
 ||data.customermail.mijnextra.be^
 ||data.customermail.mijnxtra.be^
 ||data.customermail.sparcolruytgroup.be^
@@ -11970,7 +11969,6 @@
 ||engage.us.victorinsurance.com^
 ||engage2demand.cisco.com^
 ||engagement.coremedia.cloud^
-||engagement.feedly.com^
 ||engagements.appsflyer.com^
 ||engageru.3mrussia.ru^
 ||engageru2.3mrussia.ru^
@@ -12317,7 +12315,6 @@
 ||exdmarketing.smu.edu.sg^
 ||execgroup.convio.com^
 ||executeknowledge.com^
-||execution-ci360.rai.it^
 ||exhibit.coteriefashionevents.com^
 ||exhibit.firex.co.uk^
 ||exhibit.kbb.co.uk^
@@ -13086,6 +13083,7 @@
 ||gcn.tuv.com^
 ||gcoiys.cutsclothing.com^
 ||gcowhi.thesalarycalculator.co.uk^
+||gct.americanexpress.com^
 ||gcudsn.tradetested.co.nz^
 ||gcwubi.happypancake.fi^
 ||gcxiyx.inspireuplift.com^
@@ -22253,7 +22251,6 @@
 ||mnbyto.goo-net.com^
 ||mnfqyj.corello.com.br^
 ||mnwljk.ibagy.com.br^
-||moai-dev-samsung.com^
 ||mob2.healthtrackergroup.com^
 ||mobil.hry.yt^
 ||mobildev.in^
@@ -24037,7 +24034,6 @@
 ||pkg.balluff.com^
 ||pkhevp.suplinx.com^
 ||pkiawn.konvy.com^
-||pkimbc.bestsecret.com^
 ||pkmvjx.my-store.ch^
 ||pkqfky.direct-abris.com^
 ||pks-analytics.raenonx.cc^
@@ -25376,7 +25372,6 @@
 ||rockcarving.com^
 ||rocketmonitor.com^
 ||roedwy.imidapeptide.com^
-||roibest-report-sdk.qiliangjia.com^
 ||roinjg.mkluzkoviny.cz^
 ||roiscs.actonservice.com^
 ||rollbar.actonservice.com^
@@ -26059,7 +26054,6 @@
 ||sanalytics.securebanklogin.com^
 ||sanalytics.skinny.co.nz^
 ||sanalytics.smart.mercedes-benz.com^
-||sanalytics.spark.co.nz^
 ||sanalytics.sydneyuniversity.cn^
 ||sanalytics.tabichan.jp^
 ||sanalytics.tcm.com^
@@ -28519,7 +28513,6 @@
 ||smetrics.leonardo.essilorluxottica.com^
 ||smetrics.lexmark.com^
 ||smetrics.lexusonthepark.ca^
-||smetrics.lidea.today^
 ||smetrics.lifestride.com^
 ||smetrics.lifree.com^
 ||smetrics.lillymedical.com^
@@ -31961,7 +31954,6 @@
 ||str2-fsca-track.bestbuy.com^
 ||strack.aetna.com^
 ||strack.aetnabetterhealth.com^
-||strack.allianz.at^
 ||strack.allianz.ch^
 ||strack.apps.allianzworldwidecare.com^
 ||strack.cap.ch^
@@ -35639,6 +35631,7 @@
 ||trc.taboola.com^
 ||trccvt.dhc.co.jp^
 ||trck-a8.j-depo.com^
+||trck.accredible.com^
 ||trck.aeon.co.jp^
 ||trck.asset.malcotools.com^
 ||trck.atnenga.com^
@@ -36102,7 +36095,6 @@
 ||tvuaeb.taqi.com.br^
 ||tw-go.experian.com^
 ||tw.cx^
-||tw.reppublika.com^
 ||tw.spiriteq.com^
 ||twdhec.marioeletro.com^
 ||tweetdeck.net.anwalt.de^
@@ -36580,7 +36572,6 @@
 ||utiq.lagacetadesalamanca.es^
 ||utiq.landtiere.de^
 ||utiq.laopinioncoruna.es^
-||utiq.laopiniondemalaga.es^
 ||utiq.larepubliquedespyrenees.fr^
 ||utiq.larioja.com^
 ||utiq.lavozdigital.es^
@@ -38472,7 +38463,6 @@
 ||xlbvvo.luisaviaroma.com^
 ||xldnzg.trendhim.de^
 ||xlhdtn.hugendubel.de^
-||xljqqe.hsn.com^
 ||xludzt.alfastrah.ru^
 ||xlvvy4msxr.coolinastore.com^
 ||xmcvqq.pinkpanda.ro^
@@ -38554,7 +38544,6 @@
 ||yazzuf.joyn.de^
 ||ybgsyd.osharewalker.co.jp^
 ||ybswii.swarovski.com^
-||ybzcmz.momoshop.com.tw^
 ||ychqww.aboutyou.lv^
 ||ycjhuh.stripe-club.com^
 ||yctjw54slxrwwlh.trybawaryjny.pl^

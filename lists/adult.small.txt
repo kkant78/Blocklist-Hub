@@ -1,6 +1,6 @@
 ! Title: Blocklist Hub - adult.small
 ! Description: Adult content [small]
-! Last modified: 2026-11-02 09:52 UTC
+! Last modified: 2026-11-03 09:56 UTC
 ! Entries: 48161
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
@@ -657,7 +657,6 @@
 ||444live.link^
 ||44porno.com^
 ||4adultin.com^
-||4affiliate.net^
 ||4astnoe-porno.ru^
 ||4based.com^
 ||4bokepterbaru.top^
@@ -1180,6 +1179,7 @@
 ||adult-adv.com^
 ||adult-arab.com^
 ||adult-bank.jp^
+||adult-banner-ads.com^
 ||adult-channels.com^
 ||adult-clips.us^
 ||adult-dating-ads.com^
@@ -40398,6 +40398,7 @@
 ||www.3dvdiso.com^
 ||www.3dxxxcomics.com^
 ||www.40somethingmag.com^
+||www.4affiliate.net^
 ||www.4kpornhd.world^
 ||www.4porn.mobi^
 ||www.4tubey.com^
@@ -40436,7 +40437,6 @@
 ||www.adesiporn.com^
 ||www.ads.adtube.de^
 ||www.ads.gofuckyourself.com^
-||www.adult-banner-ads.com^
 ||www.adult-porn.org^
 ||www.adult-profit-files2.com^
 ||www.adult-strip-games.com^
