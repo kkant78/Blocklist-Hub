@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - scam.small
 ! Description: Scam, fraud, spam, fake shops [small]
-! Last modified: 2026-10-27 19:19 UTC
-! Entries: 33
+! Last modified: 2026-11-04 09:44 UTC
+! Entries: 34
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||638f474304a2b.site123.me^
@@ -31,6 +31,7 @@
 ||reifendienst-notdienst.jimdosite.com^
 ||reiseweltat6.wixsite.com^
 ||ro6.landofm.com^
+||sparfuchs-vergleich.base44.app^
 ||spontaneous-bubblegum-6d5740.netlify.app^
 ||temp-dxvrqxhirzbigzysagqp.webadorsite.com^
 ||the-garden-pavilions-of-sobranie-russian.eshop.t-online.de^

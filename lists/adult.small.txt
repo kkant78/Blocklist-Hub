@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - adult.small
 ! Description: Adult content [small]
-! Last modified: 2026-11-03 09:56 UTC
-! Entries: 48161
+! Last modified: 2026-11-04 09:44 UTC
+! Entries: 48159
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.oldgyhogola.com^
@@ -10459,7 +10459,6 @@
 ||fapello.com^
 ||fapello.fans^
 ||fapello.ru^
-||fapello.su^
 ||fapello.tv^
 ||faperoni.com^
 ||fapetite.com^
@@ -25255,7 +25254,6 @@
 ||oudoll.com^
 ||ounoun.com^
 ||ouramateursluts.com^
-||ourdream.ai^
 ||ourgrannypics.com^
 ||ourhappyhardcore.com^
 ||ourhdporn.com^
