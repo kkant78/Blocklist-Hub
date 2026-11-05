@@ -1,6 +1,6 @@
 ! Title: Blocklist Hub - adult.small
 ! Description: Adult content [small]
-! Last modified: 2026-11-04 09:44 UTC
+! Last modified: 2026-11-05 09:47 UTC
 ! Entries: 48159
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
@@ -976,6 +976,7 @@
 ||a-table.paris^
 ||a-xnxx.com^
 ||a.bestcontentprogram.top^
+||a.bestcontentproject.top^
 ||a.bodyzoom.ru^
 ||a.exosrv.com^
 ||a.kazakh-porn.ru^
@@ -3770,6 +3771,7 @@
 ||b-eu8.strpst.com^
 ||b-hls-16.strpst.com^
 ||b.bestcontentprogram.top^
+||b.bestcontentproject.top^
 ||b.xd-cdn.com^
 ||b1.hentaibaka.one^
 ||b1gtits.com^
@@ -4520,7 +4522,6 @@
 ||bestcamsites.me^
 ||bestcamsites.online^
 ||bestcamwhores.com^
-||bestcontentproject.top^
 ||bestcrazyvideos.com^
 ||bestdateshere22.com^
 ||bestdatingzone.life^
@@ -6151,7 +6152,6 @@
 ||camcontacts.com^
 ||camcordersex.com^
 ||camcorderxxx.com^
-||camcrush.com^
 ||camdarlings.com^
 ||camdeporno.net^
 ||camdesires.com^
@@ -8554,7 +8554,6 @@
 ||desixxxvideo.cc^
 ||desixxxx.net^
 ||desizex.com^
-||desklks.com^
 ||desktopangels.net^
 ||deslacouture.com^
 ||desnudas.top^
@@ -9159,7 +9158,6 @@
 ||dudethrills.fr^
 ||dudethrills.pl^
 ||duga.jp^
-||duisburgbabychildname.energysexy.com^
 ||dujav.com^
 ||dulhea.com^
 ||dumbvirgins.com^
@@ -9487,6 +9485,7 @@
 ||endorphine-life.ru^
 ||energyindian.com^
 ||energymilf.com^
+||energysexy.com^
 ||enf-cmnf.com^
 ||enfdaily.com^
 ||engine.doublepimp.com^
@@ -11503,6 +11502,7 @@
 ||free-xxx.xyz^
 ||free.angels-list.com^
 ||free.co.cz^
+||free.fuckbook.cm^
 ||free.livecamzsex.com^
 ||free.nudegirlserotica.com^
 ||free.porn^
@@ -12288,7 +12288,6 @@
 ||fuckarea.biz^
 ||fuckass.net^
 ||fuckatube.com^
-||fuckbook.cm^
 ||fuckbook.com^
 ||fuckbook.tv^
 ||fuckbookflirt.com^
@@ -16734,7 +16733,6 @@
 ||icanhazchat.com^
 ||icdn02.igayporn.tv.sds.rncdn7.com^
 ||ice-gay.com^
-||icebns.com^
 ||icegay.tv^
 ||icegayporn.com^
 ||icegaytube.gay^
@@ -16939,10 +16937,8 @@
 ||img.cdn.house^
 ||img.dlsite.jp^
 ||img.jizzads.com^
-||img.koxk.com^
 ||img.l3.cdn.redtubefiles.com^
 ||img.luluvdo.com^
-||img.lxax.com^
 ||img.nangcucz.link^
 ||img.royal-cash.com^
 ||img.strpst.com^
@@ -19328,6 +19324,7 @@
 ||koushoku.org^
 ||kowalskypage.club^
 ||kowalskypage.pro^
+||koxk.com^
 ||kphimsex.xyz^
 ||kporno.com^
 ||kraamzorg.info^
@@ -20634,6 +20631,7 @@
 ||luxxxporn.com^
 ||luxyoungsex.com^
 ||lvs.streamray.com^
+||lxax.com^
 ||lxtube.com^
 ||lxtube.pro^
 ||lynxdollars.com^
@@ -30419,6 +30417,7 @@
 ||qnewporn.com^
 ||qombol.com^
 ||qoo.ddns.info^
+||qoqh.com^
 ||qoqoz.com^
 ||qorno.com^
 ||qorno.net^
@@ -31736,7 +31735,6 @@
 ||secure.watchmygf.com^
 ||secure.watchmygf.net^
 ||securedataimages.com^
-||securegfm.com^
 ||securemetro.com^
 ||securesaferoute.com^
 ||seduce.nl^
@@ -34932,7 +34930,6 @@
 ||suxporn.com^
 ||suzepps.com^
 ||suzisporn.com^
-||sv.lxax.com^
 ||svenskaporn.com^
 ||svideos.xxx^
 ||svjav.com^
@@ -35285,7 +35282,6 @@
 ||tamilxxx2021.com^
 ||tantalize.in^
 ||tanteindo.top^
-||tantoporno.com^
 ||tanwhore.com^
 ||taoxh.life^
 ||tapchisex.me^
@@ -40830,6 +40826,7 @@
 ||www.california-tv.com^
 ||www.cam4.fr^
 ||www.camarads.com^
+||www.camcrush.com^
 ||www.cameralux.cn^
 ||www.cameralux.co.no^
 ||www.cameralux.com.ua^
@@ -40989,6 +40986,7 @@
 ||www.desixxx.icu^
 ||www.desixxx.pro^
 ||www.desixxxhindi.com^
+||www.desklks.com^
 ||www.deutsche-anal-pornos.com^
 ||www.deutsche-porno.net^
 ||www.deutsche-pornofilme.xxx^
@@ -41280,6 +41278,7 @@
 ||www.frot.co.nz^
 ||www.fsiblog4.com^
 ||www.fuckbah.pro^
+||www.fuckbook.cm^
 ||www.fuckcelebs.net^
 ||www.fuckermate.com^
 ||www.fuckindianvideo.com^
@@ -41613,6 +41612,7 @@
 ||www.hutporn.com^
 ||www.i-dol.tv^
 ||www.ibworks.jp^
+||www.icebns.com^
 ||www.iconmale.com^
 ||www.ideapocket.com^
 ||www.idols69.net^
@@ -41895,7 +41895,6 @@
 ||www.lustrous2ft.com^
 ||www.luvcelebs.com^
 ||www.luxxx.hu^
-||www.lxax.com^
 ||www.lysbjxc.com^
 ||www.lyxnxx.net^
 ||www.m-porncn.com^
@@ -42989,6 +42988,7 @@
 ||www.tangablitzer.com^
 ||www.tangoporno.com^
 ||www.tanputas.com^
+||www.tantoporno.com^
 ||www.tapesxx.com^
 ||www.tasticxxxfootballgolden.com^
 ||www.taworship.com^

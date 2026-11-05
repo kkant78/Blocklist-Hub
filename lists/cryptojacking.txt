@@ -1,6 +1,6 @@
 ! Title: Blocklist Hub - cryptojacking
 ! Description: Browser crypto-miners
-! Last modified: 2026-11-02 09:52 UTC
+! Last modified: 2026-11-05 09:47 UTC
 ! Entries: 224
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
@@ -13,6 +13,7 @@
 ||analytics.blue^
 ||andlache.com^
 ||anybest.pw^
+||api.browsermine.com^
 ||api.inwemo.com^
 ||as.cfcdist.loan^
 ||ashgrrwt.click^
@@ -37,7 +38,6 @@
 ||bmnr.pw^
 ||bmst.pw^
 ||brominer.com^
-||browsermine.com^
 ||cdn.adless.io^
 ||cdn.cloudcoins.co^
 ||cdnjs.cloudflane.com^
@@ -65,6 +65,7 @@
 ||de-ner-mi-nis4.info^
 ||de-nis-ner-mi-5.info^
 ||depttake.ga^
+||dl.browsermine.com^
 ||dronml.ml^
 ||eth-pocket.com^
 ||eth-pocket.de^
@@ -90,7 +91,6 @@
 ||hhb123.tk^
 ||hide.ovh^
 ||hive.tubetitties.com^
-||igrid.org^
 ||ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet^
 ||ininmacerad.pro^
 ||intelserviceupdate.com^
