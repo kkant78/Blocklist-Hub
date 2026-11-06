@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - adult.small
 ! Description: Adult content [small]
-! Last modified: 2026-11-05 09:47 UTC
-! Entries: 48159
+! Last modified: 2026-11-06 09:44 UTC
+! Entries: 48172
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.oldgyhogola.com^
@@ -1135,6 +1135,7 @@
 ||adriana-sage.org^
 ||adristarter.eu^
 ||ads-g.juicyads.com^
+||ads.adultfriendfinder.com^
 ||ads.adultswim.com^
 ||ads.adxadserv.com^
 ||ads.asiafriendfinder.com^
@@ -1165,6 +1166,7 @@
 ||ads.waterbondage.com^
 ||ads2.contentabc.com^
 ||ads2.ero-advertising.com^
+||adserver.adultfriendfinder.com^
 ||adserver.asiafriendfinder.com^
 ||adserver.gallerytrafficservice.com^
 ||adserver.juicyads.com^
@@ -1290,7 +1292,6 @@
 ||adultforumum.com^
 ||adultfreex.com^
 ||adultfreex.org^
-||adultfriendfinder.com^
 ||adultfriendfinders.com^
 ||adultfriendfinders.net^
 ||adultfriendfinders.us^
@@ -4046,6 +4047,7 @@
 ||bannerout.com^
 ||bannerrotation.sexmoney.com^
 ||banners.777-xxx.com^
+||banners.adultfriendfinder.com^
 ||banners.adultrevenueservice.com^
 ||banners.amateurtour.com^
 ||banners.animeerotico.com^
@@ -5170,6 +5172,7 @@
 ||blissbox.com^
 ||blitz-natursekt.de^
 ||blog-star-x.com^
+||blog.adultfriendfinder.com^
 ||blog.masturbate2gether.com^
 ||blog.mrpinks.com^
 ||blog.pornbookmarks.online^
@@ -6742,6 +6745,7 @@
 ||chat-s-devushkami.com^
 ||chat-sex.top^
 ||chat-webcams.com^
+||chat.adultfriendfinder.com^
 ||chat.sexy^
 ||chat18.webcam^
 ||chatanalporn.com^
@@ -7444,7 +7448,6 @@
 ||content.arabicpornmovies.com^
 ||content.leenks.com^
 ||content.pop6.com^
-||content.risquesluts.com^
 ||contentdef.com^
 ||contentpays.info^
 ||contents.sex-explorer.com^
@@ -7454,6 +7457,7 @@
 ||contrinh.net^
 ||conviviocm.pt^
 ||conviviox.com^
+||conxxx.pro^
 ||cooch.club^
 ||cooch7.com^
 ||coochporn.com^
@@ -7551,6 +7555,7 @@
 ||courtneytaylor.xxx^
 ||courtneyvirgin.com^
 ||cousinpornvideo.com^
+||cover9.adultfriendfinder.com^
 ||coveredincumtube.com^
 ||coverstory.info^
 ||covertjapan.com^
@@ -9158,6 +9163,7 @@
 ||dudethrills.fr^
 ||dudethrills.pl^
 ||duga.jp^
+||duisburgbabychildname.energysexy.com^
 ||dujav.com^
 ||dulhea.com^
 ||dumbvirgins.com^
@@ -9485,7 +9491,6 @@
 ||endorphine-life.ru^
 ||energyindian.com^
 ||energymilf.com^
-||energysexy.com^
 ||enf-cmnf.com^
 ||enfdaily.com^
 ||engine.doublepimp.com^
@@ -13230,6 +13235,7 @@
 ||genvideos.org^
 ||genzsex.today^
 ||geo.xxxblackbook.com^
+||geobanner.adultfriendfinder.com^
 ||geobanner.passion.com^
 ||george-models.com^
 ||geporn.com^
@@ -14021,6 +14027,7 @@
 ||granpornoxxx.com^
 ||granporns.com^
 ||gransexy.com^
+||graphics.adultfriendfinder.com^
 ||graphics.passion.com^
 ||graphics.pop6.com^
 ||graphics1.sextracker.com^
@@ -14125,6 +14132,7 @@
 ||guarrasdelporno.xxx^
 ||gudamaithuna.com^
 ||gudangdownloadbokep.com^
+||guest.adultfriendfinder.com^
 ||guiaadulto.com^
 ||guitarxh.xyz^
 ||gujarati.icu^
@@ -18779,6 +18787,7 @@
 ||joymii.com^
 ||joymiifan.com^
 ||joymiihub.com^
+||joyourself.com^
 ||joyourself.org.uk^
 ||joyporn.me^
 ||joyreactor.cc^
@@ -22042,7 +22051,6 @@
 ||mnvg.com^
 ||mo.jucydate.com^
 ||mob.porno365.ink^
-||mob.st^
 ||mobi-sat.ru^
 ||mobi-xnxx.com^
 ||mobi.huyamba.mobi^
@@ -24027,7 +24035,6 @@
 ||noodlemagazine.net^
 ||noodlemagazine.vip^
 ||noodlemagazines.asia^
-||nope.xn--mgbkt9eckr.net^
 ||nopixeljaps.com^
 ||nordestinas.com^
 ||norsk.mobi^
@@ -25170,6 +25177,7 @@
 ||oppaisan.com^
 ||opstubes.com^
 ||opticafontana.cl^
+||option9.adultfriendfinder.com^
 ||opujem.com^
 ||oralgirlfriend.net^
 ||oralgirlfriends.com^
@@ -26499,6 +26507,8 @@
 ||poopeegirls.com^
 ||poorn.pro^
 ||poorn.tv^
+||pop6.adultfriendfinder.com^
+||pop6.adultfriendfinder.comads.adultfriendfinder.com^
 ||popads.ero-advertising.com^
 ||popander.mobi^
 ||popindian.com^
@@ -31156,6 +31166,7 @@
 ||ripemom.com^
 ||ripthatbitch.com^
 ||riskyteenvideo.com^
+||risquesluts.com^
 ||ritzyamateursex.com^
 ||rivcams.com^
 ||riverasian.com^
@@ -31730,6 +31741,7 @@
 ||secretswipes.com^
 ||secretteenvideo.com^
 ||secrettube.site^
+||secure.adultfriendfinder.com^
 ||secure.vend-o.com^
 ||secure.vs3.com^
 ||secure.watchmygf.com^
@@ -36069,6 +36081,7 @@
 ||tgirlsex.xxx^
 ||tgirlsmovies.com^
 ||tgirlvid.com^
+||tgp.adultfriendfinder.com^
 ||tgp.eroticstories.com^
 ||tgpamateur.com^
 ||tgpin.com^
@@ -40440,6 +40453,7 @@
 ||www.adultclipshq.com^
 ||www.adultclipsm.com^
 ||www.adultdatelink.com^
+||www.adultfriendfinder.com^
 ||www.adultgamingroom.com^
 ||www.adulthdvideo.com^
 ||www.adultium.com^
@@ -41763,7 +41777,6 @@
 ||www.jkforum.net^
 ||www.jns-grp.net^
 ||www.joyclub.de^
-||www.joyourself.com^
 ||www.jpboy1069.net^
 ||www.jpxxx24.com^
 ||www.jsexnetwork.com^

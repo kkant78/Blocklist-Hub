@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - trackers.small
 ! Description: Tracking, analytics, CNAME-cloaked trackers [small]
-! Last modified: 2026-11-05 09:47 UTC
-! Entries: 40340
+! Last modified: 2026-11-06 09:44 UTC
+! Entries: 40313
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.net.easyjet.com^
@@ -4962,7 +4962,6 @@
 ||aminks.underarmour.com.tr^
 ||amitracks.actonservice.com^
 ||amo.myoyster.mx^
-||amp-error-reporting.appspot.com^
 ||amplifypixel.outbrain.com^
 ||amplitude.chess.com^
 ||ampltd.top.gg^
@@ -5653,7 +5652,6 @@
 ||api.tblcontent.com^
 ||api.telemetry.watchabc.go.com^
 ||api.uca.cloud.unity3d.com^
-||api.wipmania.com^
 ||api2.branch.io^
 ||api3.branch.io^
 ||apilog-web.acfun.cn^
@@ -6665,7 +6663,6 @@
 ||ascendintegratedmedia.actonservice.com^
 ||ascentcrm.actonservice.com^
 ||ascmart.abphotos.link^
-||ascpqnj-oam.global.ssl.fastly.net^
 ||asd.bauhaus.at^
 ||asd.bauhaus.es^
 ||asd.bauhaus.hr^
@@ -7916,7 +7913,6 @@
 ||c.amazinglybrilliant.com.au^
 ||c.aquaservice.com^
 ||c.autozen.tv^
-||c.bazo.io^
 ||c.fingerprint.com^
 ||c.gazetevatan.com^
 ||c.gq.com^
@@ -8349,7 +8345,6 @@
 ||clariant.actonservice.com^
 ||clarifyverse.com^
 ||clarity-infographic.zebra.com^
-||clarium.global.ssl.fastly.net^
 ||claruscommerce.actonservice.com^
 ||classicnotebook.com^
 ||classroominc.actonservice.com^
@@ -9148,7 +9143,6 @@
 ||copyvibes.com^
 ||coralcranes.com^
 ||coralreverie.com^
-||core-apps.b-cdn.net^
 ||corgibeachday.com^
 ||corporate-klm.americanexpress.nl^
 ||corporate-marketing.hrs.com^
@@ -9605,7 +9599,6 @@
 ||d.haberler.com^
 ||d.jugnoo.in^
 ||d.lilstts.com^
-||d.m-net.de^
 ||d.mail.levi.com^
 ||d.nativendo.de^
 ||d.santemagazine.fr^
@@ -10273,7 +10266,6 @@
 ||dc8na2hxrj29i.cloudfront.net^
 ||dccfog.petco.com^
 ||dcclaa.bunte.de^
-||dcclaa.daskochrezept.de^
 ||dcclaa.einfachbacken.de^
 ||dcclaa.elle.de^
 ||dcclaa.freundin.de^
@@ -10498,7 +10490,6 @@
 ||dewdroplagoon.com^
 ||dex50.deteql.net^
 ||dextersolutions.actonservice.com^
-||dfapvmql-q.global.ssl.fastly.net^
 ||dfe.mic.mob.com^
 ||dffpxg.targus.com^
 ||dfitgc.yamamay.com^
@@ -10557,7 +10548,6 @@
 ||dialogue.mazda.hu^
 ||dialogue.mazda.ie^
 ||dialogue.mazda.pt^
-||dialogue.mazda.rs^
 ||dialogue.mazda.sk^
 ||diamages.carte-gr.total.fr^
 ||diboji.class101.net^
@@ -10671,14 +10661,21 @@
 ||dii2.zooplus.pt^
 ||dii2.zooplus.ro^
 ||dii2.zooplus.se^
+||dii3.bitiba.be^
 ||dii3.bitiba.ch^
 ||dii3.bitiba.co.uk^
 ||dii3.bitiba.cz^
+||dii3.bitiba.de^
+||dii3.bitiba.dk^
 ||dii3.bitiba.es^
 ||dii3.bitiba.fi^
+||dii3.bitiba.fr^
+||dii3.bitiba.it^
 ||dii3.bitiba.nl^
+||dii3.bitiba.pl^
 ||dii3.bitiba.se^
 ||dii3.zoochic-eu.ru^
+||dii3.zoohit.cz^
 ||dii3.zoohit.si^
 ||dii3.zoohit.sk^
 ||dii3.zooplus.at^
@@ -11451,7 +11448,6 @@
 ||effulgentnook.com^
 ||effulgenttempest.com^
 ||efgam.actonservice.com^
-||efglbp.baur.de^
 ||efm.verintsystemsinc.com^
 ||efplso.epost.go.kr^
 ||efsqwi.krueger-dirndl.de^
@@ -13196,7 +13192,6 @@
 ||g8715710740.co^
 ||g8913795075.co^
 ||g993dvyzae.branch.salesfloor.net^
-||ga-beacon.appspot.com^
 ||ga-bq-py-1.appspot.com^
 ||ga-tracker-dot-detmir-bonus.appspot.com^
 ||ga.groc.press^
@@ -14190,7 +14185,6 @@
 ||graywords.net^
 ||grc.openapp.link^
 ||grc2.secureforms.mcafee.com^
-||green-griffin-860.appspot.com^
 ||greenbeacon.actonservice.com^
 ||greencharge.actonservice.com^
 ||greenjapan-cname.green-japan.com^
@@ -14296,7 +14290,6 @@
 ||h5log.zongheng.com^
 ||hacx60.com^
 ||haikusoap.com^
-||hal.courrierinternational.com^
 ||halcyoncanyon.com^
 ||halo.actonservice.com^
 ||haltingdivision.com^
@@ -14463,7 +14456,6 @@
 ||highnoongear.com^
 ||highscoresport.com^
 ||hightouch-events.com^
-||hijxfm.gaspedaal.nl^
 ||hikmxb.botovo.cz^
 ||hiknhe.tanabesports.com^
 ||hilariouszinc.com^
@@ -14686,7 +14678,6 @@
 ||hwyytk.verabradley.com^
 ||hwyyuy.ringcentral.com^
 ||hxbgxi.seikousa.com^
-||hxiabp.colins.com.tr^
 ||hxmssa.wordans.nl^
 ||hxnxxq.tophifi.pl^
 ||hybridburst.com^
@@ -14850,7 +14841,6 @@
 ||ilpostoplus.openapp.link^
 ||iltcaf.immobilienscout24.de^
 ||ilvqos.lyst.es^
-||ilyonanalytics.herokuapp.com^
 ||image.ard.de^
 ||image.deginvest.de^
 ||image.go.aricent.com^
@@ -16544,7 +16534,6 @@
 ||izremx.dentalplans.com^
 ||izwgxw.acordocerto.com.br^
 ||j.mrpdata.net^
-||j.northbeam.io^
 ||j1.ax.xrea.com^
 ||j198.registercitizen.com^
 ||j2i0.mathon.fr^
@@ -18467,7 +18456,6 @@
 ||logger.cloudmobi.net^
 ||logger.growstarry.com^
 ||logger.nerdwallet.com^
-||logger.rm.uol.com.br^
 ||logger.snackly.co^
 ||logger.torimochi-ad.net^
 ||logger.yp.ca^
@@ -22304,7 +22292,6 @@
 ||mixplays.com^
 ||mixxuo.sportys.gr^
 ||mj23.eulerian.com^
-||mjca-yijws.global.ssl.fastly.net^
 ||mjfunt.bibi.com^
 ||mjjvkx.monoprice.com^
 ||mjnpya.marktplaats.nl^
@@ -24209,7 +24196,6 @@
 ||pixel.sprinklr.com^
 ||pixel.tatpek.com^
 ||pixel.videohub.tv^
-||pixel.wp.com^
 ||pixel.yabidos.com^
 ||pixel2.realclever.com^
 ||pixeledhub.com^
@@ -24493,7 +24479,6 @@
 ||possibleboats.com^
 ||possiblepencil.com^
 ||post.carte-gr.total.fr^
-||post.eyepinnews.com^
 ||postgraduate.smu.edu.sg^
 ||postgraduate2.smu.edu.sg^
 ||potatoinvention.com^
@@ -25690,7 +25675,6 @@
 ||rubyswinehouse.com^
 ||rugttt.robinson.com^
 ||ruhpbn.zhigaojixie.com^
-||rum-collector.leaderint.workers.dev^
 ||rum.api.intuit.com^
 ||rum.cdnpure.com^
 ||rum.conde.io^
@@ -26460,7 +26444,6 @@
 ||sbxxyx.notino.cz^
 ||sby1.madeindesign.de^
 ||sbyneh.dailymail.co.uk^
-||sc-analytics.appspot.com^
 ||sc-nossl.speakeasy.net^
 ||sc.actonservice.com^
 ||sc.blurb.fr^
@@ -26736,7 +26719,6 @@
 ||secure.arid5glop.com^
 ||secure.arrow.com^
 ||secure.badb5refl.com^
-||secure.bait4role.com^
 ||secure.bali6nora.com^
 ||secure.bank8line.com^
 ||secure.barn5bake.com^
@@ -32149,7 +32131,6 @@
 ||stat.web-regie.com^
 ||stat.wk-formation.fr^
 ||stat.wkf.fr^
-||stat.wolterskluwer.com^
 ||stat.wolterskluwer.es^
 ||stat.wolterskluwer.pl^
 ||stat.wolterskluwer.pt^
@@ -32280,7 +32261,6 @@
 ||stats.carecredit.com^
 ||stats.carrot2.org^
 ||stats.carrotsearch.com^
-||stats.cartoonnetwork.com^
 ||stats.caseydunham.com^
 ||stats.cassidyjames.com^
 ||stats.catholicluv.com^
@@ -32921,10 +32901,8 @@
 ||stats.winsim.de^
 ||stats.wired.com^
 ||stats.wisconsingenomics.org^
-||stats.wordpress.com^
 ||stats.wordvested.org^
 ||stats.world.hey.com^
-||stats.wp.com^
 ||stats.wvs.org.uk^
 ||stats.wvsindia.org^
 ||stats.wwdcscholars.com^
@@ -33537,7 +33515,6 @@
 ||t-s.zelboraf.com^
 ||t-test.esvdigital.com^
 ||t.10er-tagesticket.de^
-||t.12thman.com^
 ||t.2x.nz^
 ||t.360.audion.fm^
 ||t.360playvid.info^
@@ -33748,7 +33725,6 @@
 ||t.nylinvestments.com^
 ||t.ohiobobcats.com^
 ||t.okcciviccenter.com^
-||t.okstate.com^
 ||t.olemisssports.com^
 ||t.optiwizehealth.com^
 ||t.oralia.fr^
@@ -33901,7 +33877,6 @@
 ||tags.hilabel.nl^
 ||tags.igeo.com.bo^
 ||tags.klove.com^
-||tags.master-perf-tools.com^
 ||tags.mlytics.com^
 ||tags.premiumads.com.br^
 ||tags.refinery89.com^
@@ -34307,7 +34282,6 @@
 ||telemetrics.klaviyo.com^
 ||telemetry-eastus.trafficmanager.inmobi.com^
 ||telemetry.adsninja.ca^
-||telemetry.api.playstation.com^
 ||telemetry.boxt.co.uk^
 ||telemetry.chrobinson.com^
 ||telemetry.codefusion.technology^
@@ -36073,7 +36047,6 @@
 ||tracker-aa.paf.es^
 ||tracker-aa.pafbetscore.lv^
 ||tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com^
-||tracker-dot-optimeeze.appspot.com^
 ||tracker-rec.smart-bdash.com^
 ||tracker-remp.active.radio^
 ||tracker-shr.ortb.net^
