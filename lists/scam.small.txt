@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - scam.small
 ! Description: Scam, fraud, spam, fake shops [small]
-! Last modified: 2026-11-06 09:44 UTC
-! Entries: 34
+! Last modified: 2026-11-07 09:07 UTC
+! Entries: 33
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||638f474304a2b.site123.me^
@@ -11,7 +11,6 @@
 ||besttobuy.company.site^
 ||de.cardionv.com^
 ||eco-pellet.company.site^
-||epicooler.checkoutera.com^
 ||es.landofm.com^
 ||forbes.gpttrader.org^
 ||fr.fundiza.com^

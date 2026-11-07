@@ -1,6 +1,6 @@
 ! Title: Blocklist Hub - gambling.small
 ! Description: Gambling / betting [small]
-! Last modified: 2026-11-02 09:52 UTC
+! Last modified: 2026-11-07 09:07 UTC
 ! Entries: 4324
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
@@ -1643,6 +1643,7 @@
 ||gwbet.com^
 ||h3bet.com^
 ||h51.live^
+||hajper.com^
 ||halaplay.com^
 ||hamsterbet.com^
 ||hanplayer.com^
@@ -3105,6 +3106,7 @@
 ||slotsmagic.com^
 ||slotsons.com^
 ||slottyvegas.com^
+||slotv.com^
 ||sloty.com^
 ||smarkets.com^
 ||smart.8live.com^
@@ -3572,6 +3574,7 @@
 ||uk88chinhhang.com^
 ||ultimate-odds.com^
 ||unibet-42.com^
+||unibet.com^
 ||unibet.com.au^
 ||uniclub.lt^
 ||unionbet.com^
@@ -4065,7 +4068,6 @@
 ||www.go88-vn.com^
 ||www.gotoentertainment.com^
 ||www.grosvenorcasinos.com^
-||www.hajper.com^
 ||www.hi88vip0.com^
 ||www.hi88vip8.com^
 ||www.horey4d.net^
@@ -4148,7 +4150,6 @@
 ||www.sin88.club^
 ||www.sin88s.com^
 ||www.sky88.win^
-||www.slotv.com^
 ||www.sportsbettingdime.com^
 ||www.sportsbook.ag^
 ||www.sportsbookreview.com^
@@ -4168,7 +4169,6 @@
 ||www.udw884.com^
 ||www.uk-k8.com^
 ||www.unibet.co.uk^
-||www.unibet.com^
 ||www.vacasino.com^
 ||www.vb211.com^
 ||www.verajohn.com^
