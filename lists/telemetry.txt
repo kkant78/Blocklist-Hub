@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - telemetry
 ! Description: Smart TV, Android, Windows telemetry
-! Last modified: 2026-11-07 09:07 UTC
-! Entries: 751
+! Last modified: 2026-11-08 09:24 UTC
+! Entries: 759
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0077777700140002.myhomescreen.tv^
@@ -11,6 +11,7 @@
 ||a.ads1.msn.com^
 ||a.ads2.msads.net^
 ||a.ads2.msn.com^
+||a.applvn.com^
 ||ac3.msn.com^
 ||ad.doubleclick.net^
 ||ad.lgappstv.com^
@@ -21,14 +22,13 @@
 ||ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv^
 ||adc3-launch.adcolony.com^
 ||adlog.flurry.com^
-||adnxs.com^
 ||ads.aimitv.com^
 ||ads.api.vungle.com^
+||ads.mopub.com^
 ||ads.samsungads.com^
 ||ads.twitter.com^
 ||ads1.msads.net^
 ||adservice.google.de^
-||adv.ettoday.net^
 ||advertising.com^
 ||af.nextlgsdp.com^
 ||ag.nextlgsdp.com^
@@ -42,6 +42,7 @@
 ||aka-cdn-ns.adtech.de^
 ||al.nextlgsdp.com^
 ||alog.umeng.com^
+||alpha.telemetry.microsoft.com^
 ||am.nextlgsdp.com^
 ||androidtvlauncherxfe-pa.googleapis.com^
 ||ao.nextlgsdp.com^
@@ -52,7 +53,6 @@
 ||api.euro.hismarttv.com^
 ||api.us.hismarttv.com^
 ||app.adjust.com^
-||applvn.com^
 ||appspot-preview.l.google.com^
 ||aq.nextlgsdp.com^
 ||ar.nextlgsdp.com^
@@ -77,7 +77,6 @@
 ||bg.nextlgsdp.com^
 ||bh.nextlgsdp.com^
 ||bi.nextlgsdp.com^
-||bingads.microsoft.com^
 ||bj.nextlgsdp.com^
 ||bm.nextlgsdp.com^
 ||bn.nextlgsdp.com^
@@ -135,6 +134,7 @@
 ||c.atdmt.com^
 ||c.msn.com^
 ||ca.nextlgsdp.com^
+||ca.telemetry.microsoft.com^
 ||call.me.sel.sony.com^
 ||cc.nextlgsdp.com^
 ||cd.nextlgsdp.com^
@@ -273,7 +273,6 @@
 ||cr.nextlgsdp.com^
 ||cs1.wpc.v0cdn.net^
 ||cu.nextlgsdp.com^
-||customerevents.netflix.com^
 ||cv.nextlgsdp.com^
 ||cw.nextlgsdp.com^
 ||cx.nextlgsdp.com^
@@ -300,6 +299,7 @@
 ||device-messaging-na.amazon.com^
 ||device.zhiliaoapp.com^
 ||devicemessaging.us-east-1.amazon.com^
+||df.telemetry.microsoft.com^
 ||diagnostics.support.microsoft.com^
 ||display.ravm.tv^
 ||dj.nextlgsdp.com^
@@ -315,19 +315,20 @@
 ||ee.nextlgsdp.com^
 ||eg.nextlgsdp.com^
 ||eh.nextlgsdp.com^
+||engine.fyber.com^
 ||engine.mobileapptracking.com^
 ||er.nextlgsdp.com^
 ||es.nextlgsdp.com^
 ||et.nextlgsdp.com^
 ||euc.adserver.snapads.com^
 ||euw.adserver.snapads.com^
+||events.cid.samba.tv^
 ||events3.adcolony.com^
 ||events3alt.adcolony.com^
 ||federatedml-pa.googleapis.com^
 ||fi.nextlgsdp.com^
 ||fj.nextlgsdp.com^
 ||fk.nextlgsdp.com^
-||fls-eu.amazon.com^
 ||fm.nextlgsdp.com^
 ||fo.nextlgsdp.com^
 ||fr.nextlgsdp.com^
@@ -454,9 +455,7 @@
 ||ht.nextlgsdp.com^
 ||hu.nextlgsdp.com^
 ||i.w.inmobi.com^
-||iadsdk.apple.com^
 ||ibis.lgappstv.com^
-||ichnaea.netflix.com^
 ||id.google.de^
 ||id.nextlgsdp.com^
 ||ie.nextlgsdp.com^
@@ -514,6 +513,7 @@
 ||lu.nextlgsdp.com^
 ||lv.nextlgsdp.com^
 ||ly.nextlgsdp.com^
+||m.adnxs.com^
 ||m.quantcount.com^
 ||ma.nextlgsdp.com^
 ||managed.xmpp.foxtel.com.au^
@@ -567,6 +567,7 @@
 ||nr.nextlgsdp.com^
 ||nu.nextlgsdp.com^
 ||nz.nextlgsdp.com^
+||oca.telemetry.microsoft.com^
 ||oca.telemetry.microsoft.us^
 ||om.nextlgsdp.com^
 ||onecollector.cloudapp.aria.akadns.net^
@@ -582,11 +583,13 @@
 ||pipeaota.com^
 ||pk.nextlgsdp.com^
 ||pl.nextlgsdp.com^
+||platform.cid.samba.tv^
 ||pm.nextlgsdp.com^
 ||pn.nextlgsdp.com^
 ||postback.pointwise.co^
 ||pr.nextlgsdp.com^
 ||pre.footprintpredict.com^
+||preferences.cid.samba.tv^
 ||premium-videos.telly.com^
 ||presence.teams.live.com^
 ||ps.nextlgsdp.com^
@@ -622,6 +625,7 @@
 ||sdktm.w.inmobi.com^
 ||se.nextlgsdp.com^
 ||secure-eu.imrworldwide.com^
+||secure.adnxs.com^
 ||secure.flashtalking.com^
 ||securepubads.g.doubleclick.net^
 ||servicesupport.hicloud.com^
@@ -643,6 +647,7 @@
 ||so.nextlgsdp.com^
 ||sonybivstatic-a.akamaihd.net^
 ||spyneteurope.microsoft.akadns.net^
+||sqm.telemetry.microsoft.com^
 ||sqm.telemetry.microsoft.com.nsatc.net^
 ||sr.nextlgsdp.com^
 ||ss.nextlgsdp.com^
@@ -654,6 +659,7 @@
 ||stats.gc.apple.com^
 ||stats.hbbtv.smartclip.net^
 ||supersonicads-a.akamaihd.net^
+||survey.watson.microsoft.com^
 ||sv.nextlgsdp.com^
 ||sx.nextlgsdp.com^
 ||sy.nextlgsdp.com^
@@ -662,8 +668,8 @@
 ||tc.nextlgsdp.com^
 ||td.nextlgsdp.com^
 ||tele.trafficmanager.net^
+||telecommand.telemetry.microsoft.com^
 ||telemetry.appex.bing.net^
-||telemetry.microsoft.com^
 ||telemetry.remoteapp.windowsazure.com^
 ||teredo.ipv6.microsoft.com^
 ||test.activity.windows.com^
@@ -733,6 +739,8 @@
 ||vortex-sandbox.data.microsoft.com^
 ||vortex.data.glbdns2.microsoft.com^
 ||vu.nextlgsdp.com^
+||watson.ppe.telemetry.microsoft.com^
+||watson.telemetry.microsoft.com^
 ||wd.adcolony.com^
 ||web.vortex.data.microsoft.com^
 ||weus2watcab02.blob.core.windows.net^

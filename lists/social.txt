@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - social
 ! Description: Social media
-! Last modified: 2026-11-07 09:07 UTC
-! Entries: 581
+! Last modified: 2026-11-08 09:24 UTC
+! Entries: 580
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||abs.twimg.com^
@@ -369,7 +369,6 @@
 ||instagramstatic-a.akamaihd.net^
 ||instagramstatic-a.akamaihd.net.edgesuite.net^
 ||internet.org^
-||isnssdk.com^
 ||joinclubhouse.com^
 ||jp.twimg.com^
 ||jtvnw.net^
