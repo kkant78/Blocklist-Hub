@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - scam.small
 ! Description: Scam, fraud, spam, fake shops [small]
-! Last modified: 2026-11-08 09:24 UTC
-! Entries: 39
+! Last modified: 2026-11-09 10:10 UTC
+! Entries: 32
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||638f474304a2b.site123.me^
@@ -9,7 +9,6 @@
 ||aliceblue-alligator-117543.hostingersite.com^
 ||allinstockgmbh.company.site^
 ||besttobuy.company.site^
-||de.cardionv.com^
 ||eco-pellet.company.site^
 ||es.landofm.com^
 ||forbes.gpttrader.org^
@@ -32,12 +31,6 @@
 ||ro6.landofm.com^
 ||sparfuchs-vergleich.base44.app^
 ||spontaneous-bubblegum-6d5740.netlify.app^
-||starrynitebikes.com^
-||sterydy-anaboliczne.net^
-||stijn-outlet.com^
-||strassenhelden.at^
-||strielkowski.com^
-||suchsnow.com^
 ||temp-dxvrqxhirzbigzysagqp.webadorsite.com^
 ||the-garden-pavilions-of-sobranie-russian.eshop.t-online.de^
 ||webtrader.quantiumax.net^

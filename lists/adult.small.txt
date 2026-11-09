@@ -1,6 +1,6 @@
 ! Title: Blocklist Hub - adult.small
 ! Description: Adult content [small]
-! Last modified: 2026-11-08 09:24 UTC
+! Last modified: 2026-11-09 10:10 UTC
 ! Entries: 48168
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
@@ -1166,6 +1166,7 @@
 ||ads.waterbondage.com^
 ||ads2.contentabc.com^
 ||ads2.ero-advertising.com^
+||adserve.work^
 ||adserver.adultfriendfinder.com^
 ||adserver.asiafriendfinder.com^
 ||adserver.gallerytrafficservice.com^
@@ -24013,7 +24014,6 @@
 ||noirmale.com^
 ||nolesbianporn.com^
 ||nolixxxpic.com^
-||nomorepecans.com^
 ||nonk.nonk.info^
 ||nonktube.com^
 ||nonnetroie.org^
@@ -43498,6 +43498,7 @@
 ||www.xxxasianporn24.com^
 ||www.xxxasianporni.com^
 ||www.xxxbannerswap.com^
+||www.xxxbullet.com^
 ||www.xxxcamgirls.live^
 ||www.xxxcartoonporn.pro^
 ||www.xxxchina-tube.com^
@@ -46178,7 +46179,6 @@
 ||xxxbule.skin^
 ||xxxbule.tv^
 ||xxxbule.yachts^
-||xxxbullet.com^
 ||xxxbullet.net^
 ||xxxbunker.bond^
 ||xxxbunker.com^

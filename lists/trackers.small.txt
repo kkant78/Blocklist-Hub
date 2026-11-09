@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - trackers.small
 ! Description: Tracking, analytics, CNAME-cloaked trackers [small]
-! Last modified: 2026-11-08 09:24 UTC
-! Entries: 40844
+! Last modified: 2026-11-09 10:10 UTC
+! Entries: 40841
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.net.easyjet.com^
@@ -5478,6 +5478,7 @@
 ||analytics.virginaustralia.com^
 ||analytics.virginmobileusa.com^
 ||analytics.visible.com^
+||analytics.vixcloud.co^
 ||analytics.vk.asahi.co.jp^
 ||analytics.warnertv.fr^
 ||analytics.wask.co^
@@ -6839,7 +6840,6 @@
 ||audioarctic.com^
 ||audiofly.actonservice.com^
 ||audit.303br.net^
-||audit.median.hu^
 ||audit.shaa.it^
 ||audsoa.narumiya-online.jp^
 ||audxht.effeweg.nl^
@@ -7066,6 +7066,7 @@
 ||azg1.emalu-store.com^
 ||azlyta.immowelt.de^
 ||azscgj.penningtons.com^
+||azurestealth.com^
 ||azveac.pearl.ch^
 ||azwucq.locservice.fr^
 ||azwxpp.nequittezpas.jp^
@@ -8202,7 +8203,6 @@
 ||cdn.ad-platform.jmty.jp^
 ||cdn.adt567.net^
 ||cdn.arcstudiopro.com^
-||cdn.debugbear.com^
 ||cdn.deviceinf.com^
 ||cdn.dsspn.com^
 ||cdn.kaizenplatform.net^
@@ -10243,6 +10243,7 @@
 ||data1.virginplus.ca^
 ||datacollector-dra.dt.hicloud.com^
 ||datacollector-drru.dt.dbankcloud.ru^
+||datadog-service.mvfglobal.com^
 ||datafiletechnologies.actonservice.com^
 ||datanoticias.prisasd.com^
 ||datapickles.com^
@@ -11603,7 +11604,6 @@
 ||electronics.sony-latin.com^
 ||electronics.tradeshow.globalsources.com^
 ||elegantboulevard.com^
-||elephantdata.net^
 ||elgas.actonservice.com^
 ||elgreco.openapp.link^
 ||elia.thermofisher.com^
@@ -12539,7 +12539,6 @@
 ||events.oddo-bhf.com^
 ||events.paramount.tech^
 ||events.pella.com^
-||events.plus.yandex.net^
 ||events.prd.api.max.com^
 ||events.production.us1.pgw-pci.klarna.net^
 ||events.realgravity.com^
@@ -13375,7 +13374,6 @@
 ||gcn.tuv.com^
 ||gcoiys.cutsclothing.com^
 ||gcowhi.thesalarycalculator.co.uk^
-||gct.americanexpress.com^
 ||gcudsn.tradetested.co.nz^
 ||gcwubi.happypancake.fi^
 ||gcxiyx.inspireuplift.com^
@@ -14536,7 +14534,6 @@
 ||heartflow.actonservice.com^
 ||hearthow.com^
 ||heatmap.emma.tools^
-||heatmap.support-inc.co.jp^
 ||heavydetail.com^
 ||heavyplayground.com^
 ||hej.henriksommerfeld.se^
@@ -18605,7 +18602,6 @@
 ||log.adtimaserver.vn^
 ||log.aimtell.com^
 ||log.apkomega.com^
-||log.avlyun.com^
 ||log.avlyun.sec.intl.miui.com^
 ||log.bloodsugars.live^
 ||log.cizion.com^
@@ -25154,7 +25150,6 @@
 ||puppiesart.com^
 ||purcartz.com^
 ||purebloom.net^
-||purple-hit.com^
 ||purple.mongodb.com^
 ||purpletalk.actonservice.com^
 ||purpose.fressnapf.at^
@@ -27571,6 +27566,7 @@
 ||see.yousoon.com^
 ||seedscissors.com^
 ||seek.intel.com^
+||seek.uwa.edu.au^
 ||seekingquest.com^
 ||seekremote.com^
 ||seenvault.com^
@@ -36377,6 +36373,7 @@
 ||track.abrdnjapan.co.uk^
 ||track.abrdnnewindia.co.uk^
 ||track.abrdnpit.co.uk^
+||track.addevent.com^
 ||track.adform.net^
 ||track.aieic.com^
 ||track.americansongwriter.com^
@@ -37857,6 +37854,7 @@
 ||uawefo.guylook.co.kr^
 ||uazmti.a101.com.tr^
 ||ub-xjp.vvbrd.com^
+||ubbrobccheck20.cc^
 ||ubdjfy.maje.com^
 ||ubdsej.notino.pl^
 ||ubiquitoussea.com^
@@ -37986,7 +37984,6 @@
 ||umwuxk.hotel.cz^
 ||umxwew.hellobello.com^
 ||umylynsr9b.quira.sh^
-||unablehope.com^
 ||unaccountablepie.com^
 ||unarmedindustry.com^
 ||unbecominghall.com^

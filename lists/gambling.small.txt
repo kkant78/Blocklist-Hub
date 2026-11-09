@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - gambling.small
 ! Description: Gambling / betting [small]
-! Last modified: 2026-11-08 09:24 UTC
-! Entries: 4324
+! Last modified: 2026-11-09 10:10 UTC
+! Entries: 4323
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||007win.com^
@@ -977,6 +977,7 @@
 ||coopbet.com^
 ||coral.co.uk^
 ||corbettsports.com^
+||corona999.com^
 ||costabingo.com^
 ||costagames.com^
 ||counterluck.com^
@@ -2187,6 +2188,7 @@
 ||kubet79.bet^
 ||kubet8.us^
 ||kubet88.fun^
+||kubet88.win^
 ||kubet9.com^
 ||kucasino68.net^
 ||kufun.live^
@@ -4037,7 +4039,6 @@
 ||www.casinony.com^
 ||www.casinoroom.com^
 ||www.cloudbet.com^
-||www.corona999.com^
 ||www.crsportsbet.ag^
 ||www.csgoluckywheel.com^
 ||www.csgoroll.gg^
@@ -4094,7 +4095,6 @@
 ||www.kubet.gg^
 ||www.kubet368.com^
 ||www.kubet79.me^
-||www.kubet88.win^
 ||www.l69.me^
 ||www.lasvegassportsbetting.com^
 ||www.linesmaker.eu^
@@ -4251,7 +4251,6 @@
 ||xoso678.com^
 ||xoso788.com^
 ||xoso8811.com^
-||xs638.com^
 ||xvipwin.info^
 ||yabet.com^
 ||yakocasino.com^

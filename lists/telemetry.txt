@@ -1,6 +1,6 @@
 ! Title: Blocklist Hub - telemetry
 ! Description: Smart TV, Android, Windows telemetry
-! Last modified: 2026-11-08 09:24 UTC
+! Last modified: 2026-11-09 10:10 UTC
 ! Entries: 759
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
@@ -459,7 +459,6 @@
 ||id.google.de^
 ||id.nextlgsdp.com^
 ||ie.nextlgsdp.com^
-||ieonlinews.microsoft.com^
 ||ieonlinews.trafficmanager.net^
 ||il.nextlgsdp.com^
 ||im.nextlgsdp.com^
@@ -563,6 +562,7 @@
 ||ni.nextlgsdp.com^
 ||nl.nextlgsdp.com^
 ||no.nextlgsdp.com^
+||notify.firetv.bugsnag.appstore.a2z.com^
 ||np.nextlgsdp.com^
 ||nr.nextlgsdp.com^
 ||nu.nextlgsdp.com^
