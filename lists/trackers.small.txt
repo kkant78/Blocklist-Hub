@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - trackers.small
 ! Description: Tracking, analytics, CNAME-cloaked trackers [small]
-! Last modified: 2026-11-09 10:10 UTC
-! Entries: 40841
+! Last modified: 2026-11-10 10:16 UTC
+! Entries: 40832
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.net.easyjet.com^
@@ -173,7 +173,6 @@
 ||9786.pandasuite.io^
 ||9857064.hello.spriggy.com.au^
 ||9857064.notice.spriggy.com.au^
-||9955951.pillar.app^
 ||9984342.reddoorz.in^
 ||9b55.pandasuite.io^
 ||9b5gjkrnw71r.it.themoneytizer.com^
@@ -3635,7 +3634,6 @@
 ||a8cv.pocket-sommelier.com^
 ||a8cv.postcoffee.co^
 ||a8cv.pre-sana.com^
-||a8cv.premium.aidemy.net^
 ||a8cv.presence.jp^
 ||a8cv.print-gakufu.com^
 ||a8cv.pro.omobic.com^
@@ -4517,7 +4515,6 @@
 ||adj.st^
 ||adl.bankofthewest.com^
 ||adl.kkguan.com^
-||adless.io^
 ||adlog.com.com^
 ||adm.adminstrumentengineering.com.au^
 ||admeasure.hh-online.jp^
@@ -5162,7 +5159,6 @@
 ||analytics.designspiration.com^
 ||analytics.deutscher-apotheker-verlag.de^
 ||analytics.dev.htmedia.in^
-||analytics.developer.riotgames.com^
 ||analytics.directenergy.ca^
 ||analytics.directenergy.com^
 ||analytics.discountpowertx.com^
@@ -6840,6 +6836,7 @@
 ||audioarctic.com^
 ||audiofly.actonservice.com^
 ||audit.303br.net^
+||audit.median.hu^
 ||audit.shaa.it^
 ||audsoa.narumiya-online.jp^
 ||audxht.effeweg.nl^
@@ -7684,7 +7681,6 @@
 ||branch.trevo.my^
 ||branch.tripcody.com^
 ||branch.uat.bfsgodirect.com^
-||branch.udl.io^
 ||branch.vcf-test.vzw.dev.llabs.io^
 ||branch.verintsystemsinc.com^
 ||branch.vsco.ninja^
@@ -7694,7 +7690,6 @@
 ||branch.wellsitenavigator.com^
 ||branch.whatsnxt.app^
 ||branch.xoxloveheart.com^
-||branch2.udl.io^
 ||branchborder.com^
 ||branchct.ncapp04.com^
 ||branchcust.zulln.se^
@@ -8260,7 +8255,6 @@
 ||cfaexam.quantresear.ch^
 ||cfapi.upstackdata.io^
 ||cfb.8it.me^
-||cfg.cml.ksmobile.com^
 ||cfpwood.actonservice.com^
 ||cfrnyp.kars4kids.org^
 ||cfsaze.retailmenot.com^
@@ -13370,7 +13364,6 @@
 ||gccmembershiprewards.americanexpress.de^
 ||gccmembershiprewards.americanexpress.it^
 ||gcm.ksmobile.com^
-||gcm.ksmobile.net^
 ||gcn.tuv.com^
 ||gcoiys.cutsclothing.com^
 ||gcowhi.thesalarycalculator.co.uk^
@@ -14052,7 +14045,6 @@
 ||go.petmire.com^
 ||go.petrelocation.com^
 ||go.pgx.com^
-||go.pheasant.com^
 ||go.phhlending.com^
 ||go.piccolo.mobi^
 ||go.picsart.com^
@@ -14534,6 +14526,7 @@
 ||heartflow.actonservice.com^
 ||hearthow.com^
 ||heatmap.emma.tools^
+||heatmap.support-inc.co.jp^
 ||heavydetail.com^
 ||heavyplayground.com^
 ||hej.henriksommerfeld.se^
@@ -25150,6 +25143,7 @@
 ||puppiesart.com^
 ||purcartz.com^
 ||purebloom.net^
+||purple-hit.com^
 ||purple.mongodb.com^
 ||purpletalk.actonservice.com^
 ||purpose.fressnapf.at^
@@ -27566,7 +27560,6 @@
 ||see.yousoon.com^
 ||seedscissors.com^
 ||seek.intel.com^
-||seek.uwa.edu.au^
 ||seekingquest.com^
 ||seekremote.com^
 ||seenvault.com^
@@ -33492,7 +33485,6 @@
 ||store.esquirrel.at^
 ||storea8tracking.alc.co.jp^
 ||storeconfig.mistat.intl.xiaomi.com^
-||storetail.io^
 ||stormgate.production.raptive.com^
 ||stormwind.actonservice.com^
 ||stormyflower.com^
@@ -40444,7 +40436,6 @@
 ||ycembr.net-a-porter.com^
 ||ychqww.aboutyou.lv^
 ||ycjhuh.stripe-club.com^
-||yctjw54slxrwwlh.trybawaryjny.pl^
 ||ydbcct.nikigolf.jp^
 ||ydbeuq.superpharm.pl^
 ||ydccky.direnc.net^

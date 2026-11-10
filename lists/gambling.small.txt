@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - gambling.small
 ! Description: Gambling / betting [small]
-! Last modified: 2026-11-09 10:10 UTC
-! Entries: 4323
+! Last modified: 2026-11-10 10:16 UTC
+! Entries: 4324
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||007win.com^
@@ -123,7 +123,6 @@
 ||333.vip^
 ||333666j.com^
 ||33ae888.com^
-||33beta.com^
 ||33betad.com^
 ||33betc.com^
 ||33betx.com^
@@ -430,6 +429,7 @@
 ||ano88.top^
 ||anonibet.com^
 ||aoays.xyz^
+||api.33beta.com^
 ||api.9bet.build^
 ||api.ae888.com^
 ||api.mu9.com^
@@ -3977,6 +3977,7 @@
 ||www.32red.com^
 ||www.331725.com^
 ||www.338kbet.com^
+||www.33beta.com^
 ||www.33win9.com^
 ||www.3547711.com^
 ||www.3650011.com^

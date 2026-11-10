@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - adult.small
 ! Description: Adult content [small]
-! Last modified: 2026-11-09 10:10 UTC
-! Entries: 48168
+! Last modified: 2026-11-10 10:16 UTC
+! Entries: 48165
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.oldgyhogola.com^
@@ -15090,7 +15090,6 @@
 ||hentai.to^
 ||hentai.tv^
 ||hentai.video^
-||hentai.wapka.co^
 ||hentai.xxx^
 ||hentai0day.com^
 ||hentai18.net^
@@ -16942,10 +16941,8 @@
 ||img.cdn.house^
 ||img.dlsite.jp^
 ||img.jizzads.com^
-||img.koxk.com^
 ||img.l3.cdn.redtubefiles.com^
 ||img.luluvdo.com^
-||img.lxax.com^
 ||img.nangcucz.link^
 ||img.royal-cash.com^
 ||img.strpst.com^
@@ -19333,6 +19330,7 @@
 ||koushoku.org^
 ||kowalskypage.club^
 ||kowalskypage.pro^
+||koxk.com^
 ||kphimsex.xyz^
 ||kporno.com^
 ||kraamzorg.info^
@@ -20638,6 +20636,7 @@
 ||luxxxporn.com^
 ||luxyoungsex.com^
 ||lvs.streamray.com^
+||lxax.com^
 ||lxtube.com^
 ||lxtube.pro^
 ||lynxdollars.com^
@@ -30429,6 +30428,7 @@
 ||qnewporn.com^
 ||qombol.com^
 ||qoo.ddns.info^
+||qoqh.com^
 ||qoqoz.com^
 ||qorno.com^
 ||qorno.net^
@@ -33916,7 +33916,6 @@
 ||sickporn.in^
 ||sid-vd.ru^
 ||side6.dk^
-||sidebar.angelfire.com^
 ||sidfit.co.in^
 ||sieudam.biz^
 ||sieudamtv.com^
@@ -34939,7 +34938,6 @@
 ||suxporn.com^
 ||suzepps.com^
 ||suzisporn.com^
-||sv.lxax.com^
 ||svenskaporn.com^
 ||svideos.xxx^
 ||svjav.com^
@@ -39712,6 +39710,7 @@
 ||wapbold.com^
 ||wapbold.net^
 ||waphard.xyz^
+||wapka.co^
 ||wapoz.info^
 ||wapsex.wordpress.com^
 ||waptap.com^
@@ -40266,7 +40265,6 @@
 ||wowpornlist.xyz^
 ||wowporntube.net^
 ||wowporntubes.com^
-||wowshortvideos.com^
 ||wowsolewd.top^
 ||wowstars.com^
 ||wowteenass.com^
@@ -41904,7 +41902,6 @@
 ||www.lustrous2ft.com^
 ||www.luvcelebs.com^
 ||www.luxxx.hu^
-||www.lxax.com^
 ||www.lysbjxc.com^
 ||www.lyxnxx.net^
 ||www.m-porncn.com^
@@ -43498,7 +43495,6 @@
 ||www.xxxasianporn24.com^
 ||www.xxxasianporni.com^
 ||www.xxxbannerswap.com^
-||www.xxxbullet.com^
 ||www.xxxcamgirls.live^
 ||www.xxxcartoonporn.pro^
 ||www.xxxchina-tube.com^
@@ -46179,6 +46175,7 @@
 ||xxxbule.skin^
 ||xxxbule.tv^
 ||xxxbule.yachts^
+||xxxbullet.com^
 ||xxxbullet.net^
 ||xxxbunker.bond^
 ||xxxbunker.com^
