@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - trackers.small
 ! Description: Tracking, analytics, CNAME-cloaked trackers [small]
-! Last modified: 2026-11-10 10:16 UTC
-! Entries: 40832
+! Last modified: 2026-11-11 09:46 UTC
+! Entries: 40851
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.net.easyjet.com^
@@ -4295,6 +4295,7 @@
 ||acton.tourismireland.com^
 ||acton.trefis.com^
 ||actondev.actonservice.com^
+||actone.app^
 ||actonhrm.mercuryhealthcare.com^
 ||actonsoftware.com^
 ||actuallysheep.com^
@@ -4997,6 +4998,7 @@
 ||ana.tv5unis.ca^
 ||ana.uhyou.com^
 ||anaconda.net.anwalt.de^
+||anakhoki168.com^
 ||anal.baseserv.com^
 ||anal.doubledouble.top^
 ||anal.sataniskwijt.be^
@@ -5591,6 +5593,7 @@
 ||answers.teradata.se^
 ||answerswave.com^
 ||antblz.mediaworld.it^
+||antibot.wildberries.ru^
 ||antico.openapp.link^
 ||antitracking.owncast.online^
 ||antonsystems.actonservice.com^
@@ -7213,6 +7216,7 @@
 ||bbubuq.aftco.com^
 ||bbworld.blackboard.com^
 ||bbwqcs.vidaxl.ee^
+||bbzyk.lol^
 ||bc.ad.daum.net^
 ||bc.marfeelcache.com^
 ||bc.nhk.jp^
@@ -8188,6 +8192,7 @@
 ||cdanjoyner4374.myre.io^
 ||cdeatz.spartoo.it^
 ||cdfhpj.automobile.it^
+||cdiscount.top^
 ||cdjhcf.hometogo.es^
 ||cdl.lvsafe.io^
 ||cdl2.booksy.com^
@@ -14255,6 +14260,7 @@
 ||gosenergy.actonservice.com^
 ||goseri-link.mysuki.io^
 ||gossamerwing.com^
+||gostat.com^
 ||gotest.bouncie.com^
 ||gotest.onecart.co.za^
 ||gotest.onefc.com^
@@ -14558,6 +14564,7 @@
 ||helpingbits.com^
 ||hemblx.vans.cl^
 ||hermes.allo-media.net^
+||herogrid.com^
 ||herpes2.pa-ruit.jp^
 ||hesconet.actonservice.com^
 ||hesprh.sony.jp^
@@ -14791,6 +14798,7 @@
 ||httr.redskins.com^
 ||hu-business.vodafone.com^
 ||hu-topgal.m-shop.me^
+||huangpianhs.top^
 ||hub.firestonecompleteautocare.com^
 ||hub.hubfinancial.com^
 ||hub.hubinternational.com^
@@ -16345,6 +16353,7 @@
 ||infojeux.paris.fr^
 ||infola.readingpartners.org^
 ||infoland.actonservice.com^
+||infonest.top^
 ||infontx.readingpartners.org^
 ||infonyc.readingpartners.org^
 ||infopromerica.promerica.fi.cr^
@@ -17087,6 +17096,7 @@
 ||kaden.netoff.co.jp^
 ||kadlec.psjhealth.org^
 ||kaebyy.autouncle.se^
+||kajingametrix.de^
 ||kaladyaudiology.ericksonbuilt.com^
 ||kallerupstone.viessmann.dk^
 ||kalwub.mizuho-re.co.jp^
@@ -17158,7 +17168,6 @@
 ||kinesis.us-east-1.analytics.edmentum.com^
 ||kingnews.burgerking.co.za^
 ||kingsandqueens.splowser.com^
-||kingsealed.com^
 ||kiqwal.autoscout24.es^
 ||kiqwil.l-m.co.jp^
 ||kirsrn.runway-webstore.com^
@@ -18810,7 +18819,6 @@
 ||lp.marketing.engie-homeservices.fr^
 ||lp.mkt-email.samsungsds.com^
 ||lp.mnp.ca^
-||lp.nexity.fr^
 ||lp.northwestern.nm.org^
 ||lp.oralia.fr^
 ||lp.owarnersb.journeyusshared.adobe.com^
@@ -20711,6 +20719,7 @@
 ||mato.clanto.cloud^
 ||matomo.clanto.cloud^
 ||matomo.qpon^
+||matomo.space^
 ||matomo3.org^
 ||matrix.elecle.bike^
 ||matrix.hbo.com^
@@ -22845,7 +22854,6 @@
 ||mroprospector.aviationweek.com^
 ||ms-report.uu.cc^
 ||ms-trackingapi.phenompeople.com^
-||ms.cmcm.com^
 ||ms.informaengage.com^
 ||ms.topschooljobs.org^
 ||ms1.morganstanley.com^
@@ -23007,6 +23015,7 @@
 ||mysketchpad.com^
 ||mystery.vfmleonardo.com^
 ||mysticalagoon.com^
+||myvisites.com^
 ||mywebpage.ni.com^
 ||myxuak.mir-kubikov.ru^
 ||mzldzb.crocs.pl^
@@ -23617,6 +23626,7 @@
 ||oksiqv.styletread.com.au^
 ||oktagv.immobilienscout24.at^
 ||okto1.spsglobal.com^
+||okvipbacklink.com^
 ||old.globalservices.arrow.com^
 ||oldevent.togothermany.com^
 ||oldfashionedoffer.com^
@@ -24044,6 +24054,7 @@
 ||osur.dell.com^
 ||osuwzo.oyunfor.com^
 ||osvdtm.theshopyohjiyamamoto.jp^
+||oswstat.cc^
 ||ot.ebis.ne.jp^
 ||ot.obi-baumarkt.ch^
 ||ot.obi-brico.ch^
@@ -25315,6 +25326,7 @@
 ||qpielh.kfhi.or.kr^
 ||qpl9.destinia.dk^
 ||qpuseo.notos.gr^
+||qqcyxhh.buzz^
 ||qqdflf.lpga.or.jp^
 ||qqeuq1cmoooq.accuretawealth.com^
 ||qqinrm.jagodo.vn^
@@ -26069,6 +26081,7 @@
 ||rva.outbrain.com^
 ||rvbqze.albamoda.de^
 ||rverxn.autosphere.fr^
+||rvgfc.com^
 ||rvhzjg.desivero.com^
 ||rvitam.xenos.nl^
 ||rvtwqp.winparts.se^
@@ -27062,6 +27075,7 @@
 ||secu.hagerty.com^
 ||secu.hagertyagent.com^
 ||secu.hagertybroker.ca^
+||secure-analytics.com^
 ||secure-anzgo.arrow.com^
 ||secure-e.healthiq.com^
 ||secure-eugo.arrow.com^
@@ -27673,6 +27687,7 @@
 ||sentinelbi.com^
 ||sentinelp.com^
 ||sentry.siepomaga.pl^
+||seo-trace.top^
 ||seo.tkc110.jp^
 ||sep02.hinagiku-life.jp^
 ||sephora-qa.branch.rocks^
@@ -37220,7 +37235,6 @@
 ||trackinginternal.hcltech.com^
 ||trackinginternal.ti.com^
 ||trackinglrus.wolterskluwer.com^
-||trackingmyadsas.com^
 ||trackingssl.agemployeebenefits.be^
 ||trackingssl.aginsurance.be^
 ||trackingssl.drysolutions.be^
@@ -38755,6 +38769,7 @@
 ||visitping.rossel.be^
 ||visma.e-conomic.dk^
 ||vismaturva.visma.fi^
+||vistalid-statistiques.fr^
 ||visualscience.external.bbc.co.uk^
 ||vitalimages.actonservice.com^
 ||vitalmedia.actonservice.com^
@@ -38968,6 +38983,7 @@
 ||wasc.kaufland.ro^
 ||washbanana.com^
 ||washlaundry.actonservice.com^
+||wasiz.com^
 ||wass.ihsmarkit.com^
 ||wass.spglobal.com^
 ||wasserkraftwerkkessel.viessmann.ch^
@@ -39922,6 +39938,7 @@
 ||www.mile0tire.com^
 ||www.mill8grip.com^
 ||www.misc1bulk.com^
+||www.mkt.uvg.edu.gt^
 ||www.mnbvc34.com^
 ||www.moat4shot.com^
 ||www.mon-com-01.com^
@@ -40426,6 +40443,7 @@
 ||yadtbk.blacks.co.uk^
 ||yagoqv.smartbuyglasses.ca^
 ||yajkhd.supersports.com^
+||yananebibuv.cc^
 ||yatr.ru^
 ||yawxae.footpatrol.com^
 ||yaxedj.vkf-renzel.de^
@@ -40488,6 +40506,7 @@
 ||yiiwaq.mms.com^
 ||yikrmn.ciceksepeti.com^
 ||yiohzu.tsigs.com^
+||yixiu.us^
 ||yixvbp.merkal.com^
 ||yiyemail.branch.rocks^
 ||yizlda.crocs.co.uk^
