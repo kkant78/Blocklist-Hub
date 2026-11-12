@@ -9,29 +9,29 @@ AdGuard Home -> Filters -> DNS blocklists -> Add a custom list me jo chahiye wah
 
 | List | Tier | Kya hai | Entries | Suggestion | URL |
 |---|---|---|---:|---|---|
-| malware | small | Malware, botnet C2, threat intelligence | 185656 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/malware.small.txt` |
-| malware | medium | Malware, botnet C2, threat intelligence | 373270 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/malware.medium.txt` |
-| malware | large | Malware, botnet C2, threat intelligence | 1485924 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/malware.large.txt` |
-| phishing | medium | Phishing domains (small me nahi: malware tier ki TIF list me already aate hain) | 64125 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/phishing.medium.txt` |
-| phishing | large | Phishing domains (small me nahi: malware tier ki TIF list me already aate hain) | 415408 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/phishing.large.txt` |
+| malware | small | Malware, botnet C2, threat intelligence | 185987 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/malware.small.txt` |
+| malware | medium | Malware, botnet C2, threat intelligence | 366032 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/malware.medium.txt` |
+| malware | large | Malware, botnet C2, threat intelligence | 1439045 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/malware.large.txt` |
+| phishing | medium | Phishing domains (small me nahi: malware tier ki TIF list me already aate hain) | 63748 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/phishing.medium.txt` |
+| phishing | large | Phishing domains (small me nahi: malware tier ki TIF list me already aate hain) | 417693 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/phishing.large.txt` |
 | scam | small | Scam, fraud, spam, fake shops | 32 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/scam.small.txt` |
-| scam | medium | Scam, fraud, spam, fake shops | 21658 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/scam.medium.txt` |
-| scam | large | Scam, fraud, spam, fake shops | 450948 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/scam.large.txt` |
+| scam | medium | Scam, fraud, spam, fake shops | 21901 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/scam.medium.txt` |
+| scam | large | Scam, fraud, spam, fake shops | 452235 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/scam.large.txt` |
 | cryptojacking | - | Browser crypto-miners | 220 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/cryptojacking.txt` |
-| ads | small | Ads, popups, ad networks | 84896 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/ads.small.txt` |
-| ads | medium | Ads, popups, ad networks | 256839 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/ads.medium.txt` |
-| ads | large | Ads, popups, ad networks | 279546 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/ads.large.txt` |
-| trackers | small | Tracking, analytics, CNAME-cloaked trackers | 40851 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/trackers.small.txt` |
-| trackers | large | Tracking, analytics, CNAME-cloaked trackers | 91128 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/trackers.large.txt` |
+| ads | small | Ads, popups, ad networks | 85233 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/ads.small.txt` |
+| ads | medium | Ads, popups, ad networks | 257420 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/ads.medium.txt` |
+| ads | large | Ads, popups, ad networks | 280815 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/ads.large.txt` |
+| trackers | small | Tracking, analytics, CNAME-cloaked trackers | 40845 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/trackers.small.txt` |
+| trackers | large | Tracking, analytics, CNAME-cloaked trackers | 91129 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/trackers.large.txt` |
 | telemetry | - | Smart TV, Android, Windows telemetry | 759 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/telemetry.txt` |
 | gambling | small | Gambling / betting | 4324 | OFF | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/gambling.small.txt` |
-| gambling | large | Gambling / betting | 619537 | OFF | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/gambling.large.txt` |
+| gambling | large | Gambling / betting | 626304 | OFF | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/gambling.large.txt` |
 | adult | small | Adult content | 48165 | OFF | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/adult.small.txt` |
-| adult | large | Adult content | 106415 | OFF | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/adult.large.txt` |
+| adult | large | Adult content | 107928 | OFF | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/adult.large.txt` |
 | social | - | Social media | 580 | OFF | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/social.txt` |
-| piracy | - | Piracy / torrent sites | 60712 | OFF | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/piracy.txt` |
-| bypass | - | DoH / VPN / proxy bypass servers (taaki devices AdGuard ko bypass na kar saken) | 16293 | OFF | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/bypass.txt` |
-| universal | small | ON wali sabhi categories ek file me (category lists ke saath ON na karein) | 298670 | optional | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/universal.small.txt` |
-| universal | medium | ON wali sabhi categories ek file me (category lists ke saath ON na karein) | 690073 | optional | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/universal.medium.txt` |
-| universal | large | ON wali sabhi categories ek file me (category lists ke saath ON na karein) | 2549968 | optional | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/universal.large.txt` |
+| piracy | - | Piracy / torrent sites | 61043 | OFF | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/piracy.txt` |
+| bypass | - | DoH / VPN / proxy bypass servers (taaki devices AdGuard ko bypass na kar saken) | 16354 | OFF | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/bypass.txt` |
+| universal | small | ON wali sabhi categories ek file me (category lists ke saath ON na karein) | 299338 | optional | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/universal.small.txt` |
+| universal | medium | ON wali sabhi categories ek file me (category lists ke saath ON na karein) | 682769 | optional | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/universal.medium.txt` |
+| universal | large | ON wali sabhi categories ek file me (category lists ke saath ON na karein) | 2507778 | optional | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/universal.large.txt` |
 | allowlist | - | DNS allowlist (Filters -> DNS allowlists me jodein) | 10 | ON | `https://raw.githubusercontent.com/kkant78/Blocklist-Hub/main/lists/allowlist.txt` |

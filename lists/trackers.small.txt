@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - trackers.small
 ! Description: Tracking, analytics, CNAME-cloaked trackers [small]
-! Last modified: 2026-11-11 09:46 UTC
-! Entries: 40851
+! Last modified: 2026-11-12 10:08 UTC
+! Entries: 40845
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.net.easyjet.com^
@@ -4998,13 +4998,11 @@
 ||ana.tv5unis.ca^
 ||ana.uhyou.com^
 ||anaconda.net.anwalt.de^
-||anakhoki168.com^
 ||anal.baseserv.com^
 ||anal.doubledouble.top^
 ||anal.sataniskwijt.be^
 ||analitica.webrpp.com^
 ||analizador.dphuesca.es^
-||analys.live^
 ||analyse.bcovery.com^
 ||analyse.hinemos.info^
 ||analysis.prod.joyfru.jiji.com^
@@ -9263,7 +9261,6 @@
 ||cp.deltadentalwa.com^
 ||cp.filext.com^
 ||cp.ir-central.irco.com^
-||cp.official-coupons.com^
 ||cp.official-deals.co.uk^
 ||cp.phiilu.com^
 ||cp.rootielearning.com^
@@ -9682,7 +9679,6 @@
 ||d2wa5sea6guof0.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d2z0bn1jv8xwtk.cloudfront.net^
-||d2zd0wa1vpt7j9.cloudfront.net^
 ||d34ko97cxuv4p7.cloudfront.net^
 ||d37l98t2r94go6.cloudfront.net^
 ||d39yds8oe4n4jq.cloudfront.net^
@@ -20719,7 +20715,6 @@
 ||mato.clanto.cloud^
 ||matomo.clanto.cloud^
 ||matomo.qpon^
-||matomo.space^
 ||matomo3.org^
 ||matrix.elecle.bike^
 ||matrix.hbo.com^
@@ -33166,6 +33161,7 @@
 ||stats.radio-canada.ca^
 ||stats.radley.co.uk^
 ||stats.radleylondon.com^
+||stats.raiansar.com^
 ||stats.rasulkireev.com^
 ||stats.rcinet.ca^
 ||stats.rcsobjects.it^
@@ -34952,7 +34948,6 @@
 ||theme.echovisuals.com^
 ||themegoats.com^
 ||themepicker.com^
-||thepixelpioneer.com^
 ||thepowerstones.com^
 ||thequickbooksteam.intuit.ca^
 ||therapeuticcars.com^
@@ -38872,7 +38867,6 @@
 ||vvqizy.witt-weiden.de^
 ||vwakpz.vidri.com.sv^
 ||vwiind.beautyforever.com^
-||vwonwkaqvq-a.global.ssl.fastly.net^
 ||vwotiw.agazeta.com.br^
 ||vwrgru.happymail.co.jp^
 ||vxcjoz.nextadvisor.com^

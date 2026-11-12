@@ -1,6 +1,6 @@
 ! Title: Blocklist Hub - adult.small
 ! Description: Adult content [small]
-! Last modified: 2026-11-10 10:16 UTC
+! Last modified: 2026-11-12 10:08 UTC
 ! Entries: 48165
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
@@ -8719,7 +8719,6 @@
 ||dirtyclips.to^
 ||dirtycomics.net^
 ||dirtycomics69.com^
-||dirtydating.com^
 ||dirtydesi.pro^
 ||dirtydesiporn.com^
 ||dirtydirtyangels.com^
@@ -41020,6 +41019,7 @@
 ||www.dinotube.world^
 ||www.direction-x.com^
 ||www.dirtcheapanal.com^
+||www.dirtydating.com^
 ||www.dirtyindianx.cc^
 ||www.dirtysancheztube.com^
 ||www.dirtytube.com^
