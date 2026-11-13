@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - trackers.small
 ! Description: Tracking, analytics, CNAME-cloaked trackers [small]
-! Last modified: 2026-11-12 10:08 UTC
-! Entries: 40845
+! Last modified: 2026-11-13 09:53 UTC
+! Entries: 40849
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.net.easyjet.com^
@@ -4968,6 +4968,7 @@
 ||aminks.underarmour.com.tr^
 ||amitracks.actonservice.com^
 ||amo.myoyster.mx^
+||amp-error-reporting.appspot.com^
 ||amplifypixel.outbrain.com^
 ||amplitude.chess.com^
 ||ampltd.top.gg^
@@ -8201,6 +8202,7 @@
 ||cdn.ad-platform.jmty.jp^
 ||cdn.adt567.net^
 ||cdn.arcstudiopro.com^
+||cdn.czx5eyk0exbhwp43ya.biz^
 ||cdn.deviceinf.com^
 ||cdn.dsspn.com^
 ||cdn.kaizenplatform.net^
@@ -9679,6 +9681,7 @@
 ||d2wa5sea6guof0.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d2z0bn1jv8xwtk.cloudfront.net^
+||d2zd0wa1vpt7j9.cloudfront.net^
 ||d34ko97cxuv4p7.cloudfront.net^
 ||d37l98t2r94go6.cloudfront.net^
 ||d39yds8oe4n4jq.cloudfront.net^
@@ -14427,7 +14430,6 @@
 ||h031.familydollar.com^
 ||h353.ncadvertiser.com^
 ||h5.analytics.126.net^
-||h559.stamfordadvocate.com^
 ||h5log.zongheng.com^
 ||hacx60.com^
 ||haikusoap.com^
@@ -38718,6 +38720,7 @@
 ||view.metlspan.com^
 ||view.nucorbuildingsystems.com^
 ||view.zijieapi.com^
+||viewanalitycs.org^
 ||viewer.pandasuite.io^
 ||viewresource.com^
 ||views.2222.ro^
@@ -38867,6 +38870,7 @@
 ||vvqizy.witt-weiden.de^
 ||vwakpz.vidri.com.sv^
 ||vwiind.beautyforever.com^
+||vwonwkaqvq-a.global.ssl.fastly.net^
 ||vwotiw.agazeta.com.br^
 ||vwrgru.happymail.co.jp^
 ||vxcjoz.nextadvisor.com^
