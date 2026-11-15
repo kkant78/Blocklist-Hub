@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - trackers.small
 ! Description: Tracking, analytics, CNAME-cloaked trackers [small]
-! Last modified: 2026-11-14 09:17 UTC
-! Entries: 40847
+! Last modified: 2026-11-15 09:47 UTC
+! Entries: 40850
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.net.easyjet.com^
@@ -4704,6 +4704,7 @@
 ||aec-target.telenet.be^
 ||aecid.santanderbank.com^
 ||aeewjq.dr-vegefru.com^
+||aegis.trovo.live^
 ||aehudh.rakumachi.jp^
 ||aem-collector.daumkakao.io^
 ||aeotgu.asi-reisen.de^
@@ -4968,7 +4969,6 @@
 ||aminks.underarmour.com.tr^
 ||amitracks.actonservice.com^
 ||amo.myoyster.mx^
-||amp-error-reporting.appspot.com^
 ||amplifypixel.outbrain.com^
 ||amplitude.chess.com^
 ||ampltd.top.gg^
@@ -5008,6 +5008,7 @@
 ||analyse.hinemos.info^
 ||analysis.prod.joyfru.jiji.com^
 ||analysis.sooplive.co.kr^
+||analystic.365av.net^
 ||analytic-client.adult-chess.com^
 ||analytic-client.blitzmightyparty.com^
 ||analytic-client.chickgoddess.com^
@@ -18605,7 +18606,6 @@
 ||log.bloodsugars.live^
 ||log.cizion.com^
 ||log.cleandesigner.live^
-||log.clearcleanerpro.live^
 ||log.cognex.com^
 ||log.collectaction.com^
 ||log.down61.com^
@@ -24859,6 +24859,7 @@
 ||possibilities.theajinetwork.com^
 ||possibleboats.com^
 ||possiblepencil.com^
+||post-log.pushwoosh.com^
 ||post.carte-gr.total.fr^
 ||postgraduate.smu.edu.sg^
 ||postgraduate2.smu.edu.sg^
@@ -26045,6 +26046,7 @@
 ||rtg.rubiconredirect.com^
 ||rtlog.isnssdk.com^
 ||rtm-tracking.zozo.jp^
+||rtmscl.com^
 ||rtmugo.deindeal.ch^
 ||rtneys.luuna.mx^
 ||rtpmqv.smakon.jp^
@@ -27569,6 +27571,7 @@
 ||see.yousoon.com^
 ||seedscissors.com^
 ||seek.intel.com^
+||seek.uwa.edu.au^
 ||seekingquest.com^
 ||seekremote.com^
 ||seenvault.com^

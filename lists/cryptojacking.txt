@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - cryptojacking
 ! Description: Browser crypto-miners
-! Last modified: 2026-11-13 09:53 UTC
-! Entries: 219
+! Last modified: 2026-11-15 09:47 UTC
+! Entries: 221
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||1q2w3.fun^
@@ -53,6 +53,7 @@
 ||coinpot.co^
 ||coinrail.io^
 ||contribute.to-support.me^
+||crypto-loot.com^
 ||d.cpufan.club^
 ||dark-utilities.me^
 ||dark-utilities.pw^
@@ -84,6 +85,7 @@
 ||go.megabanners.cf^
 ||goldoffer.online^
 ||gxbrowser.net^
+||hashing.win^
 ||hhb123.tk^
 ||hide.ovh^
 ||hive.tubetitties.com^
@@ -189,6 +191,7 @@
 ||vkcdnservice.com^
 ||vmi503011.contaboserver.net^
 ||vuryua.ru^
+||webassembly.stream^
 ||webmine.cz^
 ||webmine.pro^
 ||webminepool.com^
@@ -220,6 +223,5 @@
 ||www.notmining.org^
 ||www.sparechange.io^
 ||www.verifier.live^
-||www.webassembly.stream^
 ||xmr.2miners.com^
 ||zymerget.win^
