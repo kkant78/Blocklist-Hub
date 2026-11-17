@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - trackers.small
 ! Description: Tracking, analytics, CNAME-cloaked trackers [small]
-! Last modified: 2026-11-15 09:47 UTC
-! Entries: 40850
+! Last modified: 2026-11-17 11:00 UTC
+! Entries: 40848
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.net.easyjet.com^
@@ -18606,6 +18606,7 @@
 ||log.bloodsugars.live^
 ||log.cizion.com^
 ||log.cleandesigner.live^
+||log.clearcleanerpro.live^
 ||log.cognex.com^
 ||log.collectaction.com^
 ||log.down61.com^
@@ -27571,7 +27572,6 @@
 ||see.yousoon.com^
 ||seedscissors.com^
 ||seek.intel.com^
-||seek.uwa.edu.au^
 ||seekingquest.com^
 ||seekremote.com^
 ||seenvault.com^
@@ -36355,7 +36355,6 @@
 ||trace.swaven.com^
 ||trace.zhiyan.tencent-cloud.net^
 ||tracer.autoscout24.ch^
-||tracing-collector.strava.com^
 ||track-aws.notsy.io^
 ||track-dark-bz.b-cdn.net^
 ||track-e.cypress.com^
@@ -39585,7 +39584,6 @@
 ||www-104.aig.com^
 ||www-105.aig.com^
 ||www-106.aig.com^
-||www-107.aig.com^
 ||www-109.aig.com^
 ||www-110.aig.com^
 ||www-171.aig.com^
