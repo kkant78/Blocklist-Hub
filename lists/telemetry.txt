@@ -1,6 +1,6 @@
 ! Title: Blocklist Hub - telemetry
 ! Description: Smart TV, Android, Windows telemetry
-! Last modified: 2026-11-17 11:00 UTC
+! Last modified: 2026-11-18 10:34 UTC
 ! Entries: 758
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
@@ -27,7 +27,6 @@
 ||ads.mopub.com^
 ||ads.samsungads.com^
 ||ads.twitter.com^
-||ads1.msads.net^
 ||adservice.google.de^
 ||advertising.com^
 ||af.nextlgsdp.com^
@@ -520,6 +519,7 @@
 ||mc.nextlgsdp.com^
 ||md.nextlgsdp.com^
 ||me.nextlgsdp.com^
+||med.heyzap.com^
 ||mf.nextlgsdp.com^
 ||mg.nextlgsdp.com^
 ||mh.nextlgsdp.com^
