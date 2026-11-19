@@ -1,63 +1,40 @@
 ! Title: Blocklist Hub - scam.small
 ! Description: Scam, fraud, spam, fake shops [small]
-! Last modified: 2026-11-15 09:47 UTC
-! Entries: 57
+! Last modified: 2026-11-19 10:41 UTC
+! Entries: 34
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||602a84.myshopify.com^
 ||638f474304a2b.site123.me^
-||adc0219647979.page.link^
 ||aliceblue-alligator-117543.hostingersite.com^
 ||allinstockgmbh.company.site^
+||awsea.eu.cc^
 ||bakta8.myshopify.com^
-||berkshirede.myshopify.com^
-||besttobuy.company.site^
 ||charj7.myshopify.com^
 ||eco-pellet.company.site^
 ||elektro-outlet24.myshopify.com^
+||epicooler.checkoutera.com^
 ||erix9.myshopify.com^
-||es.landofm.com^
-||forbes.gpttrader.org^
 ||fr.fundiza.com^
 ||gamer-held.b-cdn.net^
-||gemstarz.company.site^
-||geri-fashion.company.site^
-||gold-genuss.myshopify.com^
 ||h4g3z1-fake.web.app^
-||hippo2.eth.limo^
 ||hoeschag.company.site^
-||installateur-meister-plus-notdienst-24h-linz-plus.jimdosite.com^
 ||kleinre.myshopify.com^
-||konigsmarkt-2.myshopify.com^
 ||larc90.myshopify.com^
-||ledgerliveapps.web.app^
 ||lola58.myshopify.com^
 ||materialde.myshopify.com^
+||mf-versandhandel-gmbh.myshopify.com^
 ||miginvestgr.tiiny.site^
-||mooredvazwe.myshopify.com^
-||mozoshop.myshopify.com^
-||mpreis-2023.myfreesites.net^
-||neptuneiva.myshopify.com^
 ||pellet-bio.company.site^
 ||pellet-ecos.company.site^
 ||playstation-boome.myshopify.com^
-||playstation-boomer.myshopify.com^
-||presale-amswallet.replit.app^
-||projetxtreme.blogspot.fr^
 ||reifendienst-notdienst.jimdosite.com^
-||reiseweltat6.wixsite.com^
-||ro6.landofm.com^
-||saarnet.myshopify.com^
-||scarpa-de.myshopify.com^
 ||sparfuchs-vergleich.base44.app^
-||speaksonos.myshopify.com^
 ||spontaneous-bubblegum-6d5740.netlify.app^
-||tavoloni.myshopify.com^
 ||temp-dxvrqxhirzbigzysagqp.webadorsite.com^
 ||the-garden-pavilions-of-sobranie-russian.eshop.t-online.de^
-||titan-nxl.myshopify.com^
-||toyshappytime.myshopify.com^
-||waldundfeld.myshopify.com^
+||web13741.cweb05.gamingcontrol.de^
 ||webtrader.quantiumax.net^
 ||www.5fdb2331d9d15.site123.me^
 ||zabawechtaseba.teachable.com^
+||zaniro.eu.cc^

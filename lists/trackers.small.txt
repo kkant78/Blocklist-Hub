@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - trackers.small
 ! Description: Tracking, analytics, CNAME-cloaked trackers [small]
-! Last modified: 2026-11-18 10:34 UTC
-! Entries: 40789
+! Last modified: 2026-11-19 10:41 UTC
+! Entries: 40791
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.net.easyjet.com^
@@ -6796,6 +6796,7 @@
 ||ati-a1.946d001b783803c1.xhst.bbci.co.uk^
 ||ati.sazka.cz^
 ||aticti.actonservice.com^
+||atiteasexam.quantresear.ch^
 ||atl-b24-link.ip.twelve99.net.iberostar.com^
 ||atlantablackstar.black.news^
 ||atlanticlabequipment.actonservice.com^
@@ -6905,6 +6906,7 @@
 ||aws-br-cdn.kwai.net.iberostar.com^
 ||aws-br-pic.kwai.net.iberostar.com^
 ||aws.userlogsanalytics.com^
+||awsexam.quantresear.ch^
 ||awuapj.landwatch.com^
 ||awzbijw.com^
 ||ax.babe.today^
@@ -7282,7 +7284,6 @@
 ||beelinecolor.com^
 ||beer2s.millerbrewing.com^
 ||beewhispering.com^
-||beha.ksmobile.com^
 ||behave.sn.at^
 ||behavior.tongdun.net^
 ||belong.curtin.edu.au^
@@ -8248,6 +8249,7 @@
 ||cf.campagnes-france.com^
 ||cf.overblog.com^
 ||cfa.fidelity.com^
+||cfaexam.quantresear.ch^
 ||cfapi.upstackdata.io^
 ||cfb.8it.me^
 ||cfpwood.actonservice.com^
@@ -8345,6 +8347,7 @@
 ||ciszhp.gesundheitsfrage.net^
 ||ciszhp.motorradfrage.net^
 ||citizensclimate.actonservice.com^
+||citizenship.quantresear.ch^
 ||citydeal.net^
 ||cizzvi.beldona.com^
 ||cjbdme.conquer.org^
@@ -8629,7 +8632,6 @@
 ||co.akisinn.info^
 ||co.dewrain.life^
 ||co.vaicore.site^
-||co.vaicore.xyz^
 ||coalkitchen.com^
 ||coastersim.com^
 ||cobaltoverture.com^
@@ -9186,7 +9188,6 @@
 ||corporatemrguide.americanexpress.de^
 ||corporatepages.proximus.com^
 ||corporateplatino.americanexpress.it^
-||correctedcode.com^
 ||cortellisconnections.thomsonreuters.com^
 ||cosme.caseepo.jp^
 ||cosmicsculptor.com^
@@ -9346,6 +9347,7 @@
 ||cs43.pikabu.ru^
 ||csalhh.okay.cz^
 ||csbmey.viherpeukalot.fi^
+||cscsexam.quantresear.ch^
 ||cse.rakanto.com^
 ||cse3.chausport.com^
 ||csghyg.reginaclinic.jp^
@@ -11290,7 +11292,6 @@
 ||earthlybuzz.com^
 ||earthsauce.com^
 ||earthups.com^
-||earthyfarm.com^
 ||eastcapelots.com^
 ||easter-analytics.com^
 ||eastern2.secureforms.mcafee.com^
@@ -12062,6 +12063,7 @@
 ||emrdnt.sumaity.com^
 ||ems-a8net-tracking.easy-myshop.jp^
 ||ems.youku.com^
+||emsexam.quantresear.ch^
 ||emzorz.allergybuyersclub.com^
 ||en-gb.siemensplmevents.com^
 ||en-sg.siemensplmevents.com^
@@ -12656,7 +12658,6 @@
 ||ezhddx.thesouledstore.com^
 ||eziccr.dedoles.cz^
 ||ezobam.jdsports.nl^
-||ezstat.ru^
 ||ezuhbd.industrialdiscount.it^
 ||ezvjys.belezanaweb.com.br^
 ||f-log-test.grammarly.io^
@@ -13378,6 +13379,7 @@
 ||geo-service.adtelligent.com^
 ||geo.bdg.com^
 ||geo.brobible.com^
+||geo.ertya.com^
 ||geo.go2s.co^
 ||geo.gorillanation.com^
 ||geo.mezr.com^
@@ -18663,7 +18665,6 @@
 ||loglady.skypicker.com^
 ||logql.yahoo.co.jp^
 ||logs-api.shoprunner.com^
-||logs-ingester.prod.zuddl.com^
 ||logs.51cto.com^
 ||logs.adplay.ru^
 ||logs.animaapp.com^
@@ -23033,6 +23034,7 @@
 ||ncc.nip-col.jp^
 ||nccaf.ncc-mens.com^
 ||nccer.actonservice.com^
+||nceexam.quantresear.ch^
 ||nctrk.abmail.com.br^
 ||ncvsbz.bonds.com.au^
 ||ncxxek.donedeal.ie^
@@ -23321,6 +23323,7 @@
 ||npr.black.news^
 ||nprkvj.mall.sk^
 ||npsopu.clearly.ca^
+||npteptptaexam.quantresear.ch^
 ||nptkpt.vangraaf.com^
 ||npvbjv.yourroom.ru^
 ||nqacsh.boosted.dk^
@@ -23837,7 +23840,6 @@
 ||onecloud.avaya.com^
 ||onecrow.net^
 ||onedropocean.com^
-||oneid.mmstat.com^
 ||onekindmarket.com^
 ||onelink.taptalk.io^
 ||onelinksmartscript.appsflyersdk.com^
@@ -24290,6 +24292,7 @@
 ||parallax.askmediagroup.com^
 ||parallel6.actonservice.com^
 ||parallelbulb.com^
+||paramedicexam.quantresear.ch^
 ||pardko.pricerunner.com^
 ||parentapp.byjus.com^
 ||parentpicture.com^
@@ -24446,6 +24449,7 @@
 ||philadelphia-content.cresa.com^
 ||phinnk.airtrip.jp^
 ||phionline.actonservice.com^
+||phlebotomyexam.quantresear.ch^
 ||phoenix-content.cresa.com^
 ||phoenix.thexlife.co^
 ||phonecup.com^
@@ -26211,6 +26215,7 @@
 ||s2whyufxmzam.chatpay.com.br^
 ||s3.landing.ni.com^
 ||s362693299.aon.ca^
+||s362693299.aon.com^
 ||s3r.zerkalo.io^
 ||s4.parkeren-amsterdam.com^
 ||s4.parkeren-haarlem.nl^
@@ -32467,7 +32472,6 @@
 ||stat.duokanbox.com^
 ||stat.eagleplatform.com^
 ||stat.fly.codes^
-||stat.gn01.top^
 ||stat.gomastercard.com.au^
 ||stat.guiasjuridicas.es^
 ||stat.interestfree.com.au^
@@ -34045,7 +34049,6 @@
 ||t.fairparkdallas.com^
 ||t.fermion.fi^
 ||t.fgcuathletics.com^
-||t.fightingillini.com^
 ||t.fightingirish.com^
 ||t.fordidahocenter.com^
 ||t.foxtheatre.org^
@@ -34182,7 +34185,6 @@
 ||t.popsugar.com^
 ||t.portland5.com^
 ||t.poyry.com^
-||t.pplcenter.com^
 ||t.prageru.com^
 ||t.prod1.discover.binge.com.au^
 ||t.purduesports.com^
@@ -35685,7 +35687,6 @@
 ||tr.info.comparadordeprestamos.es^
 ||tr.info.conexancemd.com^
 ||tr.info.conso-expert.fr^
-||tr.info.covid-resistance-bretagne.fr^
 ||tr.info.dentexelans.com^
 ||tr.info.e-leclerc.com^
 ||tr.info.easyviaggio.com^
@@ -38802,6 +38803,7 @@
 ||vstats.me^
 ||vt.mak.com^
 ||vtffnz.blindsdirect.co.uk^
+||vtneexam.quantresear.ch^
 ||vtodss.livenation.com^
 ||vttics.world.co.jp^
 ||vuypew.ikks.com^
