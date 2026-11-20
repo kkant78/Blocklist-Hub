@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - gambling.small
 ! Description: Gambling / betting [small]
-! Last modified: 2026-11-19 10:41 UTC
-! Entries: 4332
+! Last modified: 2026-11-20 10:21 UTC
+! Entries: 4331
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||007win.com^
@@ -160,6 +160,7 @@
 ||3bet.work^
 ||3bet.you^
 ||444sports.com^
+||448kbet.com^
 ||5123b.com^
 ||523betapp.site^
 ||555win.mobi^
@@ -1096,8 +1097,6 @@
 ||cwin333.com^
 ||cwin444.com^
 ||cwin999.com^
-||d1.debet.info^
-||d3.debet.info^
 ||d9bet38.com^
 ||d9bet68.com^
 ||d9bet88.com^
@@ -1174,6 +1173,7 @@
 ||debet.fun^
 ||debet.gd^
 ||debet.gs^
+||debet.info^
 ||debet.lc^
 ||debet.lv^
 ||debet.med^
@@ -3912,6 +3912,7 @@
 ||win102.com^
 ||win29.com^
 ||win365good.com^
+||win456.cc^
 ||win79.app^
 ||win79.com^
 ||win79.download^
@@ -3990,7 +3991,6 @@
 ||www.3547711.com^
 ||www.3650011.com^
 ||www.3650022.com^
-||www.448kbet.com^
 ||www.558kbet.com^
 ||www.5dimes.com^
 ||www.5shbet.com^
@@ -4055,7 +4055,6 @@
 ||www.daftarbetplace88.net^
 ||www.dccasino.com^
 ||www.debet.com^
-||www.debet.info^
 ||www.depositbetplace88.com^
 ||www.depositbetplace88.net^
 ||www.draftkings.com^
