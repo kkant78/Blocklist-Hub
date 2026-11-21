@@ -1,12 +1,11 @@
 ! Title: Blocklist Hub - cryptojacking
 ! Description: Browser crypto-miners
-! Last modified: 2026-11-19 10:41 UTC
-! Entries: 212
+! Last modified: 2026-11-21 10:06 UTC
+! Entries: 208
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||1q2w3.fun^
 ||abc.pema.cl^
-||acbp0020171456.page.tl^
 ||aeros01.tk^
 ||aeros02.tk^
 ||aeros11.tk^
@@ -18,7 +17,6 @@
 ||ashgrrwt.click^
 ||autologica.ga^
 ||axoncoho.tk^
-||bablace.com^
 ||bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io^
 ||baiduccdn1.com^
 ||berateveng.ru^
@@ -37,11 +35,11 @@
 ||bmst.pw^
 ||brominer.com^
 ||cdn.adless.io^
+||cdn.minescripts.info^
 ||cdnjs.cloudflane.com^
 ||clgserv.pro^
 ||cloud-miner.de^
 ||cloudcdn.gdn^
-||cnhv.co^
 ||cnt.statistic.date^
 ||coinhiveproxy.com^
 ||coinminingonline.com^
@@ -79,7 +77,6 @@
 ||gasolina.ml^
 ||go.bestmobiworld.com^
 ||go.megabanners.cf^
-||goldoffer.online^
 ||gxbrowser.net^
 ||hashing.win^
 ||hhb123.tk^
@@ -110,7 +107,6 @@
 ||minero-proxy-02.now.sh^
 ||minero-proxy-03.now.sh^
 ||minero.pw^
-||minescripts.info^
 ||minexmr.stream^
 ||minr.pw^
 ||money-maker-default.info^
@@ -175,7 +171,6 @@
 ||sxcdn4.now.sh^
 ||sxcdn5.herokuapp.com^
 ||sxcdn6.now.sh^
-||thewhizmarketing.com^
 ||traffic.tc-clicks.com^
 ||uoldid.ru^
 ||us.cfcdist.loan^
@@ -191,6 +186,7 @@
 ||wpcdn1.herokuapp.com^
 ||wss.nablabee.com^
 ||wss.rand.com.ru^
+||wtm.monitoringservice.co^
 ||www.authedwebmine.cz^
 ||www.besocial.online^
 ||www.cloudflane.com^

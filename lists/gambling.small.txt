@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - gambling.small
 ! Description: Gambling / betting [small]
-! Last modified: 2026-11-20 10:21 UTC
-! Entries: 4331
+! Last modified: 2026-11-21 10:06 UTC
+! Entries: 4329
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||007win.com^
@@ -190,7 +190,6 @@
 ||777bets.co.uk^
 ||7788one.com^
 ||77ae888.com^
-||77king88.com^
 ||789.club^
 ||789.fun^
 ||789.mobi^
@@ -992,7 +991,6 @@
 ||crownbet.com^
 ||crownbet.com.au^
 ||crsportsbetting.com^
-||cs.deals^
 ||csgo-casino.com^
 ||csgo-dream.com^
 ||csgo-easy.com^
@@ -1043,7 +1041,6 @@
 ||csgoleap.com^
 ||csgolive.com^
 ||csgolotto.net^
-||csgolounge.com^
 ||csgoluck.com^
 ||csgolucky.com^
 ||csgoparty.com^
@@ -1312,7 +1309,6 @@
 ||etipos.sk^
 ||etopaz.az^
 ||etoto.pl^
-||eu88.bet^
 ||eu9vietnam.com^
 ||eu9vn.com^
 ||eu9vn1.com^
@@ -1383,7 +1379,6 @@
 ||favbet.com^
 ||favourit.com^
 ||fb68.club^
-||fb88.com^
 ||fb88.delivery^
 ||fb88.top^
 ||fb88aff.com^
@@ -1430,6 +1425,7 @@
 ||fi88.app^
 ||fi88.club^
 ||fi88.vip^
+||fi881.com^
 ||fi8822.com^
 ||fi883.com^
 ||fi8883.com^
@@ -1584,7 +1580,6 @@
 ||gnbet.vip^
 ||go50.net^
 ||go8.lv^
-||go8.plus^
 ||go8.pub^
 ||go8.pw^
 ||go88.bayern^
@@ -2670,6 +2665,7 @@
 ||nhacai88.net^
 ||nhacai888b.com^
 ||nhacaipro.vip^
+||nhacaisodo.net^
 ||nhacaisomot.com^
 ||nhacaiuytin.life^
 ||nhanthuong88.com^
@@ -3996,6 +3992,7 @@
 ||www.5shbet.com^
 ||www.668kbet.com^
 ||www.69687696.com^
+||www.77king88.com^
 ||www.78win01.com^
 ||www.78win07.com^
 ||www.79lucky.com^
@@ -4049,6 +4046,7 @@
 ||www.casinoroom.com^
 ||www.cloudbet.com^
 ||www.crsportsbet.ag^
+||www.csgolounge.com^
 ||www.csgoluckywheel.com^
 ||www.csgoroll.gg^
 ||www.daftar-klik4d.com^

@@ -1,9 +1,10 @@
 ! Title: Blocklist Hub - scam.small
 ! Description: Scam, fraud, spam, fake shops [small]
-! Last modified: 2026-11-19 10:41 UTC
-! Entries: 34
+! Last modified: 2026-11-21 10:06 UTC
+! Entries: 54
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
+||0dgwn.bemobtrcks.com^
 ||602a84.myshopify.com^
 ||638f474304a2b.site123.me^
 ||aliceblue-alligator-117543.hostingersite.com^
@@ -11,30 +12,49 @@
 ||awsea.eu.cc^
 ||bakta8.myshopify.com^
 ||charj7.myshopify.com^
+||de.emmiol.com^
 ||eco-pellet.company.site^
 ||elektro-outlet24.myshopify.com^
 ||epicooler.checkoutera.com^
 ||erix9.myshopify.com^
+||euro.stanleys1913.com^
 ||fr.fundiza.com^
+||fr.grandcapital.net^
 ||gamer-held.b-cdn.net^
+||gardensvergen30.myshopify.com^
+||gardensvergen36.myshopify.com^
+||grunraum.myshopify.com^
+||gutmahroboter.myshopify.com^
 ||h4g3z1-fake.web.app^
 ||hoeschag.company.site^
 ||kleinre.myshopify.com^
 ||larc90.myshopify.com^
 ||lola58.myshopify.com^
+||lunaxadv.myshopify.com^
 ||materialde.myshopify.com^
 ||mf-versandhandel-gmbh.myshopify.com^
 ||miginvestgr.tiiny.site^
+||nsk-gmbh.myshopify.com^
+||peakexperiences.ritll.com^
 ||pellet-bio.company.site^
 ||pellet-ecos.company.site^
 ||playstation-boome.myshopify.com^
+||pp-handels-gmbh.myshopify.com^
+||rafso.tovy.shop^
 ||reifendienst-notdienst.jimdosite.com^
+||resolved.defisolution.net^
+||shop.shinyhair.de^
 ||sparfuchs-vergleich.base44.app^
 ||spontaneous-bubblegum-6d5740.netlify.app^
+||sportodyssey.ritll.com^
 ||temp-dxvrqxhirzbigzysagqp.webadorsite.com^
 ||the-garden-pavilions-of-sobranie-russian.eshop.t-online.de^
+||user.manson-group.pro^
+||user.portal-zone.org^
 ||web13741.cweb05.gamingcontrol.de^
 ||webtrader.quantiumax.net^
+||wt.portal-zone.org^
 ||www.5fdb2331d9d15.site123.me^
+||www.buy-bitcoin.pagedemo.co^
 ||zabawechtaseba.teachable.com^
 ||zaniro.eu.cc^
