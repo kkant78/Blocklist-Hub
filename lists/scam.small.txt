@@ -1,25 +1,32 @@
 ! Title: Blocklist Hub - scam.small
 ! Description: Scam, fraud, spam, fake shops [small]
-! Last modified: 2026-11-21 10:06 UTC
-! Entries: 54
+! Last modified: 2026-11-22 10:09 UTC
+! Entries: 65
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0dgwn.bemobtrcks.com^
 ||602a84.myshopify.com^
 ||638f474304a2b.site123.me^
+||ad.toygzv.shop^
+||adilizzz2748.mfuvis.shop^
+||adl.okhxm.shop^
+||adl.ukdil.shop^
 ||aliceblue-alligator-117543.hostingersite.com^
 ||allinstockgmbh.company.site^
+||asfinag.at-service.shop^
+||at.irgedvei.shop^
 ||awsea.eu.cc^
 ||bakta8.myshopify.com^
 ||charj7.myshopify.com^
-||de.emmiol.com^
+||deat1.matcha-sllim.cc^
 ||eco-pellet.company.site^
 ||elektro-outlet24.myshopify.com^
 ||epicooler.checkoutera.com^
 ||erix9.myshopify.com^
+||eu.stanlyss1913.com^
 ||euro.stanleys1913.com^
 ||fr.fundiza.com^
-||fr.grandcapital.net^
+||fr.puprime.online^
 ||gamer-held.b-cdn.net^
 ||gardensvergen30.myshopify.com^
 ||gardensvergen36.myshopify.com^
@@ -27,6 +34,7 @@
 ||gutmahroboter.myshopify.com^
 ||h4g3z1-fake.web.app^
 ||hoeschag.company.site^
+||klarjm.heimsvdc.xyz^
 ||kleinre.myshopify.com^
 ||larc90.myshopify.com^
 ||lola58.myshopify.com^
@@ -47,11 +55,14 @@
 ||sparfuchs-vergleich.base44.app^
 ||spontaneous-bubblegum-6d5740.netlify.app^
 ||sportodyssey.ritll.com^
+||sunsoilshop.myshopify.com^
 ||temp-dxvrqxhirzbigzysagqp.webadorsite.com^
 ||the-garden-pavilions-of-sobranie-russian.eshop.t-online.de^
 ||user.manson-group.pro^
 ||user.portal-zone.org^
+||vormix.vorwerk-tm7.at^
 ||web13741.cweb05.gamingcontrol.de^
+||webtrader.aptos-ai.net^
 ||webtrader.quantiumax.net^
 ||wt.portal-zone.org^
 ||www.5fdb2331d9d15.site123.me^

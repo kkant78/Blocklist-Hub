@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - cryptojacking
 ! Description: Browser crypto-miners
-! Last modified: 2026-11-21 10:06 UTC
-! Entries: 208
+! Last modified: 2026-11-22 10:09 UTC
+! Entries: 213
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||1q2w3.fun^
@@ -35,6 +35,7 @@
 ||bmst.pw^
 ||brominer.com^
 ||cdn.adless.io^
+||cdn.cloudcoins.co^
 ||cdn.minescripts.info^
 ||cdnjs.cloudflane.com^
 ||clgserv.pro^
@@ -95,11 +96,14 @@
 ||ledhenone.com^
 ||losital.ru^
 ||machieved.com^
+||mail.ghmproperties.com^
+||mail.shaferglazer.com^
 ||mebablo.com^
 ||mi-de-ner-nis3.info^
 ||mine.blank.drawpad.org^
 ||mine.nahnoji.cz^
 ||mine.terorie.com^
+||mine.torrent.pw^
 ||miner.beeppool.org^
 ||miner.cryptobara.com^
 ||miner.nablabee.com^
@@ -160,6 +164,7 @@
 ||sea2.authcaptcha.com^
 ||seed.nimiq.by^
 ||service4refresh.info^
+||site.flashx.cc^
 ||static.sparechange.io^
 ||staticsfs.host^
 ||stone2.authcaptcha.com^

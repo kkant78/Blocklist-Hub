@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - gambling.small
 ! Description: Gambling / betting [small]
-! Last modified: 2026-11-21 10:06 UTC
-! Entries: 4329
+! Last modified: 2026-11-22 10:09 UTC
+! Entries: 4328
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||007win.com^
@@ -201,7 +201,6 @@
 ||789b.win^
 ||789bet.com^
 ||789bet.green^
-||789bet.run^
 ||789bet.vip^
 ||789beta.com^
 ||789betf.com^
@@ -442,6 +441,7 @@
 ||api.sky88.com^
 ||api.v79top.com^
 ||api.vnloto.com^
+||api2-gateway.go88.com^
 ||api2.sin88.com^
 ||apollobet.com^
 ||appbk8.com^
@@ -954,7 +954,6 @@
 ||ciwox.com^
 ||clickngamble.ag^
 ||club-gov.com^
-||cm88.com^
 ||cmd368max.com^
 ||cmd368t.com^
 ||cmdbet.com^
@@ -991,6 +990,7 @@
 ||crownbet.com^
 ||crownbet.com.au^
 ||crsportsbetting.com^
+||cs.deals^
 ||csgo-casino.com^
 ||csgo-dream.com^
 ||csgo-easy.com^
@@ -1144,6 +1144,7 @@
 ||daisybingo.com^
 ||dakotacasino.com^
 ||damacai.com.my^
+||dangky.go88.com^
 ||dangky.thethaofb88.com^
 ||dangky789.one^
 ||dangky789.vin^
@@ -1339,7 +1340,6 @@
 ||f168.garden^
 ||f168.name^
 ||f168.studio^
-||f168.today^
 ||f168.us^
 ||f168.vision^
 ||f8bet.com^
@@ -1585,7 +1585,6 @@
 ||go88.bayern^
 ||go88.ca^
 ||go88.club^
-||go88.com^
 ||go88.contractors^
 ||go88.food^
 ||go88.ls^
@@ -1604,7 +1603,6 @@
 ||go88r.pro^
 ||go88tv.win^
 ||go88vn.vip^
-||go99.games^
 ||go99.green^
 ||go99.pro^
 ||go99.red^
@@ -1700,7 +1698,6 @@
 ||heypoker.com^
 ||heyspin.com^
 ||hi.oppa888.com^
-||hi88.chat^
 ||hi88.de^
 ||hi88.gd^
 ||hi88.uno^
@@ -1765,6 +1762,7 @@
 ||hypedrop.com^
 ||hypercasino.com^
 ||i.b52.club^
+||i.go88.com^
 ||i.rik.vip^
 ||i9-bet.com^
 ||i9.bet^
@@ -2512,7 +2510,6 @@
 ||min88.me^
 ||minigame.vnloto.com^
 ||minivn.com^
-||miso88.boats^
 ||miso88.cam^
 ||miso88.com^
 ||miso88.com.ph^
@@ -2730,7 +2727,6 @@
 ||offsidebet.com^
 ||ohiocasino.com^
 ||ohmbet.com^
-||ok365.org^
 ||okcado.com^
 ||okcado.org^
 ||okking.com^
@@ -2840,6 +2836,7 @@
 ||playson.link^
 ||playtech.com^
 ||plexodds.com^
+||pm.go88.com^
 ||pmc88.com^
 ||pocketvegas.co.uk^
 ||pog79aff.com^
@@ -3215,7 +3212,6 @@
 ||sum27.club^
 ||sum30.club^
 ||sum5.club^
-||sun.win^
 ||sun13.win^
 ||sun15.win^
 ||sun52.cloud^
@@ -3310,6 +3306,7 @@
 ||tab.co.nz^
 ||tab.com.au^
 ||tabgold.co.za^
+||tai.go88.com^
 ||tai.rikvip.us^
 ||tai567live.vip^
 ||tai789.icu^
@@ -4071,6 +4068,7 @@
 ||www.gamebai.club^
 ||www.gamingclub1.com^
 ||www.go88-vn.com^
+||www.go88.com^
 ||www.gotoentertainment.com^
 ||www.grosvenorcasinos.com^
 ||www.hajper.com^
@@ -4161,6 +4159,7 @@
 ||www.sportsinteraction.com^
 ||www.sportsplace88.com^
 ||www.stakers.com^
+||www.sun.win^
 ||www.sunbets.co.uk^
 ||www.superbook.ag^
 ||www.sv88.com^
