@@ -1,11 +1,12 @@
 ! Title: Blocklist Hub - cryptojacking
 ! Description: Browser crypto-miners
-! Last modified: 2026-11-22 10:09 UTC
-! Entries: 213
+! Last modified: 2026-11-23 11:06 UTC
+! Entries: 216
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||1q2w3.fun^
 ||abc.pema.cl^
+||acbp0020171456.page.tl^
 ||aeros01.tk^
 ||aeros02.tk^
 ||aeros11.tk^
@@ -17,9 +18,11 @@
 ||ashgrrwt.click^
 ||autologica.ga^
 ||axoncoho.tk^
+||bablace.com^
 ||bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io^
 ||baiduccdn1.com^
 ||berateveng.ru^
+||bestcoinsignals.com^
 ||besti.ga^
 ||bestsrv.de^
 ||bewaslac.com^
@@ -35,12 +38,12 @@
 ||bmst.pw^
 ||brominer.com^
 ||cdn.adless.io^
-||cdn.cloudcoins.co^
-||cdn.minescripts.info^
+||cdn1.pebx.pl^
 ||cdnjs.cloudflane.com^
 ||clgserv.pro^
 ||cloud-miner.de^
 ||cloudcdn.gdn^
+||cnhv.co^
 ||cnt.statistic.date^
 ||coinhiveproxy.com^
 ||coinminingonline.com^
@@ -78,6 +81,7 @@
 ||gasolina.ml^
 ||go.bestmobiworld.com^
 ||go.megabanners.cf^
+||goldoffer.online^
 ||gxbrowser.net^
 ||hashing.win^
 ||hhb123.tk^
@@ -96,14 +100,12 @@
 ||ledhenone.com^
 ||losital.ru^
 ||machieved.com^
-||mail.ghmproperties.com^
-||mail.shaferglazer.com^
 ||mebablo.com^
 ||mi-de-ner-nis3.info^
 ||mine.blank.drawpad.org^
 ||mine.nahnoji.cz^
 ||mine.terorie.com^
-||mine.torrent.pw^
+||minemytraffic.com^
 ||miner.beeppool.org^
 ||miner.cryptobara.com^
 ||miner.nablabee.com^
@@ -111,6 +113,7 @@
 ||minero-proxy-02.now.sh^
 ||minero-proxy-03.now.sh^
 ||minero.pw^
+||minescripts.info^
 ||minexmr.stream^
 ||minr.pw^
 ||money-maker-default.info^
@@ -164,7 +167,6 @@
 ||sea2.authcaptcha.com^
 ||seed.nimiq.by^
 ||service4refresh.info^
-||site.flashx.cc^
 ||static.sparechange.io^
 ||staticsfs.host^
 ||stone2.authcaptcha.com^
@@ -176,6 +178,7 @@
 ||sxcdn4.now.sh^
 ||sxcdn5.herokuapp.com^
 ||sxcdn6.now.sh^
+||thewhizmarketing.com^
 ||traffic.tc-clicks.com^
 ||uoldid.ru^
 ||us.cfcdist.loan^
@@ -191,7 +194,6 @@
 ||wpcdn1.herokuapp.com^
 ||wss.nablabee.com^
 ||wss.rand.com.ru^
-||wtm.monitoringservice.co^
 ||www.authedwebmine.cz^
 ||www.besocial.online^
 ||www.cloudflane.com^
@@ -216,4 +218,5 @@
 ||www.sparechange.io^
 ||www.verifier.live^
 ||xmr.2miners.com^
+||xmr.cool^
 ||zymerget.win^

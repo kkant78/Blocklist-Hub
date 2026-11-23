@@ -1,6 +1,6 @@
 ! Title: Blocklist Hub - telemetry
 ! Description: Smart TV, Android, Windows telemetry
-! Last modified: 2026-11-22 10:09 UTC
+! Last modified: 2026-11-23 11:06 UTC
 ! Entries: 756
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
@@ -16,7 +16,6 @@
 ||ad.lgappstv.com^
 ||ad.nettvservices.com^
 ||ad.nextlgsdp.com^
-||ad.samsungadhub.com^
 ||ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv^
 ||ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv^
 ||adc3-launch.adcolony.com^
@@ -357,6 +356,8 @@
 ||gu.nextlgsdp.com^
 ||gw.nextlgsdp.com^
 ||gy.nextlgsdp.com^
+||h1.msn.com^
+||h2.msn.com^
 ||hbbtv-1.eurosport.com^
 ||hbbtv-extern-fe01.sim-technik.de^
 ||hbbtv-track.redbutton.de^
@@ -447,7 +448,6 @@
 ||hk2wns1.wns.windows.com^
 ||hk2wns1b.wns.windows.com^
 ||hm.nextlgsdp.com^
-||hn.nextlgsdp.com^
 ||hr.nextlgsdp.com^
 ||hse24.tvtelemetrie.de^
 ||ht.nextlgsdp.com^
@@ -595,7 +595,6 @@
 ||py.nextlgsdp.com^
 ||qa.nextlgsdp.com^
 ||rad.msn.com^
-||rd.samsungadhub.com^
 ||re.nextlgsdp.com^
 ||redbutton-adproxy-lb-prod.redbutton.de^
 ||redbutton-lb-prod.redbutton.de^
@@ -606,6 +605,7 @@
 ||ru.nextlgsdp.com^
 ||rw.nextlgsdp.com^
 ||sa.nextlgsdp.com^
+||samsungadhub.com^
 ||samsungcloudsolution.com^
 ||samsungcloudsolution.net^
 ||samsungelectronics.com^
