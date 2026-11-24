@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - cryptojacking
 ! Description: Browser crypto-miners
-! Last modified: 2026-11-23 11:06 UTC
-! Entries: 216
+! Last modified: 2026-11-24 12:51 UTC
+! Entries: 228
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||1q2w3.fun^
@@ -10,12 +10,14 @@
 ||aeros01.tk^
 ||aeros02.tk^
 ||aeros11.tk^
+||analytics.blue^
 ||andlache.com^
 ||anybest.pw^
 ||api.browsermine.com^
 ||api.inwemo.com^
 ||as.cfcdist.loan^
 ||ashgrrwt.click^
+||authedmine.com^
 ||autologica.ga^
 ||axoncoho.tk^
 ||bablace.com^
@@ -45,11 +47,15 @@
 ||cloudcdn.gdn^
 ||cnhv.co^
 ||cnt.statistic.date^
+||coin-have.com^
 ||coinhiveproxy.com^
 ||coinminingonline.com^
+||coinnebula.com^
 ||coinpirate.cf^
+||coinpot.co^
+||coinrail.io^
 ||contribute.to-support.me^
-||crypto.csgocpu.com^
+||crypto-loot.com^
 ||d.cpufan.club^
 ||dark-utilities.me^
 ||dark-utilities.pw^
@@ -95,6 +101,7 @@
 ||jqcdn03.herokuapp.com^
 ||jqcdn2.herokuapp.com^
 ||js.nahnoji.cz^
+||jscdndel.com^
 ||krb.devphp.org.ua^
 ||laserveradedomaina.com^
 ||ledhenone.com^
@@ -105,6 +112,7 @@
 ||mine.blank.drawpad.org^
 ||mine.nahnoji.cz^
 ||mine.terorie.com^
+||mine.torrent.pw^
 ||minemytraffic.com^
 ||miner.beeppool.org^
 ||miner.cryptobara.com^
@@ -125,7 +133,6 @@
 ||nch-software.info^
 ||niematego.tk^
 ||nimiq.icemining.ca^
-||nimwss-us-shark.lolopool.com^
 ||ninaning.com^
 ||npcdn1.now.sh^
 ||nvidia-graphics.top^
@@ -134,6 +141,7 @@
 ||okeyletsgo.ml^
 ||panelsave.com^
 ||panger-top.click^
+||papoto.com^
 ||party-vqgdyvoycc.now.sh^
 ||play.estream.to^
 ||play.gramombird.com^
@@ -152,6 +160,7 @@
 ||roastedvolt.net^
 ||rock.reauthenticator.com^
 ||rock2.authcaptcha.com^
+||rocks.io^
 ||s01.hostcontent.live^
 ||s03.hostcontent.live^
 ||s04.hostcontent.live^
@@ -184,16 +193,19 @@
 ||us.cfcdist.loan^
 ||vceilinichego.ru^
 ||videoplayer2.xyz^
+||vkcdnservice.com^
 ||vmi503011.contaboserver.net^
 ||vuryua.ru^
 ||webassembly.stream^
 ||webmine.cz^
 ||webmine.pro^
+||webminepool.com^
 ||wordc.ga^
 ||wp-monero-miner.de^
 ||wpcdn1.herokuapp.com^
 ||wss.nablabee.com^
 ||wss.rand.com.ru^
+||wtm.monitoringservice.co^
 ||www.authedwebmine.cz^
 ||www.besocial.online^
 ||www.cloudflane.com^

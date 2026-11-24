@@ -1,21 +1,18 @@
 ! Title: Blocklist Hub - scam.small
 ! Description: Scam, fraud, spam, fake shops [small]
-! Last modified: 2026-11-23 11:06 UTC
-! Entries: 42
+! Last modified: 2026-11-24 12:51 UTC
+! Entries: 39
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||602a84.myshopify.com^
 ||638f474304a2b.site123.me^
 ||aliceblue-alligator-117543.hostingersite.com^
 ||allinstockgmbh.company.site^
-||awsea.eu.cc^
 ||bakta8.myshopify.com^
 ||charj7.myshopify.com^
 ||eco-pellet.company.site^
 ||elektro-outlet24.myshopify.com^
-||epicooler.checkoutera.com^
 ||erix9.myshopify.com^
-||fr.fundiza.com^
 ||gamer-held.b-cdn.net^
 ||gardensvergen30.myshopify.com^
 ||gardensvergen36.myshopify.com^
@@ -41,8 +38,8 @@
 ||sunsoilshop.myshopify.com^
 ||temp-dxvrqxhirzbigzysagqp.webadorsite.com^
 ||the-garden-pavilions-of-sobranie-russian.eshop.t-online.de^
-||web13741.cweb05.gamingcontrol.de^
 ||webtrader.quantiumax.net^
+||wilhelm-daume-gmbh.myshopify.com^
 ||www.5fdb2331d9d15.site123.me^
+||www.buy-bitcoin.pagedemo.co^
 ||zabawechtaseba.teachable.com^
-||zaniro.eu.cc^

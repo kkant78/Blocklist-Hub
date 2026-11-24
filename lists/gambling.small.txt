@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - gambling.small
 ! Description: Gambling / betting [small]
-! Last modified: 2026-11-23 11:06 UTC
-! Entries: 4334
+! Last modified: 2026-11-24 12:51 UTC
+! Entries: 4346
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||007win.com^
@@ -127,6 +127,7 @@
 ||33betad.com^
 ||33betc.com^
 ||33betx.com^
+||33win.com^
 ||33win.to^
 ||33winz.com^
 ||3549900.com^
@@ -248,6 +249,7 @@
 ||789winchan.com^
 ||789x.club^
 ||78win04.com^
+||78win07.com^
 ||78win09.com^
 ||79king.wtf^
 ||79sodo.com^
@@ -389,6 +391,7 @@
 ||ads.8live.com^
 ||ae2888.com^
 ||ae58888.com^
+||ae788.bet^
 ||ae888.men^
 ||ae888.run^
 ||ae88827.com^
@@ -407,6 +410,7 @@
 ||affiliate.vntop88.com^
 ||affiliate.w88banh.com^
 ||affiliate.w88f1.com^
+||agbet.co^
 ||agbong88.com^
 ||agen-klik4d.com^
 ||agentspinner.com^
@@ -435,7 +439,6 @@
 ||api.33beta.com^
 ||api.9bet.build^
 ||api.ae888.com^
-||api.mu9.com^
 ||api.oppa888.com^
 ||api.red88.com^
 ||api.shbet3.com^
@@ -633,6 +636,7 @@
 ||betliner.com^
 ||betlixi88.net^
 ||betlm.eu^
+||betlv.com^
 ||betmania.ag^
 ||betmclean.com^
 ||betmira.com^
@@ -910,6 +914,7 @@
 ||cdvn.vip^
 ||celebbingo.com^
 ||centrebet.com^
+||cf68.app^
 ||cf68.club^
 ||cf68.dev^
 ||cf68.fun^
@@ -1046,6 +1051,7 @@
 ||csgolounge.com^
 ||csgoluck.com^
 ||csgolucky.com^
+||csgoluckywheel.com^
 ||csgoparty.com^
 ||csgopoker.com^
 ||csgopot.win^
@@ -1168,6 +1174,7 @@
 ||debet.bot^
 ||debet.cc^
 ||debet.club^
+||debet.com^
 ||debet.cx^
 ||debet.fan^
 ||debet.fun^
@@ -1368,6 +1375,7 @@
 ||fabet.cc^
 ||fabet.com^
 ||fabet.live^
+||fabet.me^
 ||fabet.net^
 ||fabet.to^
 ||fabet.tv^
@@ -1413,6 +1421,7 @@
 ||fc88.beauty^
 ||fc88.net^
 ||fcb8.club^
+||fcb8.com^
 ||fcb8.fun^
 ||fcb8.mobi^
 ||fcb8.top^
@@ -1482,6 +1491,7 @@
 ||fun-bet.com^
 ||fun-dangki.com^
 ||fun1008.com^
+||fun1118.com^
 ||fun705.com^
 ||fun789.club^
 ||fun88.co.uk^
@@ -1530,7 +1540,6 @@
 ||gametime88.com^
 ||gamezy.com^
 ||gate777.com^
-||gateway.jbovietnam.com^
 ||gatructiep.net^
 ||gbong.vip^
 ||gd55id.com^
@@ -1903,7 +1912,6 @@
 ||ikibu.com^
 ||im99.com^
 ||img.may88.club^
-||img.mu9.com^
 ||inbet.com^
 ||inbet88.com^
 ||income88.com^
@@ -1957,6 +1965,7 @@
 ||jbo801.com^
 ||jbo806.com^
 ||jboviet.com^
+||jbovietnam.com^
 ||jbovn.com^
 ||jebetting.com^
 ||jenningsbet.com^
@@ -1965,6 +1974,7 @@
 ||jetbull.com^
 ||jili919.com^
 ||jinbo989898.com^
+||jingbets.com^
 ||jinglebingo.com^
 ||jogossantacasa.pt^
 ||johnslots.com^
@@ -2181,19 +2191,25 @@
 ||ku88.study^
 ||ku88.win^
 ||ku998.net^
+||kubet.ai^
 ||kubet.biz^
 ||kubet.fo^
+||kubet.gg^
+||kubet.kim^
 ||kubet.life^
+||kubet.mobi^
 ||kubet.tel^
 ||kubet11.com^
 ||kubet11.tv^
 ||kubet11.vin^
 ||kubet77.win^
 ||kubet79.bet^
+||kubet79.me^
 ||kubet8.us^
 ||kubet88.fun^
 ||kubet88.win^
 ||kubet9.com^
+||kubetae.com^
 ||kucasino68.net^
 ||kufun.live^
 ||kufun.me^
@@ -2424,6 +2440,7 @@
 ||majorsportsbetting.com^
 ||malinasports.com^
 ||mamamiabingo.com^
+||man.club^
 ||man.top^
 ||man.vip^
 ||man1.club^
@@ -2453,6 +2470,7 @@
 ||man88.wtf^
 ||man88.xin^
 ||manclub.us^
+||manclub.vin^
 ||manclub1.com^
 ||manoloto.lt^
 ||mansion66.com^
@@ -2474,6 +2492,7 @@
 ||maxbet.one^
 ||maxbet.website^
 ||maxitip.cz^
+||may88.com^
 ||may88.fun^
 ||may88.game^
 ||may88.top^
@@ -2538,7 +2557,6 @@
 ||missbet.com^
 ||mix79.vip^
 ||mk.com^
-||mkt.debet.com^
 ||mm88.com^
 ||mm99.vip^
 ||mobil6000.com^
@@ -2576,6 +2594,7 @@
 ||mu88ads.com^
 ||mu88daily.com^
 ||mu9.club^
+||mu9.com^
 ||mu9.fun^
 ||mu9.online^
 ||mu92.com^
@@ -2663,6 +2682,7 @@
 ||new88.fo^
 ||new88.love^
 ||new88.tips^
+||new88.today^
 ||new8884.com^
 ||new88w.com^
 ||nextbola.ac.id^
@@ -2727,6 +2747,7 @@
 ||nossaaposta.pt^
 ||nostrabet.com^
 ||novibet.com^
+||nowbetvn.com^
 ||noxwin.com^
 ||nuoigada.com^
 ||nxb8.com^
@@ -2798,8 +2819,10 @@
 ||ovocasino.com^
 ||oxbet.cc^
 ||oxbet.club^
+||oxbet.com^
 ||oxbet.fun^
 ||oxbet.in^
+||oxbet.net^
 ||oxbet.top^
 ||oxbet.us^
 ||oxbet.vip^
@@ -2956,6 +2979,7 @@
 ||rik.club^
 ||rik.fun^
 ||rik.top^
+||rik.win^
 ||rik6.com^
 ||rik88.life^
 ||rikbet.red^
@@ -2965,6 +2989,7 @@
 ||rikvip.med^
 ||rikvip.property^
 ||rikvip.tv^
+||rikvip.us^
 ||rikvip.vip^
 ||rikvip.wales^
 ||rikvip.win^
@@ -2997,6 +3022,7 @@
 ||s2.sin88.com^
 ||s26bet.ltd^
 ||s26bet01.com^
+||s555.com^
 ||s99902e.com^
 ||s99906.com^
 ||s999b.com^
@@ -3021,6 +3047,7 @@
 ||saturnplay.com^
 ||sazka.cz^
 ||sbc31.com^
+||sbetviet.com^
 ||sbgglobal.eu^
 ||sbobet.com^
 ||sbobetcasino.orgfree.com^
@@ -3125,7 +3152,6 @@
 ||soc99.com^
 ||socalsportbook.com^
 ||society.gg^
-||sock.mu9.com^
 ||sock.red88.com^
 ||sock.sky88.com^
 ||socket.9bet.build^
@@ -3222,6 +3248,7 @@
 ||sum27.club^
 ||sum30.club^
 ||sum5.club^
+||sun.to^
 ||sun.win^
 ||sun13.win^
 ||sun15.win^
@@ -3317,7 +3344,6 @@
 ||tab.co.nz^
 ||tab.com.au^
 ||tabgold.co.za^
-||tai.rikvip.us^
 ||tai567live.vip^
 ||tai789.icu^
 ||taib52.bet^
@@ -3380,10 +3406,12 @@
 ||tf88luck.com^
 ||tf88v.com^
 ||tf88vn.com^
-||th-lm.jbovietnam.com^
 ||tha.bet^
+||thabet.co^
+||thabet.gg^
 ||thabet.one^
 ||thabet.tel^
+||thabet88.co^
 ||thabet88.info^
 ||thabet88.vip^
 ||thaicasinosonline.net^
@@ -3713,7 +3741,6 @@
 ||vk88.com^
 ||vloot.io^
 ||vlott88.com^
-||vn-lm.jbovietnam.com^
 ||vn.app^
 ||vn.ku6101.net^
 ||vn.ku6106.net^
@@ -3971,6 +3998,7 @@
 ||wwin.ba^
 ||wwin.com^
 ||www-c54.com^
+||www-ee88.com^
 ||www-sodo.com^
 ||www.10bet.co.uk^
 ||www.10bet.com^
@@ -4000,7 +4028,6 @@
 ||www.668kbet.com^
 ||www.69687696.com^
 ||www.78win01.com^
-||www.78win07.com^
 ||www.79lucky.com^
 ||www.888.com^
 ||www.88new.cc^
@@ -4008,12 +4035,10 @@
 ||www.88vnd.com^
 ||www.acewin999.top^
 ||www.admiralspot.com^
-||www.ae788.bet^
 ||www.ae888.com^
 ||www.ae88840.com^
 ||www.ae9888.com^
 ||www.ae988bet.com^
-||www.agbet.co^
 ||www.agenbetplace88.com^
 ||www.agent855k.com^
 ||www.ah77lb5.xyz^
@@ -4025,7 +4050,6 @@
 ||www.bet2win.ag^
 ||www.betcoin.ag^
 ||www.betcruise.com^
-||www.betlv.com^
 ||www.betmonarch.com^
 ||www.betmylines.com^
 ||www.betodds.ag^
@@ -4052,12 +4076,10 @@
 ||www.casinoroom.com^
 ||www.cloudbet.com^
 ||www.crsportsbet.ag^
-||www.csgoluckywheel.com^
 ||www.csgoroll.gg^
 ||www.daftar-klik4d.com^
 ||www.daftarbetplace88.net^
 ||www.dccasino.com^
-||www.debet.com^
 ||www.depositbetplace88.com^
 ||www.depositbetplace88.net^
 ||www.draftkings.com^
@@ -4089,11 +4111,9 @@
 ||www.indycasino.com^
 ||www.injljl.com^
 ||www.japancasino.com^
-||www.jbovietnam.com^
 ||www.jdquest.org^
 ||www.jdsp4825.xyz^
 ||www.jetwin.com^
-||www.jingbets.com^
 ||www.joker123.net^
 ||www.justbet.co^
 ||www.kingkong999.net^
@@ -4103,14 +4123,11 @@
 ||www.klik4dtogel.net^
 ||www.ku777bet.com^
 ||www.kubet.ac^
-||www.kubet.gg^
 ||www.kubet368.com^
-||www.kubet79.me^
 ||www.l69.me^
 ||www.lasvegassportsbetting.com^
 ||www.linesmaker.eu^
 ||www.livesports.ag^
-||www.manclub.vin^
 ||www.marathonbet.co.uk^
 ||www.masuk4d.com^
 ||www.maxbet.id^
@@ -4123,17 +4140,14 @@
 ||www.moneyyellow.com^
 ||www.mpcasino.com^
 ||www.mr.bet^
-||www.mu9.com^
 ||www.mu90.com^
 ||www.nhatvip.net^
 ||www.northbet.com^
 ||www.nova88.com^
-||www.nowbetvn.com^
 ||www.oddsshark.com^
 ||www.offtrackbetting.com^
 ||www.oppa888.com^
 ||www.optibet.lt^
-||www.oxbet.com^
 ||www.paldocrown94.xyz^
 ||www.parimatchplay1.com^
 ||www.phtaya46.link^
@@ -4145,9 +4159,7 @@
 ||www.qq8788.net^
 ||www.redzonesports.bet^
 ||www.registerigkbet.com^
-||www.rik.win^
 ||www.royal77vn.com^
-||www.sbetviet.com^
 ||www.sbobetbola.org^
 ||www.sbojoki.com^
 ||www.sealjl.bar^
@@ -4170,7 +4182,6 @@
 ||www.superbook.ag^
 ||www.sv88.com^
 ||www.tai789.net^
-||www.thabet88.co^
 ||www.thethaofb88.com^
 ||www.tin010.com^
 ||www.topcasino.com^
@@ -4201,7 +4212,6 @@
 ||www.winner.co.uk^
 ||www.ww88club.com^
 ||www.xoso5678.com^
-||www.xoso6.com^
 ||www.z17phwin.cc^
 ||www.zzzhhhhwoog488.cyou^
 ||wymhoki.com^
@@ -4251,6 +4261,7 @@
 ||xoso12345.com^
 ||xoso345.com^
 ||xoso55.com^
+||xoso6.com^
 ||xoso66.info^
 ||xoso66.io^
 ||xoso66.life^
@@ -4262,6 +4273,7 @@
 ||xoso678.com^
 ||xoso788.com^
 ||xoso8811.com^
+||xosobet.com^
 ||xvipwin.info^
 ||yabet.com^
 ||yakocasino.com^
