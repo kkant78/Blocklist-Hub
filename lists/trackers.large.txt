@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - trackers.large
 ! Description: Tracking, analytics, CNAME-cloaked trackers [large]
-! Last modified: 2026-11-24 12:51 UTC
-! Entries: 109456
+! Last modified: 2026-11-25 11:38 UTC
+! Entries: 109477
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0--skitch--0.tt.omtrdc.net^
@@ -5062,7 +5062,6 @@
 ||aqorez.yamo.bio^
 ||aqr.actonservice.com^
 ||aqua.bonavistaleisurescapes.com^
-||ar.allrun.fr^
 ||ar.interiordefine.com^
 ||ar.promo.skf.com^
 ||aragenbio.actonservice.com^
@@ -9307,6 +9306,7 @@
 ||bzbee-lite.tt-qe5.omtrdc.net^
 ||bzees.concurtechnologies.tt.omtrdc.net^
 ||bzees.panduitcorporation.tt.omtrdc.net^
+||bzees.tescomobile.tt.omtrdc.net^
 ||bzemede.accountfcanr.tt.omtrdc.net^
 ||bzero.tt.omtrdc.net^
 ||bzfinance.tt.omtrdc.net^
@@ -11456,6 +11456,7 @@
 ||cdn-origin-awswindows.tt.omtrdc.net^
 ||cdn-origin-awsx.tt.omtrdc.net^
 ||cdn-origin.c1-pmgt.tt.omtrdc.net^
+||cdn-origin.tescomobile.tt.omtrdc.net^
 ||cdn-ou.tt.omtrdc.net^
 ||cdn-owl-ws.tt.omtrdc.net^
 ||cdn-pda.tt.omtrdc.net^
@@ -17221,6 +17222,7 @@
 ||customersjenkinssecure.tt-stage-ci1.omtrdc.net^
 ||customersppe.tt.omtrdc.net^
 ||customersteamlabs.tt.omtrdc.net^
+||customersupport.tescomobile.tt.omtrdc.net^
 ||customersupport93.tt.omtrdc.net^
 ||customersupport98.tt.omtrdc.net^
 ||customersv4-wpdoc-corporate.tt-qe5.omtrdc.net^
@@ -19200,6 +19202,7 @@
 ||desaskins.tt.omtrdc.net^
 ||desassl.tt.omtrdc.net^
 ||desast.tt.omtrdc.net^
+||desc.tescomobile.tt.omtrdc.net^
 ||descarga.veikul.com^
 ||descargamp3bolivia.tt.omtrdc.net^
 ||descargar.telocompro.com.bo^
@@ -19587,6 +19590,7 @@
 ||devbastion02-us-west-2.tt.omtrdc.net^
 ||devbellis.creditcardscom.tt.omtrdc.net^
 ||devbiennier.abc.tt.omtrdc.net^
+||devblog.tescomobile.tt.omtrdc.net^
 ||devblog23.tt.omtrdc.net^
 ||devblue-sftp.ogw.tt.omtrdc.net^
 ||devbotdev.fedex.tt.omtrdc.net^
@@ -21936,6 +21940,7 @@
 ||dkdm03891.tt.omtrdc.net^
 ||dkdm0611psn.tt.omtrdc.net^
 ||dkdm0614psn.tt.omtrdc.net^
+||dkim.tescomobile.tt.omtrdc.net^
 ||dkimg3.grandcircle.tt.omtrdc.net^
 ||dkimport-aut.tt.omtrdc.net^
 ||dkimport-frost.tt.omtrdc.net^
@@ -25350,7 +25355,6 @@
 ||e.unionaidants.fr^
 ||e.upcomers.com^
 ||e.usamedpremium.com^
-||e.usavitamines.com.ua^
 ||e.useembers.com^
 ||e.useeunoia.com.br^
 ||e.userill.dev^
@@ -27398,6 +27402,7 @@
 ||einstein.disney.tt.omtrdc.net^
 ||einstein.marriottownershipres.tt.omtrdc.net^
 ||einstein.paloaltonetworks.tt.omtrdc.net^
+||einstein.tescomobile.tt.omtrdc.net^
 ||einsteincase.covanceinc.tt.omtrdc.net^
 ||einsteincom.northwesternmutual.tt.omtrdc.net^
 ||einsteinhealthcarenetwork.tt-stage3.omtrdc.net^
@@ -29154,6 +29159,7 @@
 ||entitlementservice.3suisses.tt.omtrdc.net^
 ||entitlementservice.floridapowerandlight.tt.omtrdc.net^
 ||entity-service-service.cmhprod1.k8s.tt.omtrdc.net^
+||entity.tescomobile.tt.omtrdc.net^
 ||entitybroker.pultegroup.tt.omtrdc.net^
 ||entitydataservice.homedepotcanada.tt.omtrdc.net^
 ||entkrampft.tt.omtrdc.net^
@@ -30257,6 +30263,7 @@
 ||ets.ni.com^
 ||ets.pylastra.com^
 ||ets.tt.omtrdc.net^
+||ettrajectories.tescomobile.tt.omtrdc.net^
 ||etvpn2.aglenergy.tt.omtrdc.net^
 ||etzn.molinoycata.com^
 ||eu-1.accountacceptatie-db2-corp.tt-stage3.omtrdc.net^
@@ -31262,6 +31269,7 @@
 ||experience.aifsabroad.com^
 ||experience.jcu.edu.au^
 ||experience.limelight.com^
+||experience.rochesterregional.org^
 ||experience.rsm.com.au^
 ||experticity.tt.omtrdc.net^
 ||experts.actonservice.com^
@@ -31755,7 +31763,6 @@
 ||f.red-dot.capital^
 ||f.redecredauto.com.br^
 ||f.rently.com.ar^
-||f.revershero.com^
 ||f.revotas.com^
 ||f.rezora.io^
 ||f.rilu.cl^
@@ -35640,7 +35647,6 @@
 ||fun.tt.omtrdc.net^
 ||func06.tt.omtrdc.net^
 ||func3.prisacom.tt.omtrdc.net^
-||fundaciongruposocial.tt.omtrdc.net^
 ||fundemini.tt.omtrdc.net^
 ||funfunfun.tt.omtrdc.net^
 ||funklesnood.tt.omtrdc.net^
@@ -37674,6 +37680,7 @@
 ||get.pulsega.me^
 ||get.qapital.com^
 ||get.recolor.info^
+||get.reward.me^
 ||get.riyazapp.com^
 ||get.roomiapp.com^
 ||get.sakay.ph^
@@ -38269,6 +38276,7 @@
 ||github.scadmin.tt.omtrdc.net^
 ||github.sites.tt.omtrdc.net^
 ||github.temping-amagramer.tt.omtrdc.net^
+||github.tescomobile.tt.omtrdc.net^
 ||github.tsbuk.tt.omtrdc.net^
 ||github.vivastreet.tt.omtrdc.net^
 ||github0-07.tt.omtrdc.net^
@@ -38816,6 +38824,7 @@
 ||go.air-electra.co.il^
 ||go.alpha.avant.com^
 ||go.alphaapp.sharekey.com^
+||go.anifox.net^
 ||go.app.sharekey.com^
 ||go.art-magazine.ai^
 ||go.asian.mingle.com^
@@ -39057,6 +39066,7 @@
 ||go.qwt.tt.omtrdc.net^
 ||go.rakuten.com^
 ||go.rate.sh^
+||go.ratengoods.com^
 ||go.real.co^
 ||go.rtafleet.com^
 ||go.russia.innovatedating.com^
@@ -39542,6 +39552,7 @@
 ||gosoapbox.lib.tt.omtrdc.net^
 ||gosoapbox2.sites2.tt.omtrdc.net^
 ||gosonar.deltadentalca.tt.omtrdc.net^
+||gosonar.tescomobile.tt.omtrdc.net^
 ||gosonar.tractorsupply.tt.omtrdc.net^
 ||gosp.nexxascreen.com^
 ||gospelnerd.tt.omtrdc.net^
@@ -39807,6 +39818,7 @@
 ||gr.report.genuinepartscompany.tt.omtrdc.net^
 ||gr.sa.np-int.tt.omtrdc.net^
 ||gr.ssl.sc.tt.omtrdc.net^
+||gr.tescomobile.tt.omtrdc.net^
 ||gr.tt.omtrdc.net^
 ||gr1.e.tt.omtrdc.net^
 ||gr1.gds.tt.omtrdc.net^
@@ -44861,6 +44873,7 @@
 ||hypergate.tt.omtrdc.net^
 ||hyperion-112qual.tt.omtrdc.net^
 ||hyperion.bronx-va.tt.omtrdc.net^
+||hyperion.tescomobile.tt.omtrdc.net^
 ||hyperiontest2.accountcatalogue.tt.omtrdc.net^
 ||hyperledger.peekundcloppenburg.tt.omtrdc.net^
 ||hypermint.thevanguardgroup.tt.omtrdc.net^
@@ -45671,6 +45684,7 @@
 ||idvm-infk-jhromkov02.inf.tt.omtrdc.net^
 ||idweekjournal.tt.omtrdc.net^
 ||idx.canadapost.tt.omtrdc.net^
+||idx.lat^
 ||idxms-fs.tt.omtrdc.net^
 ||idz1qclmcra-pndixymrimt.adminhosting.accountchef-api-backup-s3-cache-production.tt.omtrdc.net^
 ||idzdev.tt.omtrdc.net^
@@ -46381,6 +46395,7 @@
 ||img3pma.123ie.tt.omtrdc.net^
 ||img3r.traderinteractive.tt.omtrdc.net^
 ||img3ra.absa.tt.omtrdc.net^
+||img3ra.tescomobile.tt.omtrdc.net^
 ||img3s.scholasticinc.tt.omtrdc.net^
 ||img3swang.thevanguardgroup.tt.omtrdc.net^
 ||img3yfu.christianacare.tt.omtrdc.net^
@@ -53098,6 +53113,7 @@
 ||kwsredash-sdk.kibana.tt.omtrdc.net^
 ||kww83.jamf.tt.omtrdc.net^
 ||kww83mww.jamf.tt.omtrdc.net^
+||kx.bookclubs.com^
 ||kxtqgp.mistermenuiserie.com^
 ||kyc.usend.com^
 ||kyloepartners.actonservice.com^
@@ -54104,6 +54120,7 @@
 ||link.clever.menu^
 ||link.clickipo.com^
 ||link.clubmanagergame.com^
+||link.cluno.com^
 ||link.cofyz.com^
 ||link.collectivebenefits.com^
 ||link.conio.com^
@@ -54355,6 +54372,7 @@
 ||link.news.clearpay.co.uk^
 ||link.news.goeuro.com^
 ||link.newsbeast.gr^
+||link.newspicks.us^
 ||link.nextaveapp.com^
 ||link.nextlevelsports.com^
 ||link.nilclub.com^
@@ -54445,6 +54463,7 @@
 ||link.sluv.org^
 ||link.smallcase.com^
 ||link.smartrbuyer.com^
+||link.smile.com.au^
 ||link.smokeandsoda.com^
 ||link.snapfeet.io^
 ||link.snaphabit.app^
@@ -54987,7 +55006,6 @@
 ||lndata.labor.md.gov^
 ||lnday.sinclair.edu^
 ||lni.finom.co^
-||lnjiwo.manzara.sk^
 ||lnk-stg.welthee.com^
 ||lnk-test.jointakeoff.com^
 ||lnk.christmaslistapp.com^
@@ -60208,7 +60226,6 @@
 ||load.metrics.every-wish.co.uk^
 ||load.metrics.everywish.be^
 ||load.metrics.everywish.de^
-||load.metrics.everywish.fr^
 ||load.metrics.expobook.com^
 ||load.metrics.fahrsicherheit-wiesing.at^
 ||load.metrics.fardotter.com^
@@ -61402,7 +61419,6 @@
 ||load.securedata.chicnery.com^
 ||load.securedata.crovaya.com^
 ||load.securedata.eco-worthy.com^
-||load.securedata.eu.speediance.com^
 ||load.securedata.futario.com^
 ||load.securedata.ginariel.com^
 ||load.securedata.liserie.com^
@@ -69261,6 +69277,7 @@
 ||marketing.carlisleit.com^
 ||marketing.celayix.com^
 ||marketing.challengemyteam.co.uk^
+||marketing.charliebaggsinc.com^
 ||marketing.ciandt.com^
 ||marketing.circadence.com^
 ||marketing.citycollege.edu^
@@ -83057,6 +83074,7 @@
 ||rsptrackerstg-as.tt.omtrdc.net^
 ||rsra-ph.cdn-fileserver.com^
 ||rsra.cdn-fileserver.com^
+||rsras-ph.cdn-fileserver.com^
 ||rsras.cdn-fileserver.com^
 ||rss.converse.tt.omtrdc.net^
 ||rss2.tezjobs.tt.omtrdc.net^
@@ -84558,6 +84576,7 @@
 ||secure.misc1bulk.com^
 ||secure.moat4shot.com^
 ||secure.mobile.luckia.tt.omtrdc.net^
+||secure.mon-com-01.com^
 ||secure.mown5gaze.com^
 ||secure.mtrustcompany.tt.omtrdc.net^
 ||secure.navy9gear.com^
@@ -89981,7 +90000,6 @@
 ||t.isavisa.com^
 ||t.ishiring.id^
 ||t.iso26262.academy^
-||t.iswatersafetodrink.in^
 ||t.itsdeducted.com^
 ||t.iwoszapar.com^
 ||t.jaapelst.nl^
@@ -90480,6 +90498,7 @@
 ||t.pulspid.cz^
 ||t.puplin.com.br^
 ||t.qarv.co^
+||t.qitech.de^
 ||t.qkly.co^
 ||t.qoomet.com^
 ||t.qouva.com^
@@ -91689,7 +91708,6 @@
 ||tesco.com.sc.tt.omtrdc.net^
 ||tesco.com.ssl.sc.tt.omtrdc.net^
 ||tescobank.tt.omtrdc.net^
-||tescomobile.tt.omtrdc.net^
 ||tescopersonalfinance.tt.omtrdc.net^
 ||tescosalesreport.tt.omtrdc.net^
 ||tescostoresltd-enterpriseenrollment.tt.omtrdc.net^
@@ -93241,6 +93259,7 @@
 ||touchdown-metrics.tt.omtrdc.net^
 ||touchme4.makrief.tt.omtrdc.net^
 ||touchonfeel.tt.omtrdc.net^
+||touchpointeca.tescomobile.tt.omtrdc.net^
 ||touchstorm-1.tt.omtrdc.net^
 ||touchstorm-tv.sites.tt.omtrdc.net^
 ||touchtown.actonservice.com^
@@ -94829,7 +94848,6 @@
 ||trk.cz.business.westernunion.com^
 ||trk.e.underarmour.com^
 ||trk.elq.mcphersonoil.com^
-||trk.en-cz.business.westernunion.com^
 ||trk.en.business.westernunion.it^
 ||trk.engie-homeservices.fr^
 ||trk.fieldandmain.com^
@@ -100399,6 +100417,7 @@
 ||vo.tt.omtrdc.net^
 ||vodacomdls.tt.omtrdc.net^
 ||vodafonecomprod.tt.omtrdc.net^
+||vodafoneespanasa.tt.omtrdc.net^
 ||vodafoneghana.tt.omtrdc.net^
 ||vodafonehu.tt.omtrdc.net^
 ||vodafonelimited.tt.omtrdc.net^
@@ -102980,6 +102999,7 @@
 ||wieliczka-virus.praca.tt.omtrdc.net^
 ||wielkopolskie-outlet.ads.tt.omtrdc.net^
 ||wiener.cns.tt.omtrdc.net^
+||wienerbergerag.tt.omtrdc.net^
 ||wieng421.tt.omtrdc.net^
 ||wiernipolsce1.tt.omtrdc.net^
 ||wifime02.tt.omtrdc.net^
@@ -109413,6 +109433,7 @@
 ||zstsvc.fmrcorp.tt.omtrdc.net^
 ||zsysnf5thp9u8kenifigyeuz.tt.omtrdc.net^
 ||zt.abbviecommercial.tt.omtrdc.net^
+||zt.maydos.tescomobile.tt.omtrdc.net^
 ||zt00620.admins1.accountfcanr.tt.omtrdc.net^
 ||zt00621.admins1.accountfcanr.tt.omtrdc.net^
 ||zt05052.adminhosting.accountart-of-falco.tt-qe-ci1.omtrdc.net^

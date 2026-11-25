@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - trackers.small
 ! Description: Tracking, analytics, CNAME-cloaked trackers [small]
-! Last modified: 2026-11-24 12:51 UTC
-! Entries: 40847
+! Last modified: 2026-11-25 11:38 UTC
+! Entries: 40876
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.net.easyjet.com^
@@ -5065,6 +5065,7 @@
 ||analytics-zone-1.api.leadfamly.com^
 ||analytics.1800contacts.com^
 ||analytics.30m.com^
+||analytics.3c5.com^
 ||analytics.academy.com^
 ||analytics.ad.daum.net^
 ||analytics.adam.page^
@@ -5166,6 +5167,7 @@
 ||analytics.designspiration.com^
 ||analytics.deutscher-apotheker-verlag.de^
 ||analytics.dev.htmedia.in^
+||analytics.did.kr^
 ||analytics.directenergy.ca^
 ||analytics.directenergy.com^
 ||analytics.discountpowertx.com^
@@ -5484,6 +5486,7 @@
 ||analytics.visible.com^
 ||analytics.vixcloud.co^
 ||analytics.vk.asahi.co.jp^
+||analytics.vortexscans.com^
 ||analytics.warnertv.fr^
 ||analytics.wask.co^
 ||analytics.wavebox.io^
@@ -5672,6 +5675,7 @@
 ||api.gameanalytics.com^
 ||api.gimbal.com^
 ||api.june.so^
+||api.melonity.gg^
 ||api.mixpanel.com^
 ||api.reproio.com^
 ||api.rudderstack.com^
@@ -7270,6 +7274,7 @@
 ||beacon.securestudies.com^
 ||beacon.taboola.com^
 ||beacon.vertebrae-axis.com^
+||beacon.webpresence.work^
 ||beacon.ztgame.com^
 ||beacons-prod.fubo.tv^
 ||beacons.ads.fubo.tv^
@@ -9245,6 +9250,7 @@
 ||counter.webmart.de^
 ||counter.websitevoice.com^
 ||counter.yadro.ru^
+||counter247.live^
 ||counters.freewebs.com^
 ||counters.libertaddigital.com^
 ||countvoncount.goguardian.com^
@@ -12714,6 +12720,7 @@
 ||fahmta.polishexpress.co.uk^
 ||fahmta.racefans.net^
 ||fahmta.theaa.com^
+||fairdatacenter.de^
 ||fairfeeling.com^
 ||fairygaze.com^
 ||faithrowold.com^
@@ -13179,6 +13186,7 @@
 ||friendlyfold.com^
 ||friends.hyll.com^
 ||frog.editorx.com^
+||frogator.com^
 ||froglytics.eventfrog.ch^
 ||fromhttptohttps.atea.fi^
 ||frontierconsul02.tsunagaru-office.com^
@@ -13220,7 +13228,6 @@
 ||fudezz.kompasiana.com^
 ||fudezz.motorplus-online.com^
 ||fudezz.sonora.id^
-||fuelfever.net^
 ||fuelreaction.com^
 ||fufbgj.pazzo.com.tw^
 ||fufoir.aif.ru^
@@ -13317,6 +13324,7 @@
 ||g792337343.co^
 ||g8715710740.co^
 ||g8913795075.co^
+||g9111879410.co^
 ||g993dvyzae.branch.salesfloor.net^
 ||ga-bq-py-1.appspot.com^
 ||ga-tracker-dot-detmir-bonus.appspot.com^
@@ -14238,6 +14246,7 @@
 ||gone.pronhub.fun^
 ||goo-access-analytics.appspot.com^
 ||goodandwild.com^
+||goodfoodtours.com^
 ||googleadapis.l.google.com^
 ||googleoptimize-cn.com^
 ||googletagmanager.com^
@@ -14518,6 +14527,7 @@
 ||heartflow.actonservice.com^
 ||hearthow.com^
 ||heatmap.emma.tools^
+||heatmaps.lcisoft.it^
 ||heavydetail.com^
 ||heavyplayground.com^
 ||hej.henriksommerfeld.se^
@@ -16694,7 +16704,7 @@
 ||itservices.ricoh.de^
 ||itservices.ricoh.ie^
 ||itservices.ricoh.no^
-||itsmatchtime.com^
+||itsstats.wp1.site^
 ||itt.enterprises.proximus.com^
 ||itznub.gap.co.uk^
 ||iujeaa.menz-style.com^
@@ -22517,7 +22527,6 @@
 ||meylercapital.actonservice.com^
 ||meypeg.videdressing.com^
 ||mfamcw.sodexobeneficios.com.br^
-||mfd.myfirstdressing.com^
 ||mff.messefrankfurt.com^
 ||mfmkkv.sorgenia.it^
 ||mfrmls.actonservice.com^
@@ -22535,6 +22544,7 @@
 ||mgn.ebis.xn--olsz5f0ufw02b.net^
 ||mgntat.mno.link^
 ||mgptul.finson.com^
+||mgs123.com^
 ||mgt7.madeindesign.it^
 ||mh9qqwotr890.koelewijn.nl^
 ||mhauev.glasses.com^
@@ -22741,6 +22751,7 @@
 ||mobilelog.upqzfile.com^
 ||mobiletest.aspensnowmass.com^
 ||mobilize.tupinambaenergia.com.br^
+||mobuppsweb.online^
 ||mobwars.kano.link^
 ||modifiedchaos.com^
 ||modularmental.com^
@@ -27115,6 +27126,7 @@
 ||secure.burn5tilt.com^
 ||secure.businessintuition247.com^
 ||secure.bux1le001.com^
+||secure.cage6west.com^
 ||secure.care5alea.com^
 ||secure.cart8draw.com^
 ||secure.cast9half.com^
@@ -27283,6 +27295,7 @@
 ||secure.mill8grip.com^
 ||secure.misc1bulk.com^
 ||secure.moat4shot.com^
+||secure.mon-com-01.com^
 ||secure.mown5gaze.com^
 ||secure.mycalcas.com^
 ||secure.navy9gear.com^
@@ -27418,6 +27431,7 @@
 ||secure.wivo2gaza.com^
 ||secure.yama1hove.com^
 ||secure.yami8alea.com^
+||secure.yeld9auto.com^
 ||secure.yirr5frog.com^
 ||secure1.desjardinsassurancesgenerales.com^
 ||secure1.desjardinsgeneralinsurance.com^
@@ -27682,6 +27696,7 @@
 ||serendipityecho.com^
 ||serenecascade.com^
 ||serenepebble.com^
+||serenesurf.com^
 ||serenezenith.com^
 ||serenezephyr.com^
 ||servcliente.marathon-sports-ec.com^
@@ -28115,6 +28130,7 @@
 ||smeasurement.fcc-fac.ca^
 ||smeasurement.infiniti.ca^
 ||smeasurement.nissan.ca^
+||smelel.icu^
 ||smetc.banfield.com^
 ||smetric.4imprint.com^
 ||smetric.ads.microsoft.com^
@@ -32661,6 +32677,7 @@
 ||stats.betternet.de^
 ||stats.bever.nl^
 ||stats.bholmes.dev^
+||stats.big-boards.com^
 ||stats.bikeschool.co.za^
 ||stats.bildconnect.de^
 ||stats.bimbase.nl^
@@ -32762,6 +32779,7 @@
 ||stats.dashbit.co^
 ||stats.datahjaelp.net^
 ||stats.datamanie.cz^
+||stats.davidickedelivery.com^
 ||stats.davidlms.com^
 ||stats.davydepauw.be^
 ||stats.dawn.md^
@@ -32846,6 +32864,7 @@
 ||stats.fishersci.de^
 ||stats.fishersci.it^
 ||stats.flightsphere.com^
+||stats.flixhq.live^
 ||stats.florianfritz.net^
 ||stats.flowphantom.com^
 ||stats.fomo.com^
@@ -34314,6 +34333,7 @@
 ||t1.stadiumgoods.com^
 ||t1.trex.media^
 ||t2.click.subway.com^
+||t2.t2b.click^
 ||t3e.firstchoice.co.uk^
 ||t4e.sainsburys.co.uk^
 ||t570.wiltonbulletin.com^
@@ -35262,6 +35282,7 @@
 ||toblog.ctobsnssdk.com^
 ||toblog.tobsnssdk.com^
 ||tock.weg.plus^
+||tod99shi.com^
 ||todayintheword.moodybible.org^
 ||toeopa.doutornature.com^
 ||tofusquirrel.com^
@@ -35304,6 +35325,7 @@
 ||toweringanswer.com^
 ||townhouses.woodlea.com.au^
 ||townsquareinteractive.actonservice.com^
+||toxic-writer.xyz^
 ||toysbasics.com^
 ||toytakeover.com^
 ||tp-em.cc^
@@ -35732,7 +35754,6 @@
 ||tr.info.comparadordeprestamos.es^
 ||tr.info.conexancemd.com^
 ||tr.info.conso-expert.fr^
-||tr.info.covid-resistance-bretagne.fr^
 ||tr.info.dentexelans.com^
 ||tr.info.e-leclerc.com^
 ||tr.info.easyviaggio.com^
@@ -36400,6 +36421,7 @@
 ||track.customer.io^
 ||track.deloitte.com^
 ||track.dictionary.com^
+||track.did.kr^
 ||track.digitalriver.com^
 ||track.docusign.ca^
 ||track.docusign.co.uk^
@@ -36526,8 +36548,10 @@
 ||track.storm.mg^
 ||track.strife.com^
 ||track.sunmedia.tv^
+||track.swaptrap.live^
 ||track.tappx.com^
 ||track.td3x.com^
+||track.tel1mekar.com^
 ||track.tenjin.com^
 ||track.tenjin.io^
 ||track.tesiteca.it^
@@ -36597,6 +36621,7 @@
 ||tracker.kantan-access.com^
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
+||tracker.mspy.com^
 ||tracker.mtrtb.com^
 ||tracker.neodatagroup.com^
 ||tracker.nitropay.com^
@@ -36650,6 +36675,7 @@
 ||tracking.academicyear.org^
 ||tracking.accent-technologies.com^
 ||tracking.acceptance.industrial.omron.eu^
+||tracking.adalyser.com^
 ||tracking.adp-iat.adp.ca^
 ||tracking.adp-iat.adp.com^
 ||tracking.adp.ca^
@@ -36773,6 +36799,7 @@
 ||tracking.devoteladies.de^
 ||tracking.dfinsolutions.com^
 ||tracking.digitalid.co.uk^
+||tracking.directservices.it^
 ||tracking.direxion.com^
 ||tracking.dominanteladies.de^
 ||tracking.dr-10.com^
@@ -39585,6 +39612,7 @@
 ||www-104.aig.com^
 ||www-105.aig.com^
 ||www-106.aig.com^
+||www-107.aig.com^
 ||www-109.aig.com^
 ||www-110.aig.com^
 ||www-171.aig.com^
@@ -40441,6 +40469,7 @@
 ||yadtbk.blacks.co.uk^
 ||yagoqv.smartbuyglasses.ca^
 ||yajkhd.supersports.com^
+||yananebibuv.cc^
 ||yatr.ru^
 ||yawxae.footpatrol.com^
 ||yaxedj.vkf-renzel.de^
