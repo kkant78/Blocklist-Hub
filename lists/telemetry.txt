@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - telemetry
 ! Description: Smart TV, Android, Windows telemetry
-! Last modified: 2026-11-24 12:51 UTC
-! Entries: 757
+! Last modified: 2026-11-26 11:23 UTC
+! Entries: 753
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0077777700140002.myhomescreen.tv^
@@ -45,7 +45,6 @@
 ||androidtvlauncherxfe-pa.googleapis.com^
 ||ao.nextlgsdp.com^
 ||api-hub.samsungyosemite.com^
-||api-launcher-em.hismarttv.com^
 ||api.cid.samba.tv^
 ||api.edgeoffer.microsoft.com^
 ||api.euro.hismarttv.com^
@@ -452,7 +451,6 @@
 ||hse24.tvtelemetrie.de^
 ||ht.nextlgsdp.com^
 ||hu.nextlgsdp.com^
-||i-stream.pl^
 ||i.w.inmobi.com^
 ||ibis.lgappstv.com^
 ||id.google.de^
@@ -538,7 +536,6 @@
 ||mr.nextlgsdp.com^
 ||ms.nextlgsdp.com^
 ||msedge.net^
-||msg-em.hismarttv.com^
 ||msntest.serving-sys.com^
 ||mt.nextlgsdp.com^
 ||mu.nextlgsdp.com^
@@ -693,7 +690,6 @@
 ||uks.b.prd.ags.trafficmanager.net^
 ||um.nextlgsdp.com^
 ||umwatsonc.telemetry.microsoft.us^
-||unified-ter-na.hismarttv.com^
 ||uop.umeng.com^
 ||us-api.samsungyosemite.com^
 ||us.ad.lgsmartad.com^
