@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - adult.small
 ! Description: Adult content [small]
-! Last modified: 2026-11-26 11:23 UTC
-! Entries: 48178
+! Last modified: 2026-11-27 11:16 UTC
+! Entries: 48177
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||0.oldgyhogola.com^
@@ -4437,7 +4437,6 @@
 ||belrose.eu^
 ||bemyhole.com^
 ||benbartlettca.com^
-||bend-me-over.com^
 ||bengalisexvideos.com^
 ||bengalivideos.cyou^
 ||bengalixxx.top^

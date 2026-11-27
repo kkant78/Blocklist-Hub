@@ -1,6 +1,6 @@
 ! Title: Blocklist Hub - trackers.small
 ! Description: Tracking, analytics, CNAME-cloaked trackers [small]
-! Last modified: 2026-11-26 11:23 UTC
+! Last modified: 2026-11-27 11:16 UTC
 ! Entries: 40792
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
@@ -5147,6 +5147,7 @@
 ||analytics.conad.it^
 ||analytics.concorsicartoonito.it^
 ||analytics.contentexchange.me^
+||analytics.contents.by-fw.jp^
 ||analytics.convertlanguage.com^
 ||analytics.cookiefirst.dev^
 ||analytics.corusent.com^
@@ -8196,6 +8197,7 @@
 ||cdn.arcstudiopro.com^
 ||cdn.czx5eyk0exbhwp43ya.biz^
 ||cdn.deviceinf.com^
+||cdn.diginetica.net^
 ||cdn.dsspn.com^
 ||cdn.kaizenplatform.net^
 ||cdn.mgln.ai^
@@ -18933,7 +18935,6 @@
 ||lytics.findairpods.com^
 ||lyxfra.shopee.com.my^
 ||lyypsy.unisportstore.se^
-||lz-pub-ads.com^
 ||lzcwbt.schuhcenter.de^
 ||lziqkx.countryoutfitter.com^
 ||lzrhay.farmaciasoccavo.it^
@@ -38813,7 +38814,6 @@
 ||vvqizy.witt-weiden.de^
 ||vwakpz.vidri.com.sv^
 ||vwiind.beautyforever.com^
-||vwonwkaqvq-a.global.ssl.fastly.net^
 ||vwotiw.agazeta.com.br^
 ||vwrgru.happymail.co.jp^
 ||vxcjoz.nextadvisor.com^
