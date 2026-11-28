@@ -1,7 +1,7 @@
 ! Title: Blocklist Hub - scam.small
 ! Description: Scam, fraud, spam, fake shops [small]
-! Last modified: 2026-11-27 11:16 UTC
-! Entries: 78
+! Last modified: 2026-11-28 10:47 UTC
+! Entries: 62
 ! Homepage: https://github.com/kkant78/Blocklist-Hub
 !
 ||602a84.myshopify.com^
@@ -9,63 +9,47 @@
 ||746fr229.com^
 ||aliceblue-alligator-117543.hostingersite.com^
 ||allinstockgmbh.company.site^
+||awsea.eu.cc^
 ||bakta8.myshopify.com^
 ||brenholz-karl.de^
-||brennholz-land.com^
 ||cfd.eliteai-t.com^
 ||charj7.myshopify.com^
 ||chimballsas.com^
-||cmsmanutention.com^
 ||eco-pellet.company.site^
 ||elektro-outlet24.myshopify.com^
 ||erix9.myshopify.com^
-||essorinvexaro.fr^
-||fashionlink.store^
+||fr-totalenergiesinvest.com^
 ||fr.fundiza.com^
-||framezegame.com^
 ||gamer-held.b-cdn.net^
 ||gardensvergen30.myshopify.com^
 ||gardensvergen36.myshopify.com^
-||giro-finance.com^
 ||grunraum.myshopify.com^
 ||gutmahroboter.myshopify.com^
 ||h4g3z1-fake.web.app^
 ||hoeschag.company.site^
 ||immediateeuraxai.org^
-||ipgatetrade.pro^
 ||kleinre.myshopify.com^
 ||larc90.myshopify.com^
 ||liverpoolfestivalgardens.shop^
 ||lkwpetru-shop.com^
 ||lola58.myshopify.com^
 ||lunaxadv.myshopify.com^
-||magasset.com^
-||margissance.fr^
 ||materialde.myshopify.com^
-||mexdkjuf.com^
 ||mf-versandhandel-gmbh.myshopify.com^
 ||miginvestgr.tiiny.site^
-||nflfanaticsstore.com^
-||nicechmk.shop^
 ||nsk-gmbh.myshopify.com^
 ||pellet-bio.company.site^
 ||pellet-ecos.company.site^
 ||playstation-boome.myshopify.com^
 ||pp-handels-gmbh.myshopify.com^
 ||reifendienst-notdienst.jimdosite.com^
-||rostock24.com^
-||secureinvest.org^
-||solarheim.com^
 ||sparfuchs-vergleich.base44.app^
 ||spontaneous-bubblegum-6d5740.netlify.app^
 ||sunsoilshop.myshopify.com^
+||tandexo.com^
 ||temp-dxvrqxhirzbigzysagqp.webadorsite.com^
 ||the-garden-pavilions-of-sobranie-russian.eshop.t-online.de^
-||trade.republicgestion.com^
-||udbroker.com^
 ||webtrader.quantiumax.net^
-||werkelio.de^
-||wikfinal.shop^
 ||wilhelm-daume-gmbh.myshopify.com^
 ||www.5fdb2331d9d15.site123.me^
 ||www.bnp-coin.com^
@@ -73,7 +57,6 @@
 ||www.buy-bitcoin.pagedemo.co^
 ||www.elite-patrimoine.com^
 ||www.finetero.com^
-||www.forextrada.com^
 ||www.gravity-market.com^
 ||www.igmholdings.com^
 ||www.lyxorassetmanagement.com^
@@ -82,3 +65,4 @@
 ||www.uniqa-alternatives.com^
 ||www.universaltrade.io^
 ||zabawechtaseba.teachable.com^
+||zaniro.eu.cc^
